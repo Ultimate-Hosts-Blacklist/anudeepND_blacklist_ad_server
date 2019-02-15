@@ -125,11 +125,12 @@ def generate_extra_files():  # pylint: disable=too-many-branches
                         else:
                             if (
                                 domain_availability_check(
-                                    element, config=PYFUNCEBLE_CONFIGURATION_VOLATILE
+                                    "www.{}".format(element),
+                                    config=PYFUNCEBLE_CONFIGURATION_VOLATILE,
                                 ).lower()
                                 == "active"
                             ):
-                                volatile_list.append("www.%s" % element)
+                                volatile_list.append("www.{}".format(element))
                     volatile_list.append(element)
 
         temp_clean_list = Helpers.List(temp_clean_list).format()
@@ -152,11 +153,12 @@ def generate_extra_files():  # pylint: disable=too-many-branches
                     else:
                         if (
                             domain_availability_check(
-                                element, config=PYFUNCEBLE_CONFIGURATION
+                                "www.{}".format(element),
+                                config=PYFUNCEBLE_CONFIGURATION,
                             ).lower()
                             == "active"
                         ):
-                            clean_list.append("www.%s" % element)
+                            clean_list.append("www.{}".format(element))
                 clean_list.append(element)
 
         clean_list = Helpers.List(clean_list).format()
