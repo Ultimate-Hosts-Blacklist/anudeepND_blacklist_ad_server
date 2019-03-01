@@ -208,7 +208,7 @@
         "adgup.com": {
             "epoch": "1551398400",
             "expiration_date": "01-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "adhigh.net": {
             "epoch": "1728950400",
@@ -393,6 +393,11 @@
         "allaboutsearching.com": {
             "epoch": "1575590400",
             "expiration_date": "06-dec-2019",
+            "state": "future"
+        },
+        "allday.in.ua": {
+            "epoch": "1557792000",
+            "expiration_date": "14-may-2019",
             "state": "future"
         },
         "alliance4media.com": {
