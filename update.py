@@ -1268,13 +1268,13 @@ class Helpers:  # pylint: disable=too-few-public-methods
 
 if __name__ == "__main__":
     try:
-        from yaml import dump as yaml_dump
-        from yaml import load as yaml_load
+        from yaml import safe_dump as yaml_dump
+        from yaml import safe_load as yaml_load
     except ModuleNotFoundError:
-        print(Helpers.Command("pip install pyyaml --upgrade").execute())
+        Helpers.Command("pip install pyyaml --upgrade").execute()
 
-        from yaml import dump as yaml_dump
-        from yaml import load as yaml_load
+        from yaml import safe_dump as yaml_dump
+        from yaml import safe_load as yaml_load
 
     if "DEBUG" in environ:
         logging.basicConfig(
