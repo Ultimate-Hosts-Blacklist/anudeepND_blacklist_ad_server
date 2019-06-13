@@ -1074,6 +1074,11 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "bttrack.com": {
+        "epoch": 1577836800,
+        "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
     "btttag.com": {
         "epoch": 1609200000,
         "expiration_date": "29-dec-2020",
@@ -1155,9 +1160,9 @@
         "state": "future"
     },
     "chefrubio.it": {
-        "epoch": 1558828800,
-        "expiration_date": "26-may-2019",
-        "state": "past"
+        "epoch": 1590451200,
+        "expiration_date": "26-may-2020",
+        "state": "future"
     },
     "cherrypimps.rocks": {
         "epoch": 1563235200,
@@ -1332,6 +1337,11 @@
     "consciouschairs.com": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
+        "state": "future"
+    },
+    "constintptr.com": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
         "state": "future"
     },
     "consumable.com": {
@@ -3220,6 +3230,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "permutive.com": {
+        "epoch": 1583193600,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "petametrics.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
@@ -3388,6 +3403,11 @@
     "promobay.org": {
         "epoch": 1562284800,
         "expiration_date": "05-jul-2019",
+        "state": "future"
+    },
+    "protballed.info": {
+        "epoch": 1562630400,
+        "expiration_date": "09-jul-2019",
         "state": "future"
     },
     "provideplant.com": {
@@ -3837,7 +3857,7 @@
     },
     "singular.net": {
         "epoch": 1691539200,
-        "expiration_date": "09-aug-2023",
+        "expiration_date": "19-oct-2021",
         "state": "future"
     },
     "sionicmedia.com": {
@@ -4041,6 +4061,11 @@
         "state": "future"
     },
     "strivesidewalk.com": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "succeedscene.com": {
         "epoch": 1585872000,
         "expiration_date": "03-apr-2020",
         "state": "future"
