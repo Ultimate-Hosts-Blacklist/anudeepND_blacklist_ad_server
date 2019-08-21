@@ -124,6 +124,11 @@
         "expiration_date": "05-jun-2019",
         "state": "past"
     },
+    "apptrknow.com": {
+        "epoch": 1575676800,
+        "expiration_date": "07-dec-2019",
+        "state": "future"
+    },
     "apyoth.com": {
         "epoch": 1593907200,
         "expiration_date": "05-jul-2020",
@@ -847,6 +852,11 @@
     "nighting.info": {
         "epoch": 1593561600,
         "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "normalexchange.com": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "nuclearlytu.info": {
