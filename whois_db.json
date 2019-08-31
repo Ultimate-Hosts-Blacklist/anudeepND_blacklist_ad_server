@@ -1497,7 +1497,7 @@
     "cookieinfoscript.com": {
         "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "copperchickens.com": {
         "epoch": 1584748800,
@@ -1532,6 +1532,11 @@
     "cpm20.com": {
         "epoch": 1595289600,
         "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "cpmstar.com": {
+        "epoch": 1598054400,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "crashlytics.com": {
