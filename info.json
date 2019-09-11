@@ -1,27 +1,18 @@
 {
-    "current_stats": {
-        "builds": 36,
+    "currently_under_test": "0",
+    "days_until_next_test": 1,
+    "end_datetime": "Wed Sep 11 17:06:09 2019",
+    "end_epoch": 1568221569.759122,
+    "last_autosave_datetime": "Wed Sep 11 16:40:37 2019",
+    "last_autosave_epoch": 1568220037.755132,
+    "name": "anudeepND_blacklist_ad_server",
+    "previous_stats": {
+        "builds": 37,
         "counter": {
             "down": 7780,
             "invalid": 8,
             "tested": 35547,
             "up": 27759
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 1,
-    "end_datetime": "Mon Sep  9 04:14:19 2019",
-    "end_epoch": 1568002459.069872,
-    "last_autosave_datetime": "Wed Sep 11 16:40:37 2019",
-    "last_autosave_epoch": 1568220037.755132,
-    "name": "anudeepND_blacklist_ad_server",
-    "previous_stats": {
-        "builds": 22,
-        "counter": {
-            "down": 7710,
-            "invalid": 5,
-            "tested": 35376,
-            "up": 27661
         },
         "volatile.list": 28154,
         "whitelisted.list": 27216
