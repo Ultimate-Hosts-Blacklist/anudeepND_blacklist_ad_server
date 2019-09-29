@@ -3192,7 +3192,7 @@
     "monerominer.rocks": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "mopub.com": {
         "epoch": 1582588800,
@@ -3717,6 +3717,11 @@
     "preferredain.com": {
         "epoch": 1599177600,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "premium-offers.space": {
+        "epoch": 1585958400,
+        "expiration_date": "04-apr-2020",
         "state": "future"
     },
     "presage.io": {
