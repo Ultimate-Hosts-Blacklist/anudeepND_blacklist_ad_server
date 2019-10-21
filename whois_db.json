@@ -1979,10 +1979,15 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "faultyfowl.com": {
+        "epoch": 1584748800,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
     "fearfulflag.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "fedifice-prionald.com": {
         "epoch": 1583625600,
@@ -3627,6 +3632,11 @@
     "qualtrics.com": {
         "epoch": 1601596800,
         "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "quantcast.com": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "quantserve.com": {
