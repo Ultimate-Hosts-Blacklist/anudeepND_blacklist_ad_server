@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 144,
-        "counter": {
-            "down": 16156,
-            "invalid": 0,
-            "tested": 35158,
-            "up": 19002
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Sat Oct 19 10:59:12 2019",
-    "end_epoch": 1571482752.90678,
+    "end_datetime": "Wed Oct 23 06:10:18 2019",
+    "end_epoch": 1571811018.688695,
     "last_autosave_datetime": "Wed Oct 23 05:48:29 2019",
     "last_autosave_epoch": 1571809709.538113,
     "name": "anudeepND_blacklist_ad_server",
     "previous_stats": {
-        "builds": 18,
-        "clean.list": 19076,
+        "builds": 145,
+        "clean.list": 19124,
         "counter": {
-            "down": 16459,
+            "down": 16411,
             "invalid": 0,
             "tested": 35535,
-            "up": 19076
+            "up": 19124
         },
         "domains.list": 35535,
-        "volatile.list": 19076,
-        "whitelisted.list": 19076
+        "volatile.list": 19124,
+        "whitelisted.list": 19124
     },
     "raw_link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
     "start_datetime": "Sun Oct 20 19:35:57 2019",
