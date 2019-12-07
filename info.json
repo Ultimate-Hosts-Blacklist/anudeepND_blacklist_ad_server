@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 39,
+        "builds": 40,
         "counter": {
-            "down": 181,
+            "down": 202,
             "invalid": 0,
-            "tested": 3689,
-            "up": 3508
+            "tested": 4258,
+            "up": 4056
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 1,
     "end_datetime": "Tue Nov 26 20:26:45 2019",
     "end_epoch": 1574800005.90245,
-    "last_autosave_datetime": "Sat Dec  7 21:18:38 2019",
-    "last_autosave_epoch": 1575753518.744019,
+    "last_autosave_datetime": "Sat Dec  7 22:34:33 2019",
+    "last_autosave_epoch": 1575758073.805698,
     "name": "anudeepND_blacklist_ad_server",
     "previous_stats": {
         "builds": 34,
