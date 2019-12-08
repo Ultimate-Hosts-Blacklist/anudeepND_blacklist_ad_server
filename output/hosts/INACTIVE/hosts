@@ -5,6 +5,7 @@
 0.0.0.0 01-exch-lax1.ad.corp.appnexus.com
 0.0.0.0 10310.engine.mobileapptracking.com
 0.0.0.0 11126.engine.mobileapptracking.com
+0.0.0.0 11576.engine.mobileapptracking.com
 0.0.0.0 11722.engine.mobileapptracking.com
 0.0.0.0 1220047983.world
 0.0.0.0 12276.engine.mobileapptracking.com
@@ -43,6 +44,7 @@
 0.0.0.0 70139fj6kf.mentalist.kameleoon.com
 0.0.0.0 881.engine.mobileapptracking.com
 0.0.0.0 9316.engine.mobileapptracking.com
+0.0.0.0 96756.engine.mobileapptracking.com
 0.0.0.0 abandonedclover.com
 0.0.0.0 ab.newsblock.mgid.com
 0.0.0.0 acr35.alphonso.tv
@@ -57,7 +59,9 @@
 0.0.0.0 ads4.vertamedia.com
 0.0.0.0 ads57.vertamedia.com
 0.0.0.0 ads.carbonads.com
+0.0.0.0 adserver.ministryofads.com
 0.0.0.0 adserver-router04-public.prod.vungle.com
+0.0.0.0 adserverrouter29.prod.vungle.com
 0.0.0.0 adsrvmedia.adk2x.com
 0.0.0.0 adzonesocial.go2affise.com
 0.0.0.0 alb.intentmedia.net
@@ -66,6 +70,7 @@
 0.0.0.0 amops.clicktale.net
 0.0.0.0 analyticstest.localytics.com
 0.0.0.0 antinuef.info
+0.0.0.0 anylist-haproxy5.c.appier.net
 0.0.0.0 ap1iad3.lijit.com
 0.0.0.0 api-lb4-vip0.eu.adsymptotic.com
 0.0.0.0 api.prod.env.53.localytics.com
@@ -79,6 +84,7 @@
 0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.adbrain.com
 0.0.0.0 atlassian2.fyber.com
+0.0.0.0 aux-log2-ah.vertamedia.com
 0.0.0.0 aux-log3-sh.vertamedia.com
 0.0.0.0 bathandbodyworks.adlegend.com
 0.0.0.0 bcbb-ams2.rubiconproject.com
@@ -89,6 +95,8 @@
 0.0.0.0 bcpad6.dub.loc.crwdcntrl.net
 0.0.0.0 bcpad7.dub.loc.crwdcntrl.net
 0.0.0.0 bcxdjxlassr.bid
+0.0.0.0 beckham.alphonso.tv
+0.0.0.0 besied.com
 0.0.0.0 beta-editorial.outbrain.com
 0.0.0.0 biz.appsflyer.com
 0.0.0.0 bw-useast-bidder.appd.inmobi.com
@@ -118,15 +126,18 @@
 0.0.0.0 c-vip1.eu.adsymptotic.com
 0.0.0.0 czfavkwdmmpp.bid
 0.0.0.0 d1a6a9r46cnyll.cloudfront.net
+0.0.0.0 d1e0ih91r2lgbn.cloudfront.net
 0.0.0.0 d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 d2qmdcga8xwxzj.cloudfront.net
 0.0.0.0 darriens.adk2x.com
 0.0.0.0 data.api.kaffnet.com
 0.0.0.0 dco-useast.quantserve.com
 0.0.0.0 delightdriving.com
+0.0.0.0 dev.adsymptotic.com
 0.0.0.0 diagnostics-lp.inmobi.com
 0.0.0.0 digivinta137.club
 0.0.0.0 dillards.btttag.com
+0.0.0.0 dn25.kissmetrics.com
 0.0.0.0 dqusbshqrtv.bid
 0.0.0.0 dspdash.rubiconproject.com
 0.0.0.0 dsp-pixel.contextweb.com
@@ -141,6 +152,7 @@
 0.0.0.0 fe6x.brandreachsys.com
 0.0.0.0 fra-lb7.eu.adsymptotic.com
 0.0.0.0 fra-lb9.eu.adsymptotic.com
+0.0.0.0 fwfgbhjhnlkv.com
 0.0.0.0 games.mgid.com
 0.0.0.0 get.addthis.com
 0.0.0.0 guardedgovernor.com
@@ -154,6 +166,7 @@
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 im.5b790f00.8039ad1.ads.a4cdn.contentabc.com
+0.0.0.0 im.5b790f00.b3ffbc0.ads.a4cdn.contentabc.com
 0.0.0.0 images-geo.outbrain.com
 0.0.0.0 img-2.3lift.com
 0.0.0.0 infrastructure-graphite-8ae8573.use.dynamicyield.com
@@ -192,6 +205,7 @@
 0.0.0.0 notifications-a1.veinteractive.com
 0.0.0.0 nqs-euc-c1.youboranqs01.com
 0.0.0.0 ns1.contextweb.com
+0.0.0.0 n.shwclk.com
 0.0.0.0 nyla.outbrain.com
 0.0.0.0 okeyletsgo.ml
 0.0.0.0 one.advertising.com
@@ -313,11 +327,13 @@
 0.0.0.0 www.balancebreath.com
 0.0.0.0 www.bcxdjxlassr.bid
 0.0.0.0 www.beamincrease.com
+0.0.0.0 www.besied.com
 0.0.0.0 www.bestadbid.com
 0.0.0.0 www.bestshockers.com
 0.0.0.0 www.bhcumsc.com
 0.0.0.0 www.bigsharkmedia.com
 0.0.0.0 www.breezybath.com
+0.0.0.0 www.broadboundary.com
 0.0.0.0 www.broadcastbed.com
 0.0.0.0 www.cdn.adsnative.com
 0.0.0.0 www.cdnpoc.clicktale.net
@@ -332,6 +348,7 @@
 0.0.0.0 www.critictruck.com
 0.0.0.0 www.czfavkwdmmpp.bid
 0.0.0.0 www.d1a6a9r46cnyll.cloudfront.net
+0.0.0.0 www.d1e0ih91r2lgbn.cloudfront.net
 0.0.0.0 www.d1hm0uxglt4t41.cloudfront.net
 0.0.0.0 www.d1zkodo2u3p4pe.cloudfront.net
 0.0.0.0 www.d2n2xdxvkri1jk.cloudfront.net
@@ -362,6 +379,7 @@
 0.0.0.0 www.floodprincipal.com
 0.0.0.0 www.foamybox.com
 0.0.0.0 www.futuristicfairies.com
+0.0.0.0 www.fwfgbhjhnlkv.com
 0.0.0.0 www.games.mgid.com
 0.0.0.0 www.gebadu.com
 0.0.0.0 www.get.addthis.com
@@ -376,6 +394,7 @@
 0.0.0.0 www.healthtrk1.com
 0.0.0.0 www.hexagon-analytics.com
 0.0.0.0 www.hfc195b.com
+0.0.0.0 www.hm732.com
 0.0.0.0 www.hxlkmsib.bid
 0.0.0.0 www.igexin.com
 0.0.0.0 www.innocentwax.com
@@ -399,6 +418,7 @@
 0.0.0.0 www.loudlunch.com
 0.0.0.0 www.lukir.info
 0.0.0.0 www.meet754seeuye.info
+0.0.0.0 www.messagenovice.com
 0.0.0.0 www.metricfast.com
 0.0.0.0 www.mitewerbi.pw
 0.0.0.0 www.mixedreading.com
@@ -409,11 +429,13 @@
 0.0.0.0 www.nnrcjzith.bid
 0.0.0.0 www.offertraff.com
 0.0.0.0 www.okeyletsgo.ml
+0.0.0.0 www.organicalews.info
 0.0.0.0 www.ovalpigs.com
 0.0.0.0 www.paupervice.club
 0.0.0.0 www.piquantpigs.com
 0.0.0.0 www.polarcdn-terrax.com
 0.0.0.0 www.presetrabbits.com
+0.0.0.0 www.profitrumour.com
 0.0.0.0 www.pro-market.net
 0.0.0.0 www.pubmine.com
 0.0.0.0 www.pushame.com
@@ -425,9 +447,11 @@
 0.0.0.0 www.roboinside.me
 0.0.0.0 www.roughted.com
 0.0.0.0 www.rtr21adc.download
+0.0.0.0 www.runlikea.pro
 0.0.0.0 www.runmewivel.com
 0.0.0.0 www.saysidewalk.com
 0.0.0.0 www.sbscribeme.com
+0.0.0.0 www.scrubsky.com
 0.0.0.0 www.scrubswim.com
 0.0.0.0 www.serv1.vizury.com
 0.0.0.0 www.shakytaste.com
@@ -441,6 +465,7 @@
 0.0.0.0 www.startup.inmobi.com
 0.0.0.0 www.storesurprise.com
 0.0.0.0 www.succeedscene.com
+0.0.0.0 www.sugarcurtain.com
 0.0.0.0 www.templates.unbounce.com
 0.0.0.0 www.terribleturkey.com
 0.0.0.0 www.tiqcdn.com
