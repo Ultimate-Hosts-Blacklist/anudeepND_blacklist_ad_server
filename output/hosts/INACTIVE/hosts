@@ -3,6 +3,7 @@
 
 0.0.0.0 012.2o7.net
 0.0.0.0 01-exch-lax1.ad.corp.appnexus.com
+0.0.0.0 10112.engine.mobileapptracking.com
 0.0.0.0 10310.engine.mobileapptracking.com
 0.0.0.0 11126.engine.mobileapptracking.com
 0.0.0.0 11576.engine.mobileapptracking.com
@@ -72,6 +73,7 @@
 0.0.0.0 admarsai.com
 0.0.0.0 admin-stg.revcontent.com
 0.0.0.0 admtpmp127.adk2x.com
+0.0.0.0 ads101.adtelligent.com
 0.0.0.0 ads103.vertamedia.com
 0.0.0.0 ads104.vertamedia.com
 0.0.0.0 ads109.vertamedia.com
@@ -86,6 +88,7 @@
 0.0.0.0 adsrvmedia.adk2x.com
 0.0.0.0 ads-west-colo.adsymptotic.com
 0.0.0.0 adtracker.inmobi.com
+0.0.0.0 advertisersapi.doubleclick.net
 0.0.0.0 adzonesocial.go2affise.com
 0.0.0.0 alb.intentmedia.net
 0.0.0.0 alkdmsxs.bid
@@ -97,6 +100,7 @@
 0.0.0.0 antinuef.info
 0.0.0.0 anylist-haproxy5.c.appier.net
 0.0.0.0 ap1iad3.lijit.com
+0.0.0.0 api-ads44.eu.adsymptotic.com
 0.0.0.0 api.connatix.com
 0.0.0.0 api-eu-west-1.adsnative.com
 0.0.0.0 api-lb4-vip0.eu.adsymptotic.com
@@ -164,15 +168,18 @@
 0.0.0.0 cm027.getui.igexin.com
 0.0.0.0 cm035.getui.igexin.com
 0.0.0.0 cm045.getui.igexin.com
+0.0.0.0 cmi.ironbeast.io
 0.0.0.0 cm.ksmobile.com
 0.0.0.0 co4.telecommand.telemetry.microsoft.com
 0.0.0.0 cohorts.appsflyer.com
 0.0.0.0 commoncannon.com
 0.0.0.0 compatexchange.cloudapp.net
+0.0.0.0 config.ironbeast.io
 0.0.0.0 configorigin-v-e1.veinteractive.com
 0.0.0.0 content-acceptance.sharethrough.com
 0.0.0.0 content-staging.sharethrough.com
 0.0.0.0 convdb.buysellads.com
+0.0.0.0 crowd.rubiconproject.com
 0.0.0.0 cs.ace.advertising.com
 0.0.0.0 c.t.inmobi.com
 0.0.0.0 curiositystream.adlegend.com
@@ -188,6 +195,7 @@
 0.0.0.0 dco-useast.quantserve.com
 0.0.0.0 delightdriving.com
 0.0.0.0 deliveredby.connectad.io
+0.0.0.0 demandbase.demandbase.com
 0.0.0.0 demobox.teads.tv
 0.0.0.0 dev.adsymptotic.com
 0.0.0.0 diagnostics-lp.inmobi.com
@@ -200,6 +208,7 @@
 0.0.0.0 dsp-pixel.contextweb.com
 0.0.0.0 dsqa2.contextweb.com
 0.0.0.0 e.ai.inmobi.com
+0.0.0.0 east-s2s.1rx.io
 0.0.0.0 eb.3lift.com
 0.0.0.0 ebaydev.infiniteanalytics.com
 0.0.0.0 ebayprod.infiniteanalytics.com
@@ -218,9 +227,11 @@
 0.0.0.0 games.mgid.com
 0.0.0.0 get.addthis.com
 0.0.0.0 gocurrency.goforandroid.com
+0.0.0.0 gonomy.info
 0.0.0.0 go.vemba.com
 0.0.0.0 guardedgovernor.com
 0.0.0.0 guitarbelieve.com
+0.0.0.0 hawking.datafirst.io
 0.0.0.0 head.alfa.smartlook.com
 0.0.0.0 healthtrk1.com
 0.0.0.0 heatmap-02.kameleoon.com
@@ -234,6 +245,7 @@
 0.0.0.0 im.5b790f00.b3ffbc0.ads.a4cdn.contentabc.com
 0.0.0.0 images-geo.outbrain.com
 0.0.0.0 img-2.3lift.com
+0.0.0.0 inapp.districtm.io
 0.0.0.0 infrastructure-graphite-8ae8573.use.dynamicyield.com
 0.0.0.0 insight.omtrdc.net
 0.0.0.0 integration.connatix.com
@@ -256,6 +268,8 @@
 0.0.0.0 logos.outbrain.com
 0.0.0.0 log.thevideo.me
 0.0.0.0 lukir.info
+0.0.0.0 lunkydkokpg.bid
+0.0.0.0 marketingd.modcloth.com
 0.0.0.0 maxcdn.quantserve.com
 0.0.0.0 mayadana.adk2x.com
 0.0.0.0 mbe-cdn-rtb.fyber.com
@@ -277,6 +291,7 @@
 0.0.0.0 nbrmungojjggt.bid
 0.0.0.0 net-am1.casalemedia.com
 0.0.0.0 newsmax.cdn.adsnative.com
+0.0.0.0 nexus-us.ensighten.com
 0.0.0.0 nl.eu.criteo.com
 0.0.0.0 nnrcjzith.bid
 0.0.0.0 notifications-a1.veinteractive.com
@@ -301,8 +316,10 @@
 0.0.0.0 o.xoxknct.com
 0.0.0.0 p-apac.adsymptotic.com
 0.0.0.0 pc1-visitor-service.tealiumiq.com
+0.0.0.0 platform.adbrain.com
 0.0.0.0 p-lb12.eu.adsymptotic.com
 0.0.0.0 pop.blockadblock.com
+0.0.0.0 pr-a.adtechus.com
 0.0.0.0 prclick.inmobi.com
 0.0.0.0 promo4.brandreachsys.com
 0.0.0.0 proxy.dynamicyield.com
@@ -343,7 +360,9 @@
 0.0.0.0 sgsdata.adtechus.com
 0.0.0.0 shelterstraw.com
 0.0.0.0 show-sg1.c.appier.net
+0.0.0.0 show-sg5.c.appier.net
 0.0.0.0 simplisticnose.com
+0.0.0.0 sirian.dumedia.ru
 0.0.0.0 sjc-ads-weighted.contextweb.com
 0.0.0.0 sl4.clicktale.net
 0.0.0.0 sl6.clicktale.net
@@ -393,6 +412,7 @@
 0.0.0.0 uploads.contextweb.com
 0.0.0.0 us-east1.serve.elixmedia.com
 0.0.0.0 uxamhbifcl.mentalist.kameleoon.com
+0.0.0.0 v2asr-54-152-198-0.prod.vungle.com
 0.0.0.0 vap5sjc1.lijit.com
 0.0.0.0 vast-rtb3.vertamedia.com
 0.0.0.0 vast-rtb4.vertamedia.com
@@ -422,6 +442,7 @@
 0.0.0.0 www.alkdmsxs.bid
 0.0.0.0 www.am1-h-api.online-metrix.net
 0.0.0.0 www.antinuef.info
+0.0.0.0 www.anxiousapples.com
 0.0.0.0 www.apolloprogram.io
 0.0.0.0 www.appboy-images.com
 0.0.0.0 www.appfly.mobi
@@ -438,6 +459,7 @@
 0.0.0.0 www.bcxdjxlassr.bid
 0.0.0.0 www.beamincrease.com
 0.0.0.0 www.beamkite.com
+0.0.0.0 www.becanium.com
 0.0.0.0 www.besied.com
 0.0.0.0 www.bestadbid.com
 0.0.0.0 www.bestshockers.com
@@ -462,6 +484,7 @@
 0.0.0.0 www.critictruck.com
 0.0.0.0 www.cutecushion.com
 0.0.0.0 www.czfavkwdmmpp.bid
+0.0.0.0 www.d14qd3he45186l.cloudfront.net
 0.0.0.0 www.d1a6a9r46cnyll.cloudfront.net
 0.0.0.0 www.d1e0ih91r2lgbn.cloudfront.net
 0.0.0.0 www.d1hm0uxglt4t41.cloudfront.net
@@ -473,6 +496,7 @@
 0.0.0.0 www.d3c3cq33003psk.cloudfront.net
 0.0.0.0 www.d3f5pyioow99x0.cloudfront.net
 0.0.0.0 www.d3hprka3kr08q2.cloudfront.net
+0.0.0.0 www.d5nxst8fruw4z.cloudfront.net
 0.0.0.0 www.dapxl.com
 0.0.0.0 www.decisivedrawer.com
 0.0.0.0 www.decisiveducks.com
@@ -483,6 +507,7 @@
 0.0.0.0 www.digivinta137.club
 0.0.0.0 www.dk4ywix.com
 0.0.0.0 www.dk9ps7goqoeef.cloudfront.net
+0.0.0.0 www.dodowind.com
 0.0.0.0 www.doebase1089.club
 0.0.0.0 www.doubleclick6.xyz
 0.0.0.0 www.doubtfulrainstorm.com
@@ -493,10 +518,13 @@
 0.0.0.0 www.elasticchange.com
 0.0.0.0 www.elephantqueue.com
 0.0.0.0 www.emxdgt.com
+0.0.0.0 www.eoredi.com
 0.0.0.0 www.es.unbounce.com
 0.0.0.0 www.ethikuma.link
 0.0.0.0 www.exdynsrv.com
+0.0.0.0 www.exercially.mobi
 0.0.0.0 www.expresscashback.in
+0.0.0.0 www.faultycanvas.com
 0.0.0.0 www.fedsit.com
 0.0.0.0 www.floodprincipal.com
 0.0.0.0 www.foamybox.com
@@ -508,6 +536,7 @@
 0.0.0.0 www.gebadu.com
 0.0.0.0 www.get.addthis.com
 0.0.0.0 www.go-mpulse.net
+0.0.0.0 www.gonomy.info
 0.0.0.0 www.gotpd.me
 0.0.0.0 www.grandonmedia.com
 0.0.0.0 www.greetzebra.com
@@ -547,10 +576,12 @@
 0.0.0.0 www.loudloss.com
 0.0.0.0 www.loudlunch.com
 0.0.0.0 www.lukir.info
+0.0.0.0 www.lunkydkokpg.bid
 0.0.0.0 www.media4.adlegend.com
 0.0.0.0 www.meet754seeuye.info
 0.0.0.0 www.messagenovice.com
 0.0.0.0 www.metricfast.com
+0.0.0.0 www.ministedik.info
 0.0.0.0 www.mitewerbi.pw
 0.0.0.0 www.mixedreading.com
 0.0.0.0 www.mobileapptracking.com
@@ -570,12 +601,16 @@
 0.0.0.0 www.oursplce.club
 0.0.0.0 www.ovalpigs.com
 0.0.0.0 www.paupervice.club
+0.0.0.0 www.petiteumbrella.com
 0.0.0.0 www.pietexture.com
 0.0.0.0 www.piquantpigs.com
+0.0.0.0 www.piz7ohhujogi.com
+0.0.0.0 www.platform.adbrain.com
 0.0.0.0 www.pocketmath-cdn.com
 0.0.0.0 www.polarcdn-terrax.com
 0.0.0.0 www.poogriry.click
 0.0.0.0 www.possibleboats.com
+0.0.0.0 www.potternalballip.info
 0.0.0.0 www.presetrabbits.com
 0.0.0.0 www.privymktg.com
 0.0.0.0 www.profitrumour.com
@@ -629,6 +664,7 @@
 0.0.0.0 www.truckstomatoes.com
 0.0.0.0 www.ts-syndicate.com
 0.0.0.0 www.tuxbpnne.com
+0.0.0.0 www.ultraoranges.com
 0.0.0.0 www.us-east1.serve.elixmedia.com
 0.0.0.0 www.wateryvan.com
 0.0.0.0 wwww.districtm.io
