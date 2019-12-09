@@ -148,12 +148,14 @@
 0.0.0.0 ads104.vertamedia.com
 0.0.0.0 ads109.vertamedia.com
 0.0.0.0 ads204.vertamedia.com
+0.0.0.0 ads2.solocpm.com
 0.0.0.0 ads352.adtelligent.com
 0.0.0.0 ads4.vertamedia.com
 0.0.0.0 ads57.vertamedia.com
 0.0.0.0 ads.adsfull.click
 0.0.0.0 ads.aws.rubiconproject.com
 0.0.0.0 ads.carbonads.com
+0.0.0.0 adsclock.adk2x.com
 0.0.0.0 ads-east-colo.adsymptotic.com
 0.0.0.0 adserver2.juicyads.com
 0.0.0.0 adserver-a-amt.adtech.de
@@ -205,6 +207,7 @@
 0.0.0.0 api-lb4-vip0.eu.adsymptotic.com
 0.0.0.0 api.prod.env.53.localytics.com
 0.0.0.0 api-router.us-east-1.unbounce.com
+0.0.0.0 api.selfserve.rubiconproject.com
 0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.torontostar-staging.adgear.com
 0.0.0.0 app0.a-ads.com
@@ -265,10 +268,12 @@
 0.0.0.0 brisbane.advertising.com
 0.0.0.0 br.labs.teads.tv
 0.0.0.0 b-staging.sharethrough.com
+0.0.0.0 bsw-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 bulk.pubnative.net
 0.0.0.0 bw-useast-bidder.appd.inmobi.com
 0.0.0.0 bw-uswest-bidder.appd.inmobi.com
 0.0.0.0 c1475741074.mtraction.com
+0.0.0.0 cache-fast.addthis.com
 0.0.0.0 calculr01.adlooxtracking.com
 0.0.0.0 capitalone.btttag.com
 0.0.0.0 carroll.datafirst.io
@@ -309,6 +314,7 @@
 0.0.0.0 cm084.getui.igexin.com
 0.0.0.0 cm086.getui.igexin.com
 0.0.0.0 cm087.getui.igexin.com
+0.0.0.0 cm090.getui.igexin.com
 0.0.0.0 cmi.ironbeast.io
 0.0.0.0 cm.ksmobile.com
 0.0.0.0 co4.telecommand.telemetry.microsoft.com
@@ -319,6 +325,8 @@
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 config.ironbeast.io
 0.0.0.0 configorigin-v-e1.veinteractive.com
+0.0.0.0 config-stg.ironbeast.io
+0.0.0.0 consciouscabbage.com
 0.0.0.0 content-acceptance.sharethrough.com
 0.0.0.0 content.adroll.com
 0.0.0.0 content.outbrain.com
@@ -357,6 +365,7 @@
 0.0.0.0 diagnostics-lp.inmobi.com
 0.0.0.0 digivinta137.club
 0.0.0.0 dillards.btttag.com
+0.0.0.0 direct.pubnative.net
 0.0.0.0 dmol_mn.adk2x.com
 0.0.0.0 dn25.kissmetrics.com
 0.0.0.0 dn58.kissmetrics.com
@@ -383,6 +392,7 @@
 0.0.0.0 eng.33across.com
 0.0.0.0 en-studiotraining.inmobi.com
 0.0.0.0 ep-apsoutheast.ifc.inmobi.com
+0.0.0.0 ep-euwest.ifc.inmobi.com
 0.0.0.0 ep.ifc.inmobi.com
 0.0.0.0 et-cn.apac.gslb.inmobi.com
 0.0.0.0 eu-ads.adiquity.com
@@ -439,8 +449,8 @@
 0.0.0.0 iam-sb-fra.adtech.de
 0.0.0.0 id.districtm.io
 0.0.0.0 idstat.taboola.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 im.1f9a5c00.3af2602.ads.a4cdn.contentabc.com
 0.0.0.0 im.5b790f00.8039ad1.ads.a4cdn.contentabc.com
@@ -509,6 +519,7 @@
 0.0.0.0 mediaadservers.adk2x.com
 0.0.0.0 mediaparade.net
 0.0.0.0 media-static.adsafeprotected.com
+0.0.0.0 mediation.adsnative.com
 0.0.0.0 meta.exelator.com
 0.0.0.0 mgmt02.us-east-1b.tubemogul.com
 0.0.0.0 microsoftb.btttag.com
@@ -599,8 +610,10 @@
 0.0.0.0 prpsjeans.btttag.com
 0.0.0.0 pt-br.statcounter.com
 0.0.0.0 pubaccess.advertising.com
+0.0.0.0 publisherhub.plaimedia.com
 0.0.0.0 pushapi.batmobi.net
 0.0.0.0 qa.adbrain.com
+0.0.0.0 qa.atwola.com
 0.0.0.0 qa.lijit.com
 0.0.0.0 qa.rubiconproject.com
 0.0.0.0 qa.us.rmcontent.advertising.com
@@ -714,6 +727,7 @@
 0.0.0.0 suez-server.xpanama.net
 0.0.0.0 superficialsink.com
 0.0.0.0 supportmx.support.tapjoy.com
+0.0.0.0 t2.c.appier.net
 0.0.0.0 tag-direct.sjc.contextweb.com
 0.0.0.0 tagqa2.contextweb.com
 0.0.0.0 tag-staging.contextweb.com
@@ -742,6 +756,7 @@
 0.0.0.0 tracedesire.com
 0.0.0.0 track12.solocpm.com
 0.0.0.0 track72.solocpm.com
+0.0.0.0 track.dmp.yyapi.net
 0.0.0.0 tracker.hits.io
 0.0.0.0 track.solocpm.com
 0.0.0.0 trc-cc.taboola.com
@@ -764,6 +779,7 @@
 0.0.0.0 vast-f53-de-tmp.adhigh.net
 0.0.0.0 vast-rtb3.vertamedia.com
 0.0.0.0 vast-rtb4.vertamedia.com
+0.0.0.0 vbeyv.net
 0.0.0.0 vecontact.veinteractive.com
 0.0.0.0 vertoz.adk2x.com
 0.0.0.0 v.fwmrm.net
@@ -843,6 +859,7 @@
 0.0.0.0 www.arequiry.info
 0.0.0.0 www.arescadon.com
 0.0.0.0 www.aservices.party
+0.0.0.0 www.ati-host.net
 0.0.0.0 www.attractiveafternoon.com
 0.0.0.0 www.auctional.info
 0.0.0.0 www.awzbijw.com
@@ -884,10 +901,12 @@
 0.0.0.0 www.clearcomb.com
 0.0.0.0 www.clicksaction.pw
 0.0.0.0 www.clinkadtracking.com
+0.0.0.0 www.comfortablecheese.com
 0.0.0.0 www.commandwalk.com
 0.0.0.0 www.commoncannon.com
 0.0.0.0 www.comnewsupdate.info
 0.0.0.0 www.compatexchange.cloudapp.net
+0.0.0.0 www.consciouscabbage.com
 0.0.0.0 www.consciouschairs.com
 0.0.0.0 www.constintptr.com
 0.0.0.0 www.content-ad.net
@@ -1014,6 +1033,7 @@
 0.0.0.0 www.innocentwax.com
 0.0.0.0 www.inspectletws.herokuapp.com
 0.0.0.0 www.instrumentsponge.com
+0.0.0.0 www.intentmedia.net
 0.0.0.0 www.invisioncloudstats.com
 0.0.0.0 www.ioredi.com
 0.0.0.0 www.ipreparty.info
@@ -1034,6 +1054,7 @@
 0.0.0.0 www.lettucelimit.com
 0.0.0.0 www.libreape.com
 0.0.0.0 www.limpingline.com
+0.0.0.0 www.linkforyoud.com
 0.0.0.0 www.lionsdrive.com
 0.0.0.0 www.listat.biz
 0.0.0.0 www.live.unbounce.com
@@ -1205,6 +1226,7 @@
 0.0.0.0 www.unusualtitle.com
 0.0.0.0 www.uoredi.com
 0.0.0.0 www.us-east1.serve.elixmedia.com
+0.0.0.0 www.vbeyv.net
 0.0.0.0 www.vebadu.com
 0.0.0.0 www.voicevegetable.com
 0.0.0.0 www.vwbvandbj.bid
@@ -1212,6 +1234,7 @@
 0.0.0.0 wwww.districtm.io
 0.0.0.0 www.wfnmmrtw.bid
 0.0.0.0 www.why.unbounce.com
+0.0.0.0 www.wirecomic.com
 0.0.0.0 www.workersimkf.com
 0.0.0.0 www.w.p.veruta.com
 0.0.0.0 www.wr.clicktale.net
