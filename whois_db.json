@@ -822,7 +822,7 @@
     "apptrackit.com": {
         "epoch": 1581292800.0,
         "expiration_date": "10-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "apptrk.io": {
         "epoch": 1585353600.0,
@@ -3194,6 +3194,11 @@
         "expiration_date": "03-jun-2022",
         "state": "future"
     },
+    "mng-ads.com": {
+        "epoch": 1686960000.0,
+        "expiration_date": "17-jun-2023",
+        "state": "future"
+    },
     "moatads.com": {
         "epoch": 1649376000.0,
         "expiration_date": "08-apr-2022",
@@ -4224,6 +4229,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "serverbid.com": {
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
+        "state": "future"
+    },
     "serving-sys.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -4822,6 +4832,11 @@
     "ts-syndicate.com": {
         "epoch": 1709856000.0,
         "expiration_date": "08-mar-2024",
+        "state": "future"
+    },
+    "tssyndicate.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
         "state": "future"
     },
     "tsyndicate.com": {
