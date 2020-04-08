@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 730,
+        "builds": 731,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -18,13 +18,11 @@
     "description": "Host file to block ads, tracking and more! Updated daily",
     "end_datetime": "2020-03-03T16:22:30.155855",
     "end_epoch": 1582587547.279311,
-    "issue_link": "https://github.com/anudeepND/blacklist/issues/new/choose",
+    "issue_link": "https://github.com/anudeepND/blacklist/issues/new",
     "last_autosave_datetime": "2020-03-03T16:22:30.155876",
     "last_autosave_epoch": 1583246047.316883,
-    "link": "https://github.com/anudeepND/blacklist",
-    "name": "anudeepND_blacklist_ad_server",
     "link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
-    "issue_link": "https://github.com/anudeepND/blacklist/issues/new",
+    "name": "anudeepND_blacklist_ad_server",
     "previous_stats": {
         "builds": 62,
         "clean.list": 31897,
