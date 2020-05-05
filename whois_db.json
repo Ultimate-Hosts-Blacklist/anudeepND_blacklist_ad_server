@@ -542,7 +542,7 @@
     "adszx.pro": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "adtechjp.com": {
         "epoch": 1616284800.0,
@@ -3059,6 +3059,11 @@
         "expiration_date": "24-feb-2021",
         "state": "future"
     },
+    "lpsnmedia.net": {
+        "epoch": 1659571200.0,
+        "expiration_date": "04-aug-2022",
+        "state": "future"
+    },
     "lswebanalytics.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
@@ -3767,6 +3772,11 @@
     "popads.net": {
         "epoch": 1873584000.0,
         "expiration_date": "16-may-2029",
+        "state": "future"
+    },
+    "popmonetizer.net": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
         "state": "future"
     },
     "possibleboats.com": {
