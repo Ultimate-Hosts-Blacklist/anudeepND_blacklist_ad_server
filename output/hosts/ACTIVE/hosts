@@ -31,12 +31,14 @@
 0.0.0.0 01-rds-dev-nym1.ad.corp.appnexus.com
 0.0.0.0 01-spotapp-nym2.ad.corp.appnexus.com
 0.0.0.0 01-spotdb-nym2.ad.corp.appnexus.com
+0.0.0.0 01-spotweb-nym2.ad.corp.appnexus.com
 0.0.0.0 01-sql-test-nym.ad.corp.appnexus.com
 0.0.0.0 01-sun-dev-nym1.ad.corp.appnexus.com
 0.0.0.0 01-sun-dr-lax.ad.corp.appnexus.com
 0.0.0.0 01.vidyo-gateway.nyc2.appnexus.com
 0.0.0.0 01.vidyo-gw.nyc2.appnexus.com
 0.0.0.0 01-vidyo-router.ams1.appnexus.com
+0.0.0.0 01-vidyo-router.lax1.appnexus.com
 0.0.0.0 01-vidyo-router.nyc2.appnexus.com
 0.0.0.0 01-vidyo-router.nym2.appnexus.com
 0.0.0.0 01.webproxy.ams1.appnexus.com
@@ -45,6 +47,7 @@
 0.0.0.0 01-winbuild-nym2.ad.corp.appnexus.com
 0.0.0.0 01-winlog-nym2.ad.corp.appnexus.com
 0.0.0.0 0211c812.akstat.io
+0.0.0.0 0211c813.akstat.io
 0.0.0.0 0211c814.akstat.io
 0.0.0.0 0211c816.akstat.io
 0.0.0.0 0211c83d.akstat.io
@@ -53,6 +56,7 @@
 0.0.0.0 0211c844.akstat.io
 0.0.0.0 0211c84d.akstat.io
 0.0.0.0 023-ezk-120.mktoresp.com
+0.0.0.0 024f-c409-1d64-9c88.reporo.net
 0.0.0.0 026-yoz-259.mktoresp.com
 0.0.0.0 029-bnh-970.mktoresp.com
 0.0.0.0 02.catchpoint.ams1.appnexus.com
@@ -135,6 +139,7 @@
 0.0.0.0 0w57c49k-26b9a3e3be8ad0806a620545fdd7e91593dfec6b-am1.d.aa.online-metrix.net
 0.0.0.0 0w57c49k-44f6443b5d4fad279e108e0e4dd91bb531d53c9c-am1.d.aa.online-metrix.net
 0.0.0.0 0w57c49k-46ecf7fedbfb944acaf02ab331f1ca7231b37514-am1.d.aa.online-metrix.net
+0.0.0.0 0w57c49k-47ca2bb7ab746a9e9d76cb3413b3c32377b142fc-am1.d.aa.online-metrix.net
 0.0.0.0 0w57c49k-805a6302d090a46de8b72452f8b39eacce363c42-am1.d.aa.online-metrix.net
 0.0.0.0 0w57c49k-c8e01b69581cbb1a43e74fa7e20ce70ed56a511d-am1.d.aa.online-metrix.net
 0.0.0.0 0w57c49k-c913ee5f99e5b6ec25cfb0f56fe14188b088bd65-am1.d.aa.online-metrix.net
@@ -227,6 +232,7 @@
 0.0.0.0 130187311.keywordblocks.com
 0.0.0.0 130788161.keywordblocks.com
 0.0.0.0 130-hpc-830.mktoresp.com
+0.0.0.0 131132131.keywordblocks.com
 0.0.0.0 13142738.adoric-om.com
 0.0.0.0 1319483.fls.doubleclick.net
 0.0.0.0 131-rno-480.mktoresp.com
@@ -238,6 +244,7 @@
 0.0.0.0 1339402.collect.igodigital.com
 0.0.0.0 133a-bd2f-a68d-1b27.reporo.net
 0.0.0.0 133-kem-531.mktoresp.com
+0.0.0.0 134-dpm-370.mktoresp.com
 0.0.0.0 1353.tm.zedo.com
 0.0.0.0 1356493418.log.optimizely.com
 0.0.0.0 1359549.fls.doubleclick.net
@@ -246,6 +253,7 @@
 0.0.0.0 137139280.keywordblocks.com
 0.0.0.0 137179431.keywordblocks.com
 0.0.0.0 137322483.search.media.net
+0.0.0.0 137-nge-511.mktoresp.com
 0.0.0.0 138224131.keywordblocks.com
 0.0.0.0 13858606.adoric-om.com
 0.0.0.0 138-cdn-550.mktoresp.com
@@ -374,7 +382,9 @@
 0.0.0.0 173e2516.akstat.io
 0.0.0.0 173e2529.akstat.io
 0.0.0.0 173e252a.akstat.io
+0.0.0.0 173e2544.akstat.io
 0.0.0.0 173e2545.akstat.io
+0.0.0.0 173e2546.akstat.io
 0.0.0.0 173e2547.akstat.io
 0.0.0.0 173e2548.akstat.io
 0.0.0.0 173e2549.akstat.io
@@ -467,6 +477,7 @@
 0.0.0.0 192103.tlnk.io
 0.0.0.0 192299.tlnk.io
 0.0.0.0 192489.tlnk.io
+0.0.0.0 192572.engine.mobileapptracking.com
 0.0.0.0 192-mzv-331.mktoresp.com
 0.0.0.0 193091.measurementapi.com
 0.0.0.0 193093.tlnk.io
@@ -499,6 +510,7 @@
 0.0.0.0 1b656.v.fwmrm.net
 0.0.0.0 1c2b-3481-a405-a093.reporo.net
 0.0.0.0 1c4d-a822-1672-1fad.reporo.net
+0.0.0.0 1c63-61f9-021e-d1fa.reporo.net
 0.0.0.0 1c6e2.s.fwmrm.net
 0.0.0.0 1c6e2.v.fwmrm.net
 0.0.0.0 1c6e9.v.fwmrm.net
@@ -587,6 +599,7 @@
 0.0.0.0 221864132.keywordblocks.com
 0.0.0.0 223435562.keywordblocks.com
 0.0.0.0 223436430.keywordblocks.com
+0.0.0.0 223507.measurementapi.com
 0.0.0.0 224132762.keywordblocks.com
 0.0.0.0 224679561.keywordblocks.com
 0.0.0.0 225201762.keywordblocks.com
@@ -619,12 +632,14 @@
 0.0.0.0 234731162.keywordblocks.com
 0.0.0.0 235427262.keywordblocks.com
 0.0.0.0 2356-cf68-5eaf-7bb0.reporo.net
+0.0.0.0 2356e.v.fwmrm.net
 0.0.0.0 235-cne-301.mktoresp.com
 0.0.0.0 23602.engine.mobileapptracking.com
 0.0.0.0 2365300.fls.doubleclick.net
 0.0.0.0 236707741.keywordblocks.com
 0.0.0.0 23820173.adoric-om.com
 0.0.0.0 238303871.keywordblocks.com
+0.0.0.0 238883840.keywordblocks.com
 0.0.0.0 2404210.fls.doubleclick.net
 0.0.0.0 2404a.s.fwmrm.net
 0.0.0.0 2404a.v.fwmrm.net
@@ -764,6 +779,7 @@
 0.0.0.0 2e33b7ca.akstat.io
 0.0.0.0 2e33b7cf.akstat.io
 0.0.0.0 2e6f7.v.fwmrm.net
+0.0.0.0 2e6f8.v.fwmrm.net
 0.0.0.0 2ecd4.v.fwmrm.net
 0.0.0.0 2ecd5.v.fwmrm.net
 0.0.0.0 2f0211c812.akstat.io
@@ -807,6 +823,7 @@
 0.0.0.0 2f36eb5491.akstat.io
 0.0.0.0 2f36eb5590.akstat.io
 0.0.0.0 2f36eb5594.akstat.io
+0.0.0.0 2f36ebc1fb.akstat.io
 0.0.0.0 2f36ebc233.akstat.io
 0.0.0.0 2f36ebc234.akstat.io
 0.0.0.0 2f36ebc23e.akstat.io
@@ -903,6 +920,7 @@
 0.0.0.0 3196085.fls.doubleclick.net
 0.0.0.0 3196959.fls.doubleclick.net
 0.0.0.0 319-vud-720.mktoresp.com
+0.0.0.0 31e6-ded0-aab2-56a7.reporo.net
 0.0.0.0 3210002.fls.doubleclick.net
 0.0.0.0 3211c0e1.akstat.io
 0.0.0.0 321642120.keywordblocks.com
@@ -915,6 +933,7 @@
 0.0.0.0 3268-5966-90e4-8e80.reporo.net
 0.0.0.0 327084452.keywordblocks.com
 0.0.0.0 327117622.keywordblocks.com
+0.0.0.0 3279880017.log.optimizely.com
 0.0.0.0 3294027.fls.doubleclick.net
 0.0.0.0 329-lna-280.mktoresp.com
 0.0.0.0 329-zem-341.mktoresp.com
@@ -939,6 +958,7 @@
 0.0.0.0 337415314.keywordblocks.com
 0.0.0.0 33799046.adoric-om.com
 0.0.0.0 338020.measurementapi.com
+0.0.0.0 3383293.fls.doubleclick.net
 0.0.0.0 338-ejp-431.mktoresp.com
 0.0.0.0 3390.tm.zedo.com
 0.0.0.0 33915380.adoric-om.com
@@ -1008,6 +1028,7 @@
 0.0.0.0 35985827.adoric-om.com
 0.0.0.0 359-hcz-260.mktoresp.com
 0.0.0.0 35ax3z5b4g.kameleoon.eu
+0.0.0.0 35kicib9nl.kameleoon.eu
 0.0.0.0 36020828.adoric-om.com
 0.0.0.0 360853.artb.adtelligent.com
 0.0.0.0 360.unbounce.com
@@ -1052,6 +1073,7 @@
 0.0.0.0 36c3f725.akstat.io
 0.0.0.0 36c3feee.akstat.io
 0.0.0.0 36c3fef2.akstat.io
+0.0.0.0 36cc248a.akstat.io
 0.0.0.0 36d71034.akstat.io
 0.0.0.0 36d7107f.akstat.io
 0.0.0.0 36d71138.akstat.io
@@ -1097,6 +1119,7 @@
 0.0.0.0 371832762.keywordblocks.com
 0.0.0.0 3720.tm.zedo.com
 0.0.0.0 373125100.keywordblocks.com
+0.0.0.0 3738527.fls.doubleclick.net
 0.0.0.0 3738884.fls.doubleclick.net
 0.0.0.0 3738.tm.zedo.com
 0.0.0.0 3746375.fls.doubleclick.net
@@ -1286,6 +1309,7 @@
 0.0.0.0 4194100.fls.doubleclick.net
 0.0.0.0 4197153.fls.doubleclick.net
 0.0.0.0 41ac-7681-c3a8-14d9.reporo.net
+0.0.0.0 420368.ortb.adtelligent.com
 0.0.0.0 42072536.adoric-om.com
 0.0.0.0 4209400.fls.doubleclick.net
 0.0.0.0 421126251.keywordblocks.com
@@ -1327,6 +1351,7 @@
 0.0.0.0 426280721.keywordblocks.com
 0.0.0.0 4262835.fls.doubleclick.net
 0.0.0.0 4264000.fls.doubleclick.net
+0.0.0.0 426567241.keywordblocks.com
 0.0.0.0 426-qvd-114.mktoresp.com
 0.0.0.0 4270200.fls.doubleclick.net
 0.0.0.0 4270713.fls.doubleclick.net
@@ -1411,6 +1436,7 @@
 0.0.0.0 441819.ortb.adtelligent.com
 0.0.0.0 4419639.fls.doubleclick.net
 0.0.0.0 442834668.keywordblocks.com
+0.0.0.0 442-fqh-411.mktoresp.com
 0.0.0.0 4433810.fls.doubleclick.net
 0.0.0.0 443545.ortb.adtelligent.com
 0.0.0.0 4436460.fls.doubleclick.net
@@ -1436,6 +1462,7 @@
 0.0.0.0 4483900.fls.doubleclick.net
 0.0.0.0 4485535.fls.doubleclick.net
 0.0.0.0 4489465.fls.doubleclick.net
+0.0.0.0 449226.artb.adtelligent.com
 0.0.0.0 4493210.fls.doubleclick.net
 0.0.0.0 4494250.fls.doubleclick.net
 0.0.0.0 4494336.fls.doubleclick.net
@@ -1532,6 +1559,7 @@
 0.0.0.0 467-ipj-431.mktoresp.com
 0.0.0.0 4680435.fls.doubleclick.net
 0.0.0.0 4683316.fls.doubleclick.net
+0.0.0.0 4694204.fls.doubleclick.net
 0.0.0.0 4701700.fls.doubleclick.net
 0.0.0.0 4703200.fls.doubleclick.net
 0.0.0.0 4704627.fls.doubleclick.net
@@ -1610,6 +1638,7 @@
 0.0.0.0 4898700.fls.doubleclick.net
 0.0.0.0 48c3-822c-e54f-6881.reporo.net
 0.0.0.0 4911700.fls.doubleclick.net
+0.0.0.0 4913400.fls.doubleclick.net
 0.0.0.0 4913939.fls.doubleclick.net
 0.0.0.0 4917131.fls.doubleclick.net
 0.0.0.0 491-skj-131.mktoresp.com
@@ -1627,11 +1656,13 @@
 0.0.0.0 4934500.fls.doubleclick.net
 0.0.0.0 494313531.keywordblocks.com
 0.0.0.0 4944090.fls.doubleclick.net
+0.0.0.0 4945378.fls.doubleclick.net
 0.0.0.0 494-ony-660.mktoresp.com
 0.0.0.0 4951600.fls.doubleclick.net
 0.0.0.0 4952861.fls.doubleclick.net
 0.0.0.0 4952900.fls.doubleclick.net
 0.0.0.0 4953484.fls.doubleclick.net
+0.0.0.0 4954000.fls.doubleclick.net
 0.0.0.0 495-yyd-203.mktoresp.com
 0.0.0.0 4964201.fls.doubleclick.net
 0.0.0.0 4966811.fls.doubleclick.net
@@ -1655,6 +1686,7 @@
 0.0.0.0 4cu3b.voluumtrk.com
 0.0.0.0 4d80-dd41-9ed3-33b1.reporo.net
 0.0.0.0 4d.condenastdigital.com
+0.0.0.0 4ddpwkzfdq09i0ey6c4gi4zyqjair1516371602.nuid.imrworldwide.com
 0.0.0.0 4e93-6203-2401-d118.reporo.net
 0.0.0.0 4eokxha0ov.kameleoon.eu
 0.0.0.0 4f8f-baf5-1641-348a.reporo.net
@@ -1794,6 +1826,7 @@
 0.0.0.0 5297900.fls.doubleclick.net
 0.0.0.0 529790331.log.optimizely.com
 0.0.0.0 52.mizdok.com
+0.0.0.0 5302100.fls.doubleclick.net
 0.0.0.0 530224200.keywordblocks.com
 0.0.0.0 5306200.fls.doubleclick.net
 0.0.0.0 5306363.adoric-om.com
@@ -1804,6 +1837,7 @@
 0.0.0.0 531721311.keywordblocks.com
 0.0.0.0 5321212.fls.doubleclick.net
 0.0.0.0 532121710.keywordblocks.com
+0.0.0.0 53216121.adoric-om.com
 0.0.0.0 5322910.fls.doubleclick.net
 0.0.0.0 5323110.fls.doubleclick.net
 0.0.0.0 5324900.fls.doubleclick.net
@@ -1989,6 +2023,7 @@
 0.0.0.0 577665361.keywordblocks.com
 0.0.0.0 5777100.fls.doubleclick.net
 0.0.0.0 5779200.fls.doubleclick.net
+0.0.0.0 5779616.fls.doubleclick.net
 0.0.0.0 578031181.keywordblocks.com
 0.0.0.0 5781000.fls.doubleclick.net
 0.0.0.0 579221851.keywordblocks.com
@@ -2008,6 +2043,7 @@
 0.0.0.0 584-wph-840.mktoresp.com
 0.0.0.0 585515171.keywordblocks.com
 0.0.0.0 58591360.adoric-om.com
+0.0.0.0 585-bub-480.mktoresp.com
 0.0.0.0 585.tm.zedo.com
 0.0.0.0 5860126.fls.doubleclick.net
 0.0.0.0 5865816.fls.doubleclick.net
@@ -2098,6 +2134,7 @@
 0.0.0.0 5f651e71.akstat.io
 0.0.0.0 5f9c-51e9-4ba2-8184.reporo.net
 0.0.0.0 5fb59.v.fwmrm.net
+0.0.0.0 5fc-b.tlnk.io
 0.0.0.0 5fd74.v.fwmrm.net
 0.0.0.0 5g.adx1.com
 0.0.0.0 5g.news-subscribe.com
@@ -2142,6 +2179,7 @@
 0.0.0.0 6050209.fls.doubleclick.net
 0.0.0.0 6054100.fls.doubleclick.net
 0.0.0.0 6056700.fls.doubleclick.net
+0.0.0.0 6058110.fls.doubleclick.net
 0.0.0.0 6058.bapi.adsafeprotected.com
 0.0.0.0 6063.bapi.adsafeprotected.com
 0.0.0.0 60642.v.fwmrm.net
@@ -2213,6 +2251,7 @@
 0.0.0.0 632-nza-960.mktoresp.com
 0.0.0.0 6331908.fls.doubleclick.net
 0.0.0.0 6335388.fls.doubleclick.net
+0.0.0.0 63390287.adoric-om.com
 0.0.0.0 6343900.fls.doubleclick.net
 0.0.0.0 6348.bapi.adsafeprotected.com
 0.0.0.0 635307981.keywordblocks.com
@@ -2230,6 +2269,7 @@
 0.0.0.0 641281861.keywordblocks.com
 0.0.0.0 641712402.keywordblocks.com
 0.0.0.0 6417571.fls.doubleclick.net
+0.0.0.0 641-pme-000.mktoresp.com
 0.0.0.0 641-xgl-600.mktoresp.com
 0.0.0.0 643-eyo-300.mktoresp.com
 0.0.0.0 645-coj-341.mktoresp.com
@@ -2258,6 +2298,7 @@
 0.0.0.0 6615089.fls.doubleclick.net
 0.0.0.0 6615255.fls.doubleclick.net
 0.0.0.0 66252.measurementapi.com
+0.0.0.0 6629010.fls.doubleclick.net
 0.0.0.0 6629377.adoric-om.com
 0.0.0.0 662.tm.zedo.com
 0.0.0.0 6634230.fls.doubleclick.net
@@ -2343,6 +2384,7 @@
 0.0.0.0 6a6a-e94c-3222-4f1d.reporo.net
 0.0.0.0 6aee-cb78-3379-8e1a.reporo.net
 0.0.0.0 6b148a22.akstat.io
+0.0.0.0 6bvya.voluumtrk.com
 0.0.0.0 6c58-24ca-19b3-bc02.reporo.net
 0.0.0.0 6cb0f52f-351f-442f-a359-f9528f6eb5f0.nuid.imrworldwide.com
 0.0.0.0 6cd1-cad1-3848-09d8.reporo.net
@@ -2495,6 +2537,7 @@
 0.0.0.0 7900.bapi.adsafeprotected.com
 0.0.0.0 791-qbf-350.mktoresp.com
 0.0.0.0 793918062.keywordblocks.com
+0.0.0.0 79399989.adoric-om.com
 0.0.0.0 793-kwp-630.mktoresp.com
 0.0.0.0 793-nkb-950.mktoresp.com
 0.0.0.0 793-vhg-420.mktoresp.com
@@ -2504,6 +2547,7 @@
 0.0.0.0 796e-7a79-6f62-7976.reporo.net
 0.0.0.0 79.adx1.com
 0.0.0.0 79f97.v.fwmrm.net
+0.0.0.0 7atcp61n-923d8ef98c8c22279292502f5bcf04698c1420e0-am1.d.aa.online-metrix.net
 0.0.0.0 7b5c-51cf-a29a-c8ed.reporo.net
 0.0.0.0 7b935.v.fwmrm.net
 0.0.0.0 7b9de.v.fwmrm.net
@@ -2678,6 +2722,7 @@
 0.0.0.0 895-cgw-711.mktoresp.com
 0.0.0.0 897c-0e71-90a9-967c.reporo.net
 0.0.0.0 897-cmd-695.mktoresp.com
+0.0.0.0 897-tds-380.mktoresp.com
 0.0.0.0 8989-c9ea-79f3-67aa.reporo.net
 0.0.0.0 898-kgx-150.mktoresp.com
 0.0.0.0 8ak01.voluumtrk.com
@@ -2723,6 +2768,7 @@
 0.0.0.0 922441.bapi.adsafeprotected.com
 0.0.0.0 922527.bapi.adsafeprotected.com
 0.0.0.0 923737641.keywordblocks.com
+0.0.0.0 923-igj-214.mktoresp.com
 0.0.0.0 924-mgm-340.mktoresp.com
 0.0.0.0 924-rey-380.mktoresp.com
 0.0.0.0 9252.engine.mobileapptracking.com
@@ -2739,6 +2785,7 @@
 0.0.0.0 936-ypn-830.mktoresp.com
 0.0.0.0 938567431.keywordblocks.com
 0.0.0.0 93976391.adoric-om.com
+0.0.0.0 939-paz-320.mktoresp.com
 0.0.0.0 941c-f58d-9ddb-b002.reporo.net
 0.0.0.0 942844951.keywordblocks.com
 0.0.0.0 942-typ-900.mktoresp.com
@@ -2848,6 +2895,7 @@
 0.0.0.0 9ghwyvdk-d21dcc5a9344cf5eb851319d5a7bdfbfd2ac5677-am1.d.aa.online-metrix.net
 0.0.0.0 9ghwyvdk-d6a8f705dbad6a8cf1c3ac74b407780cc4094b26-am1.d.aa.online-metrix.net
 0.0.0.0 9ghwyvdk-db6e0da601f0e617adf88c0a718ec3c678df97ba-am1.d.aa.online-metrix.net
+0.0.0.0 9ghwyvdk-ea7329e5c3a66ccd03d37547c4cebe7b64d024e6-am1.d.aa.online-metrix.net
 0.0.0.0 9ghwyvdk-ecf2409fe30eae1e0b8c5843e3667415d6be14a1-am1.d.aa.online-metrix.net
 0.0.0.0 9ghwyvdk-eeba0d71da6a9efe2ed903ee5c56b1acd90de0f9-am1.d.aa.online-metrix.net
 0.0.0.0 9ghwyvdk-f3bbca2fab9a7338426b0aab242117f47dfac185-am1.d.aa.online-metrix.net
@@ -2882,6 +2930,7 @@
 0.0.0.0 a022.casalemedia.com
 0.0.0.0 a023.casalemedia.com
 0.0.0.0 a025.casalemedia.com
+0.0.0.0 a027.casalemedia.com
 0.0.0.0 a028.casalemedia.com
 0.0.0.0 a030.casalemedia.com
 0.0.0.0 a032.casalemedia.com
@@ -2909,6 +2958,7 @@
 0.0.0.0 a060.casalemedia.com
 0.0.0.0 a062.casalemedia.com
 0.0.0.0 a064.casalemedia.com
+0.0.0.0 a065.casalemedia.com
 0.0.0.0 a068.casalemedia.com
 0.0.0.0 a069.casalemedia.com
 0.0.0.0 a071.casalemedia.com
@@ -2958,6 +3008,7 @@
 0.0.0.0 a1050.casalemedia.com
 0.0.0.0 a1051.casalemedia.com
 0.0.0.0 a1052.casalemedia.com
+0.0.0.0 a1054.casalemedia.com
 0.0.0.0 a1059.casalemedia.com
 0.0.0.0 a1060.casalemedia.com
 0.0.0.0 a1061.casalemedia.com
@@ -2973,11 +3024,14 @@
 0.0.0.0 a1071.casalemedia.com
 0.0.0.0 a1072.casalemedia.com
 0.0.0.0 a1074.casalemedia.com
+0.0.0.0 a107.casalemedia.com
 0.0.0.0 a1083.casalemedia.com
 0.0.0.0 a1084.casalemedia.com
 0.0.0.0 a1086.casalemedia.com
 0.0.0.0 a1089.casalemedia.com
 0.0.0.0 a108.casalemedia.com
+0.0.0.0 a1091.casalemedia.com
+0.0.0.0 a1092.casalemedia.com
 0.0.0.0 a1093.casalemedia.com
 0.0.0.0 a1094.casalemedia.com
 0.0.0.0 a1097.casalemedia.com
@@ -3092,6 +3146,7 @@
 0.0.0.0 a158.casalemedia.com
 0.0.0.0 a1590.casalemedia.com
 0.0.0.0 a159.casalemedia.com
+0.0.0.0 a1600.casalemedia.com
 0.0.0.0 a1601.casalemedia.com
 0.0.0.0 a1610.casalemedia.com
 0.0.0.0 a1611.casalemedia.com
@@ -3218,6 +3273,7 @@
 0.0.0.0 a1980.casalemedia.com
 0.0.0.0 a198.casalemedia.com
 0.0.0.0 a1991.casalemedia.com
+0.0.0.0 a19961.actonsoftware.com
 0.0.0.0 a1.adform.net
 0.0.0.0 a1-m1.doublepimp.com
 0.0.0.0 a1talk.de.intellitxt.com
@@ -3280,6 +3336,7 @@
 0.0.0.0 a2190.casalemedia.com
 0.0.0.0 a2191.casalemedia.com
 0.0.0.0 a219.casalemedia.com
+0.0.0.0 a2200.casalemedia.com
 0.0.0.0 a22087.actonsoftware.com
 0.0.0.0 a2210.casalemedia.com
 0.0.0.0 a2211.casalemedia.com
@@ -3328,6 +3385,7 @@
 0.0.0.0 a24241.actonsoftware.com
 0.0.0.0 a242.casalemedia.com
 0.0.0.0 a243.casalemedia.com
+0.0.0.0 a2441.casalemedia.com
 0.0.0.0 a244.casalemedia.com
 0.0.0.0 a24822.actonsoftware.com
 0.0.0.0 a2490.casalemedia.com
@@ -3662,6 +3720,7 @@
 0.0.0.0 a581.casalemedia.com
 0.0.0.0 a583.casalemedia.com
 0.0.0.0 a586.casalemedia.com
+0.0.0.0 a588.casalemedia.com
 0.0.0.0 a589.casalemedia.com
 0.0.0.0 a591.casalemedia.com
 0.0.0.0 a592.casalemedia.com
@@ -3857,6 +3916,7 @@
 0.0.0.0 a968.casalemedia.com
 0.0.0.0 a970.casalemedia.com
 0.0.0.0 a971.casalemedia.com
+0.0.0.0 a974.casalemedia.com
 0.0.0.0 a977.casalemedia.com
 0.0.0.0 a978.casalemedia.com
 0.0.0.0 a983.casalemedia.com
@@ -3871,6 +3931,7 @@
 0.0.0.0 aa1319aa.webengage.co
 0.0.0.0 aa13252d.webengage.co
 0.0.0.0 aa.agkn.com
+0.0.0.0 aab.adxxx.com
 0.0.0.0 aa.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 a.actnx.com
 0.0.0.0 a.adgear.com
@@ -3949,6 +4010,8 @@
 0.0.0.0 abrca01.marketo.com
 0.0.0.0 abrca04.marketo.com
 0.0.0.0 abrca05.marketo.com
+0.0.0.0 abrca06.marketo.com
+0.0.0.0 abrca07.marketo.com
 0.0.0.0 abrca08.marketo.com
 0.0.0.0 abrca09.marketo.com
 0.0.0.0 abrilmidia.d1.sc.omtrdc.net
@@ -3990,6 +4053,7 @@
 0.0.0.0 accorde.widget.criteo.com
 0.0.0.0 account.criteo.net
 0.0.0.0 accounting.adhigh.net
+0.0.0.0 accounts-analyticsapp.paytm.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.teads.tv
 0.0.0.0 accuenmedia.com
@@ -4011,6 +4075,7 @@
 0.0.0.0 ackermannch.widget.criteo.com
 0.0.0.0 acme.112.2o7.net
 0.0.0.0 ac.mmstat.com
+0.0.0.0 a.connatix.com
 0.0.0.0 acp.fyber.com
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acrylnaegel.de.intellitxt.com
@@ -4061,6 +4126,7 @@
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 ad.adstailor.com
+0.0.0.0 adadvalueeu.offerstrack.net
 0.0.0.0 adadvalue.offerstrack.net
 0.0.0.0 ad.adzmedia.mobi
 0.0.0.0 ad.ae.doubleclick.net
@@ -4112,8 +4178,9 @@
 0.0.0.0 ad.crwdcntrl.netadapj.rtb.adx1.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 add3.g2afse.com
-0.0.0.0 ad.dc2.adtech.de
+0.0.0.0 add3.go2affise.com
 0.0.0.0 ad-dc2.adtech.de
+0.0.0.0 ad.dc2.adtech.de
 0.0.0.0 ad.de.doubleclick.net
 0.0.0.0 ad-delivery.net
 0.0.0.0 addictedtoradio.adswizz.com
@@ -4174,6 +4241,7 @@
 0.0.0.0 ad-js.chip.de
 0.0.0.0 adjs.hopemobi.net
 0.0.0.0 adk2x.com
+0.0.0.0 adkmob.com
 0.0.0.0 ad.kr.doubleclick.net
 0.0.0.0 adleadevent.com
 0.0.0.0 adlegend.com
@@ -4256,6 +4324,7 @@
 0.0.0.0 ad.nz.doubleclick.net
 0.0.0.0 ado3o.voluumtrk.com
 0.0.0.0 adobeaam.beemray.com
+0.0.0.0 adobe.co1.qualtrics.com
 0.0.0.0 adobe.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 adobeconnectna.d1.sc.omtrdc.net
 0.0.0.0 adobeconsumer.sc.omtrdc.net
@@ -4291,7 +4360,9 @@
 0.0.0.0 adpuserexperience.co1.qualtrics.com
 0.0.0.0 adpush1.adtelligent.com
 0.0.0.0 adpush2.adtelligent.com
+0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adpushsdk.goforandroid.com
+0.0.0.0 adpxl.co
 0.0.0.0 adreactor.com
 0.0.0.0 adrecover.com
 0.0.0.0 adre.hasmobi.net
@@ -4333,6 +4404,7 @@
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads1-us-east.stickyadstv.com
 0.0.0.0 ads1.vertamedia.com
+0.0.0.0 ads201.adtelligent.com
 0.0.0.0 ads202.adtelligent.com
 0.0.0.0 ads202.artb.adtelligent.com
 0.0.0.0 ads202.ortb.adtelligent.com
@@ -4365,6 +4437,7 @@
 0.0.0.0 ads301.artb.adtelligent.com
 0.0.0.0 ads301.ortb.adtelligent.com
 0.0.0.0 ads301.vertamedia.com
+0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads30.artb.adtelligent.com
 0.0.0.0 ads30.ortb.adtelligent.com
 0.0.0.0 ads31.adtelligent.com
@@ -4382,6 +4455,7 @@
 0.0.0.0 ads3-us-east.stickyadstv.com
 0.0.0.0 ads3.vertamedia.com
 0.0.0.0 ads40.adtelligent.com
+0.0.0.0 ads40.artb.adtelligent.com
 0.0.0.0 ads40.ortb.adtelligent.com
 0.0.0.0 ads40.stickyadstv.com
 0.0.0.0 ads41.adtelligent.com
@@ -4412,6 +4486,7 @@
 0.0.0.0 ads6.adtelligent.com
 0.0.0.0 ads6.vertamedia.com
 0.0.0.0 ads7.stickyadstv.com
+0.0.0.0 ads7-us-east.stickyadstv.com
 0.0.0.0 ads7.vertamedia.com
 0.0.0.0 ads8.adtelligent.com
 0.0.0.0 ads8-us-east.stickyadstv.com
@@ -4453,6 +4528,7 @@
 0.0.0.0 ads.contentabc.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 adscore.clickcease.com
+0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.criteo.com
 0.0.0.0 ad-sdk.altamob.xiaoying.co
 0.0.0.0 ads.dotomi.com
@@ -4514,6 +4590,7 @@
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 ad.sg.doubleclick.net
 0.0.0.0 adsheads.go2affise.com
+0.0.0.0 ads.hk.as.criteo.com
 0.0.0.0 ads-icl.googleusercontent.com
 0.0.0.0 adsiduous.rtb.adx1.com
 0.0.0.0 ads.indiaresults.com
@@ -4524,6 +4601,7 @@
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 ads.livetvcdn.net
 0.0.0.0 ads.m1.pubmatic.com
+0.0.0.0 adsmain.g2afse.com
 0.0.0.0 ad.smartclick.net
 0.0.0.0 ads.mediasmart.es
 0.0.0.0 adsmira.offerstrack.net
@@ -4574,6 +4652,7 @@
 0.0.0.0 ads.us.e-planning.net
 0.0.0.0 ads.va.us.criteo.com
 0.0.0.0 ads.vb-api.com
+0.0.0.0 ads.voipnewswire.net
 0.0.0.0 ads.w55c.net
 0.0.0.0 ads-wc.adaptv.advertising.com
 0.0.0.0 ads.webindia123.com
@@ -4621,13 +4700,14 @@
 0.0.0.0 adunite.offerstrack.net
 0.0.0.0 adunits.datawrkz.com
 0.0.0.0 adunitv2.cdn.auditude.com
-0.0.0.0 ad.us-ec.adtechus.com
 0.0.0.0 ad-us-ec.adtechus.com
+0.0.0.0 ad.us-ec.adtechus.com
 0.0.0.0 adv1.a-ads.com
 0.0.0.0 adv2.a-ads.com
 0.0.0.0 adv4.a-ads.com
 0.0.0.0 adv5.a-ads.com
 0.0.0.0 adv6.a-ads.com
+0.0.0.0 advance-auto-parts.evyy.net
 0.0.0.0 advancedigital-d.openx.net
 0.0.0.0 advancedwireless.actonsoftware.com
 0.0.0.0 advancelocal-adapter-image-uploads.s3.amazonaws.com
@@ -4814,6 +4894,7 @@
 0.0.0.0 ajkzd9h.com
 0.0.0.0 aj.news-subscribe.com
 0.0.0.0 aka-cdn.adtech.de
+0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 akamai.mathtag.com
 0.0.0.0 akamai-pubmatic.mathtag.com
@@ -4868,6 +4949,7 @@
 0.0.0.0 allday.in.ua
 0.0.0.0 alldcs.outbrain.com
 0.0.0.0 allenedmonds.ojrq.net
+0.0.0.0 allfail-all.adadvisor.net
 0.0.0.0 allfail-east.adadvisor.net
 0.0.0.0 allheart.evergage.com
 0.0.0.0 alliance4media.com
@@ -4880,7 +4962,9 @@
 0.0.0.0 allstaraffiliate.offerstrack.net
 0.0.0.0 allstate.evergage.com
 0.0.0.0 a.localytics.com
+0.0.0.0 alogs.umengcloud.com
 0.0.0.0 alog.umengcloud.com
+0.0.0.0 alog.umeng.com
 0.0.0.0 alo-moves.pxf.io
 0.0.0.0 alopezie.de.intellitxt.com
 0.0.0.0 alpargata.d1.sc.omtrdc.net
@@ -4916,6 +5000,7 @@
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 amazonservices.122.2o7.net
 0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
+0.0.0.0 ambassadorllc.actonsoftware.com
 0.0.0.0 ambassadors.propellerads.com
 0.0.0.0 ambr-eyewear.pxf.io
 0.0.0.0 amc.actonsoftware.com
@@ -4929,8 +5014,8 @@
 0.0.0.0 am-display.rtb.adx1.com
 0.0.0.0 american-airlines.ojrq.net
 0.0.0.0 americanairlines.tt.omtrdc.net
-0.0.0.0 americanbar-org.d1.sc.omtrdc.net
 0.0.0.0 americanbar.org.d1.sc.omtrdc.net
+0.0.0.0 americanbar-org.d1.sc.omtrdc.net
 0.0.0.0 american.co1.qualtrics.com
 0.0.0.0 ameriprise.co1.qualtrics.com
 0.0.0.0 amexairfrance.widget.criteo.com
@@ -4968,12 +5053,14 @@
 0.0.0.0 amp.nz.igexin.com
 0.0.0.0 am-pops.xml.adx1.com
 0.0.0.0 amp.smi2.ru
+0.0.0.0 ampsweb01.clicktale.net
 0.0.0.0 amp.teads.tv
 0.0.0.0 amr.clicktale.net
 0.0.0.0 amretail.evergage.com
 0.0.0.0 ams01-bfp02.mediaplex.com
 0.0.0.0 ams01-usadmm.dotomi.com
 0.0.0.0 ams02-bfp01.mediaplex.com
+0.0.0.0 ams02-bfp02.mediaplex.com
 0.0.0.0 ams02-usadmm.dotomi.com
 0.0.0.0 ams02-usadmm-ds.dotomi.com
 0.0.0.0 ams03-bfp01.mediaplex.com
@@ -4982,6 +5069,7 @@
 0.0.0.0 ams03-usadmm-ds.dotomi.com
 0.0.0.0 ams1.everesttech.net
 0.0.0.0 ams1ns1.pubmatic.com
+0.0.0.0 amsad.adtech.de
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3-eu-west-1.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
@@ -5173,6 +5261,7 @@
 0.0.0.0 apac-bidder.mathtag.com
 0.0.0.0 apac.doubleclick.net
 0.0.0.0 apac-hk-adops.aralego.com
+0.0.0.0 apac-hk-dsp.aralego.com
 0.0.0.0 apac.ti-platform.com
 0.0.0.0 apac-tw-adops.aralego.com
 0.0.0.0 apac-tw-ad-track.aralego.com
@@ -5212,6 +5301,7 @@
 0.0.0.0 api.adzmedia.com
 0.0.0.0 api.adzmedia.net
 0.0.0.0 apiaggr.smi2.net
+0.0.0.0 api.airbrake.io
 0.0.0.0 api.airfind.com
 0.0.0.0 api.albacross.com
 0.0.0.0 api.alphonso.tv
@@ -5266,8 +5356,8 @@
 0.0.0.0 api.dobermanmedia.com
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 api.dyn.perfectaudience.com
-0.0.0.0 apieast.touchcommerce.com
 0.0.0.0 api-east.touchcommerce.com
+0.0.0.0 apieast.touchcommerce.com
 0.0.0.0 api.enjoyadsplatform.com
 0.0.0.0 api.ensighten.com
 0.0.0.0 api-eu.gameanalytics.com
@@ -5275,6 +5365,7 @@
 0.0.0.0 api.fo.startappservice.com
 0.0.0.0 api.gallery.intl.miui.com
 0.0.0.0 api.gameanalytics.com
+0.0.0.0 api-gateway-sandbox.sandbox53.localytics.com
 0.0.0.0 api-gce.petametrics.com
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api.getclicky.com
@@ -5347,12 +5438,14 @@
 0.0.0.0 api.rmsi.adswizz.com
 0.0.0.0 api-s2s-america.taboola.com
 0.0.0.0 api-s2s-emea.taboola.com
+0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api.safedk.com
 0.0.0.0 api.sandbox53.localytics.com
 0.0.0.0 api.sandbox-shared.env.sandbox53.localytics.com
 0.0.0.0 api.sandbox-val.env.sandbox53.localytics.com
 0.0.0.0 api-sc2.adsymptotic.com
 0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.shareitgames.com
@@ -5375,6 +5468,7 @@
 0.0.0.0 api.touchcommerce.com
 0.0.0.0 api-tracelog.nexstreaming.com
 0.0.0.0 api.tracksummer.com
+0.0.0.0 api.trafficshop.com
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.treasuredata.com
 0.0.0.0 api.triplelift.com
@@ -5447,6 +5541,7 @@
 0.0.0.0 app-ab25.marketo.com
 0.0.0.0 app-ab26.marketo.com
 0.0.0.0 app-abc.marketo.com
+0.0.0.0 app-abd.marketo.com
 0.0.0.0 app-abk.marketo.com
 0.0.0.0 app-abm.marketo.com
 0.0.0.0 app-abq.marketo.com
@@ -5472,11 +5567,13 @@
 0.0.0.0 appclick.rqmob.com
 0.0.0.0 appcloud.ironbeast.io
 0.0.0.0 appcloud.ksmobile.com
+0.0.0.0 app.crittercism.com
 0.0.0.0 app.demandbase.com
 0.0.0.0 app-d.marketo.com
 0.0.0.0 app-e.marketo.com
 0.0.0.0 app.engage.jio.com
 0.0.0.0 appengage-video.fyber.com
+0.0.0.0 apperian2.evergage.com
 0.0.0.0 app-eu.moengage.com
 0.0.0.0 appevents.impactradius.com
 0.0.0.0 appfly.mobi
@@ -5499,6 +5596,7 @@
 0.0.0.0 applift-b.apptornado.com
 0.0.0.0 appl.marketo.com
 0.0.0.0 appload.ingest.crittercism.com
+0.0.0.0 appload.ingest.eu.crittercism.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 applogger.redbus.com
 0.0.0.0 applog.musical.ly
@@ -5528,6 +5626,7 @@
 0.0.0.0 app.qgraph.io
 0.0.0.0 app-q.marketo.com
 0.0.0.0 app.redtrack.io
+0.0.0.0 apprelease.redtrack.io
 0.0.0.0 appres.camera360.com
 0.0.0.0 approvemedia.g2afse.com
 0.0.0.0 apps.admitad.com
@@ -5590,8 +5689,8 @@
 0.0.0.0 apr.lijit.com
 0.0.0.0 aps-insight.adsrvr.org
 0.0.0.0 aps.insight.adsrvr.org
-0.0.0.0 apt-insight.adsrvr.org
 0.0.0.0 apt.insight.adsrvr.org
+0.0.0.0 apt-insight.adsrvr.org
 0.0.0.0 aptmetrics.qualtrics.com
 0.0.0.0 a.pub.network
 0.0.0.0 apx.ckk-45.net
@@ -5610,6 +5709,7 @@
 0.0.0.0 aramark.co1.qualtrics.com
 0.0.0.0 aramark.evergage.com
 0.0.0.0 aramark.evyy.net
+0.0.0.0 aranzulla-d.openx.net
 0.0.0.0 ar.atwola.com
 0.0.0.0 arcade.g2afse.com
 0.0.0.0 archive01.adlooxtracking.com
@@ -5679,6 +5779,7 @@
 0.0.0.0 ask.qualaroo.com
 0.0.0.0 askulcorporation.tt.omtrdc.net
 0.0.0.0 as-lb-ap-southeast.tubemogul.com
+0.0.0.0 as-lb-eu-west.tubemogul.com
 0.0.0.0 as-lb-tm-iad.tubemogul.com
 0.0.0.0 as-lb-us-east.tubemogul.com
 0.0.0.0 as-lb-us-west.tubemogul.com
@@ -5717,8 +5818,8 @@
 0.0.0.0 assets.ub-analytics.com
 0.0.0.0 assets.unbounce.com
 0.0.0.0 assets.zeotap.com
-0.0.0.0 assist.js.skimresources.com
 0.0.0.0 assistjs.skimresources.com
+0.0.0.0 assist.js.skimresources.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
 0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
 0.0.0.0 asstel01.webtrekk.net
@@ -5728,6 +5829,7 @@
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 a.steepto.com
 0.0.0.0 as-tlx.3lift.com
+0.0.0.0 astm.actonsoftware.com
 0.0.0.0 as-tm.everesttech.net
 0.0.0.0 astra-k-forum.de.intellitxt.com
 0.0.0.0 astrologiya.mirtesen.ru
@@ -5837,8 +5939,8 @@
 0.0.0.0 auth.teads.tv
 0.0.0.0 auth.treasuredata.com
 0.0.0.0 auth.visiblemeasures.com
-0.0.0.0 auto-anleitung.de.intellitxt.com
 0.0.0.0 auto-anleitung-de.intellitxt.com
+0.0.0.0 auto-anleitung.de.intellitxt.com
 0.0.0.0 autoblog.de.intellitxt.com
 0.0.0.0 autocom220417.112.2o7.net
 0.0.0.0 autodesk.co1.qualtrics.com
@@ -5863,6 +5965,7 @@
 0.0.0.0 auto-presse.de.intellitxt.com
 0.0.0.0 autoscout24.112.2o7.net
 0.0.0.0 autoscout24.be.ssl.d1.sc.omtrdc.net
+0.0.0.0 autoscout24.bg.d1.sc.omtrdc.net
 0.0.0.0 autoscout24.de.d1.sc.omtrdc.net
 0.0.0.0 autoscout24.nl.d1.sc.omtrdc.net
 0.0.0.0 autoscout24.se.d1.sc.omtrdc.net
@@ -5943,6 +6046,7 @@
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 azcdn.criteo.net
 0.0.0.0 azcdn-preprod.criteo.net
+0.0.0.0 a.zdbb.net
 0.0.0.0 az.info.lgsmartad.com
 0.0.0.0 a.zog.link
 0.0.0.0 azteca.demdex.net
@@ -5971,6 +6075,7 @@
 0.0.0.0 b403-6d08-1072-5a5e.reporo.net
 0.0.0.0 b461-9ef7-5e55-9fc6.reporo.net
 0.0.0.0 b4g-n.tlnk.io
+0.0.0.0 b5ad-8fc3-087a-6377.reporo.net
 0.0.0.0 b6.scorecardresearch.com
 0.0.0.0 b75d-2246-f1dc-4d8b.reporo.net
 0.0.0.0 b7quv.voluumtrk.com
@@ -5995,8 +6100,9 @@
 0.0.0.0 backcoantry.pxf.io
 0.0.0.0 backconutry.pxf.io
 0.0.0.0 backcounrty.pxf.io
-0.0.0.0 backcountr.y.pxf.io
 0.0.0.0 backcount.ry.pxf.io
+0.0.0.0 backcountr.y.pxf.io
+0.0.0.0 backcuontry.pxf.io
 0.0.0.0 backcuuntry.pxf.io
 0.0.0.0 backend.stage.smi2.net
 0.0.0.0 backfill.sharethrough.com
@@ -6124,6 +6230,7 @@
 0.0.0.0 beamland.actonsoftware.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 bear-naked.pxf.io
 0.0.0.0 beau-coup.ojrq.net
 0.0.0.0 beautybakerie.pxf.io
 0.0.0.0 beautybar.7eer.net
@@ -6208,6 +6315,7 @@
 0.0.0.0 beta.coremetrics.com
 0.0.0.0 beta-dashboard.mgid.com
 0.0.0.0 betadfp.doubleclick.net
+0.0.0.0 beta.inmobi.com
 0.0.0.0 beta.leanplum.com
 0.0.0.0 beta.marketo.com
 0.0.0.0 beta.marketplace.trafficjunky.net
@@ -6221,6 +6329,7 @@
 0.0.0.0 beta.umeng.com
 0.0.0.0 betcentertrack.optimove.net
 0.0.0.0 betclic.smartadserver.com
+0.0.0.0 betcozatrack.optimove.net
 0.0.0.0 betreut01.webtrekk.net
 0.0.0.0 betseyjohnson.btttag.com
 0.0.0.0 bettercloud.evergage.com
@@ -6288,7 +6397,9 @@
 0.0.0.0 bid.solocpm.com
 0.0.0.0 bidstream1.east.smrtb.com
 0.0.0.0 bidswitch.adriver.ru
+0.0.0.0 bidswitch.rdb.adx1.com
 0.0.0.0 bidswitch.rtb.adx1.com
+0.0.0.0 bidswitch-rtbcat.rtb.adx1.com
 0.0.0.0 bid-sxc.mathtag.com
 0.0.0.0 bidtheatre.com
 0.0.0.0 bidtortest.admanmedia.com
@@ -6386,7 +6497,9 @@
 0.0.0.0 bm.brandreachsys.com
 0.0.0.0 bmcache.brandreachsys.com
 0.0.0.0 bmc.co1.qualtrics.com
+0.0.0.0 bmc.demdex.net
 0.0.0.0 bm.co1.qualtrics.com
+0.0.0.0 b.measuread.com
 0.0.0.0 bm.moatads.com
 0.0.0.0 bmpwebapi.mobvista.com
 0.0.0.0 bms-5w-ext.nyc2.appnexus.com
@@ -6529,6 +6642,7 @@
 0.0.0.0 brp.apolloprogram.com
 0.0.0.0 br-tags.vizury.com
 0.0.0.0 br.tubemogul.com
+0.0.0.0 bruker-nano.actonsoftware.com
 0.0.0.0 brwsr.ojrq.net
 0.0.0.0 brx.brandreachsys.com
 0.0.0.0 b.sc.omtrdc.net
@@ -6548,6 +6662,7 @@
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 b-s.tercept.com
 0.0.0.0 bsu.qualtrics.com
+0.0.0.0 bsw.digitru.st
 0.0.0.0 b.switchadhub.com
 0.0.0.0 bsw-winners-us-east-1-rtb.adroll.com
 0.0.0.0 bt1yrqhoonwywnlqx1zocnwk9zsox1507541991.nuid.imrworldwide.com
@@ -6579,6 +6694,7 @@
 0.0.0.0 buildirect.7eer.net
 0.0.0.0 buldumbuldumtr.widget.criteo.com
 0.0.0.0 bulk-click.startappservice.com
+0.0.0.0 bulk-images.startappservice.com
 0.0.0.0 bulkquery2.petametrics.com
 0.0.0.0 bullz-eye.us.intellitxt.com
 0.0.0.0 bumpclick-d.openx.net
@@ -6732,6 +6848,7 @@
 0.0.0.0 c4.zedo.com
 0.0.0.0 c51a-ce4d-edec-497d.reporo.net
 0.0.0.0 c558-d858-6b80-5f46.reporo.net
+0.0.0.0 c5.la4.download.9appsinstall.com
 0.0.0.0 c60.smaato.net
 0.0.0.0 c733-d143-cc49-e158.reporo.net
 0.0.0.0 c7.la4.download.9appsinstall.com
@@ -6750,6 +6867,7 @@
 0.0.0.0 ca.ad.lgsmartad.com
 0.0.0.0 cabelas.7eer.net
 0.0.0.0 cab.gbc.criteo.com
+0.0.0.0 cabot.apxor.com
 0.0.0.0 cac-api.urbanairship.com
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.adviva.net
@@ -6790,6 +6908,7 @@
 0.0.0.0 camp.districtm.net
 0.0.0.0 campeole.widget.criteo.com
 0.0.0.0 canadalife01.webtrekk.net
+0.0.0.0 canadapost.ca.d1.sc.omtrdc.net
 0.0.0.0 canadapost.ca.ssl.d1.sc.omtrdc.net
 0.0.0.0 canadapostpostescanada.ca.ssl.d1.sc.omtrdc.net
 0.0.0.0 canadiandirectfinancial.com.102.112.2o7.net
@@ -6824,6 +6943,7 @@
 0.0.0.0 career.albacross.com
 0.0.0.0 careyads.offerstrack.net
 0.0.0.0 carey.qualtrics.com
+0.0.0.0 cargurus-d.openx.net
 0.0.0.0 carhartt.com.102.112.2o7.net
 0.0.0.0 carhartt.evergage.com
 0.0.0.0 carilion.qualtrics.com
@@ -6834,6 +6954,7 @@
 0.0.0.0 carparts.btttag.com
 0.0.0.0 carrefour.adform.net
 0.0.0.0 carrefour.inq.com
+0.0.0.0 carrefour.touchcommerce.com
 0.0.0.0 carroll.datafirst.io
 0.0.0.0 carsablanca.de.intellitxt.com
 0.0.0.0 cars-callback.ojrq.net
@@ -6887,6 +7008,7 @@
 0.0.0.0 caxton-d.openx.net
 0.0.0.0 cb.17trk.com
 0.0.0.0 cbcca.hb.omtrdc.net
+0.0.0.0 cbcnewmedia.d1.sc.omtrdc.net
 0.0.0.0 cbcnewtriangle411.112.2o7.net
 0.0.0.0 cbcs.qualtrics.com
 0.0.0.0 cbd.pxf.io
@@ -6894,6 +7016,7 @@
 0.0.0.0 c.betrad.com
 0.0.0.0 cbm01.webtrekk.net
 0.0.0.0 cbp.7eer.net
+0.0.0.0 cbqyshgibacnyswp9lu5mveqo5snr1516218870.nuid.imrworldwide.com
 0.0.0.0 cbsallaccess.7eer.net
 0.0.0.0 cbs-allaccess.7eer.net
 0.0.0.0 cbs.az1.qualtrics.com
@@ -6952,6 +7075,7 @@
 0.0.0.0 cdn01.adsafeprotected.com
 0.0.0.0 cdn02.adriver.ru
 0.0.0.0 cdn10.trafficjunky.net
+0.0.0.0 cdn11.contentabc.com
 0.0.0.0 cdn12.contentabc.com
 0.0.0.0 cdn12.lemnisk.co
 0.0.0.0 cdn12-s.lemnisk.co
@@ -6970,6 +7094,7 @@
 0.0.0.0 cdn1.netcoresmartech.com
 0.0.0.0 cdn1-preprod.stickyadstv.com
 0.0.0.0 cdn1.revdepo.com
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.traffichaus.com
 0.0.0.0 cdn1.tribalfusion.com
 0.0.0.0 cdn25.lemnisk.co
@@ -7008,6 +7133,7 @@
 0.0.0.0 cdn.adbrau.com
 0.0.0.0 cdn.adgear.com
 0.0.0.0 cdn.adgrx.com
+0.0.0.0 cdn.adhigh.net
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn-ads.54646.co
@@ -7027,11 +7153,13 @@
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.atdmt.com
 0.0.0.0 cdn.atlassbx.com
+0.0.0.0 cdn.atwola.com
 0.0.0.0 cdn.auditude.com
 0.0.0.0 cdn.auxml.com
 0.0.0.0 cdn.avazu.net
 0.0.0.0 cdn.avazutracking.net
 0.0.0.0 cdn.avocet.io
+0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 cdn.bapi.adsafeprotected.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 cdn.betrad.com
@@ -7055,6 +7183,7 @@
 0.0.0.0 cdn-ci300.actonsoftware.com
 0.0.0.0 cdn-ci30.actonsoftware.com
 0.0.0.0 cdn-ci31.actonsoftware.com
+0.0.0.0 cdn-ci32.actonsoftware.com
 0.0.0.0 cdn-ci33.actonsoftware.com
 0.0.0.0 cdn-ci36.actonsoftware.com
 0.0.0.0 cdn-ci38.actonsoftware.com
@@ -7206,8 +7335,8 @@
 0.0.0.0 cdn-ssi.vidible.tv
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdnstatic2.optimonk.com
-0.0.0.0 cdn-static.optimonk.com
 0.0.0.0 cdnstatic.optimonk.com
+0.0.0.0 cdn-static.optimonk.com
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 cdn.steepto.com
 0.0.0.0 cdn.stickyadstv.com
@@ -7242,6 +7371,7 @@
 0.0.0.0 cdsjp.veinteractive.com
 0.0.0.0 cdsru2.veinteractive.com
 0.0.0.0 cdsusa.veinteractive.com
+0.0.0.0 cds.veinteractive.com
 0.0.0.0 cdt-n.tlnk.io
 0.0.0.0 cdy-5.tlnk.io
 0.0.0.0 ce8-x.tlnk.io
@@ -7310,6 +7440,7 @@
 0.0.0.0 charmingcharlie.qgr.ph
 0.0.0.0 charm.inmobi.com
 0.0.0.0 chartbeat.net
+0.0.0.0 charter.demdex.net
 0.0.0.0 chartmuseum-test.districtm.io
 0.0.0.0 chat.adx1.com
 0.0.0.0 chat.amplify.ai
@@ -7399,6 +7530,7 @@
 0.0.0.0 ci43.actonsoftware.com
 0.0.0.0 ci44.actonsoftware.com
 0.0.0.0 ci45.actonsoftware.com
+0.0.0.0 ci47.actonsoftware.com
 0.0.0.0 ci48.actonsoftware.com
 0.0.0.0 ci50.actonsoftware.com
 0.0.0.0 ci51.actonsoftware.com
@@ -7449,7 +7581,9 @@
 0.0.0.0 ciee.evergage.com
 0.0.0.0 ci.facebook-info.co
 0.0.0.0 cigna.demdex.net
+0.0.0.0 cih-4.tlnk.io
 0.0.0.0 cima.eu.qualtrics.com
+0.0.0.0 cimb.demdex.net
 0.0.0.0 cimetrix.inmobi.com
 0.0.0.0 cineworld.evyy.net
 0.0.0.0 cinyour.accountkit.com
@@ -7495,6 +7629,7 @@
 0.0.0.0 clean.adups.com
 0.0.0.0 clearchannel.adswizz.com
 0.0.0.0 clearchannel.deliveryengine.adswizz.com
+0.0.0.0 clearcomb.com
 0.0.0.0 clearpointhealth.co1.qualtrics.com
 0.0.0.0 cl-gmtdmp.mookie1.com
 0.0.0.0 click2comm.g2afse.com
@@ -7543,6 +7678,7 @@
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clientmanagement.lijit.com
 0.0.0.0 clientmetrics.outbrain.com
+0.0.0.0 client_monitor.isnssdk.com
 0.0.0.0 client.perimeterx.net
 0.0.0.0 client.perimeterx.netclient.perimeterx.net
 0.0.0.0 clients.adcolony.com
@@ -7580,6 +7716,7 @@
 0.0.0.0 cloudservice17.kingsoft-office-service.com
 0.0.0.0 cl-stg.perimeterx.net
 0.0.0.0 clubhousemedia-d.openx.net
+0.0.0.0 clubmed-com-tw.b.appier.net
 0.0.0.0 clubmed.d1.sc.omtrdc.net
 0.0.0.0 clubs-movil.com
 0.0.0.0 cluesnetwork.sc.omtrdc.net
@@ -7627,6 +7764,7 @@
 0.0.0.0 cmp.mediavine.com
 0.0.0.0 cmpmliveto100.112.2o7.net
 0.0.0.0 cmp.sirdata.com
+0.0.0.0 cms.adrise.com
 0.0.0.0 c.msas.media.net
 0.0.0.0 cms.clickability.com
 0.0.0.0 cms.newshuntads.com
@@ -7679,6 +7817,8 @@
 0.0.0.0 cocosa.ojrq.net
 0.0.0.0 codanforsikring.d1.sc.omtrdc.net
 0.0.0.0 coddleinc.pxf.io
+0.0.0.0 codeable.7eer.net
+0.0.0.0 code.crazyegg.com
 0.0.0.0 code.ionicframework.com
 0.0.0.0 code.kissmetrics.com
 0.0.0.0 code.revcontent.com
@@ -7716,9 +7856,11 @@
 0.0.0.0 collector.a.pxi.pub
 0.0.0.0 collector.brandmetrics.com
 0.0.0.0 collector-cn.dataplatform.mobvista.com
+0.0.0.0 collector-mapped.perimeterx.net
 0.0.0.0 collector.perimeterx.net
 0.0.0.0 collector-px0373k8wr.perimeterx.net
 0.0.0.0 collector-px04cd4k9e.perimeterx.net
+0.0.0.0 collector-px04kmklxi.perimeterx.net
 0.0.0.0 collector-px0dqvu288.perimeterx.net
 0.0.0.0 collector-px0f3091f3.perimeterx.net
 0.0.0.0 collector-px0f8cgu5z.perimeterx.net
@@ -7766,6 +7908,7 @@
 0.0.0.0 collector-px89p1cyql.perimeterx.net
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-px8kccwcpc.perimeterx.net
+0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-px964o39ia.perimeterx.net
 0.0.0.0 collector-px9gxgqy6v.perimeterx.net
 0.0.0.0 collector-px9popoyoe.perimeterx.net
@@ -7872,9 +8015,11 @@
 0.0.0.0 collector-pxsnmwx4xg.perimeterx.net
 0.0.0.0 collector-pxsny1d9mw.perimeterx.net
 0.0.0.0 collector-pxstd3oauj.perimeterx.net
+0.0.0.0 collector-pxsudufmqh.perimeterx.net
 0.0.0.0 collector-pxszbkva5m.perimeterx.net
 0.0.0.0 collector-pxt1ewqp42.perimeterx.net
 0.0.0.0 collector-pxtn88q85m.perimeterx.net
+0.0.0.0 collector-pxtsf7wcbr.perimeterx.net
 0.0.0.0 collector-pxtv4zqw3z.perimeterx.net
 0.0.0.0 collector-pxtw69u8ub.perimeterx.net
 0.0.0.0 collector-pxty0ejule.perimeterx.net
@@ -7918,6 +8063,7 @@
 0.0.0.0 collincc.co1.qualtrics.com
 0.0.0.0 colo1.adriver.ru
 0.0.0.0 colo2.adriver.ru
+0.0.0.0 colombiaonline.com
 0.0.0.0 colonialbus.actonsoftware.com
 0.0.0.0 coloradoojpe360.co1.qualtrics.com
 0.0.0.0 com01.webtrekk.net
@@ -8028,6 +8174,7 @@
 0.0.0.0 content.taboola.com
 0.0.0.0 content.tapjoy.com
 0.0.0.0 content.traffichaus.com
+0.0.0.0 content.tubemogul.com
 0.0.0.0 context.bestbuy.com
 0.0.0.0 contextual-ds.media.net
 0.0.0.0 contextualfo.media.net
@@ -8120,6 +8267,7 @@
 0.0.0.0 cp5me8z9qu8eljvyulcxxe1lcntrx1516401361.nuid.imrworldwide.com
 0.0.0.0 cpa.adthink.com
 0.0.0.0 cpaart.offerstrack.net
+0.0.0.0 cpa.connexity.net
 0.0.0.0 cp.act-on.com
 0.0.0.0 cp.adform.net
 0.0.0.0 cpanel.helveticads.com
@@ -8143,6 +8291,7 @@
 0.0.0.0 cps-tracking.mobvista.com
 0.0.0.0 c.pub.network
 0.0.0.0 cpykami.mirtesen.ru
+0.0.0.0 c.quantserve.com
 0.0.0.0 c.r10.mopub.com
 0.0.0.0 crab.baidu.com
 0.0.0.0 crabtree-evelyn.evyy.net
@@ -8201,6 +8350,7 @@
 0.0.0.0 crosspromo.voodoo.io
 0.0.0.0 crowd.amobee.com
 0.0.0.0 crowdfactory.marketo.com
+0.0.0.0 cruisecritic-d.openx.net
 0.0.0.0 crumplerde.widget.criteo.com
 0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 crv-forum.de.intellitxt.com
@@ -8215,12 +8365,14 @@
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.genieesspv.jp
 0.0.0.0 cs.gssprt.jp
+0.0.0.0 csi.kochava.com
 0.0.0.0 c.singular.net
 0.0.0.0 cslogger.media.net
 0.0.0.0 csloggerorigin.media.net
 0.0.0.0 c.smartclick.net
 0.0.0.0 cs.media.net
 0.0.0.0 csm.hk.as.criteo.net
+0.0.0.0 csm.nl.eu.criteo.net
 0.0.0.0 c.snnd.co
 0.0.0.0 csod.co1.qualtrics.com
 0.0.0.0 csorigin.media.net
@@ -8291,6 +8443,7 @@
 0.0.0.0 cvs.qualtrics.com
 0.0.0.0 cw1k9.voluumtrk.com
 0.0.0.0 c.webengage.com
+0.0.0.0 cwhzq.voluumtrk.com
 0.0.0.0 c.w.inmobi.com
 0.0.0.0 cwj-s.tlnk.io
 0.0.0.0 cw.offerstrack.net
@@ -8333,6 +8486,7 @@
 0.0.0.0 d1.sc.omtrdc.net
 0.0.0.0 d1uvhm532ipx9t.cloudfront.net
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
+0.0.0.0 d1vl8wytztdz.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1.zedo.com
 0.0.0.0 d2405b0jymm2dk.cloudfront.net
@@ -8423,6 +8577,9 @@
 0.0.0.0 dalapi.adsafeprotected.com
 0.0.0.0 dalauth.adsafeprotected.com
 0.0.0.0 dalci.adsafeprotected.com
+0.0.0.0 dallmayrde.widget.criteo.com
+0.0.0.0 dal-network-dc3-1.112.2o7.net
+0.0.0.0 dalpixel.adsafeprotected.com
 0.0.0.0 dal-rdc-dc1-6.d1.sc.omtrdc.net
 0.0.0.0 dal-rdc-dc3-6.d1.sc.omtrdc.net
 0.0.0.0 dalsapi.adsafeprotected.com
@@ -8434,6 +8591,7 @@
 0.0.0.0 dansksupermarked.d1.sc.omtrdc.net
 0.0.0.0 dapi.hmdglobal.net
 0.0.0.0 d.applvn.com
+0.0.0.0 d.apptrk.io
 0.0.0.0 daraz01.webtrekk.net
 0.0.0.0 darchermedia-d.openx.net
 0.0.0.0 dart.actonsoftware.com
@@ -8468,6 +8626,7 @@
 0.0.0.0 data32.adlooxtracking.com
 0.0.0.0 data39.adlooxtracking.com
 0.0.0.0 data47.adlooxtracking.com
+0.0.0.0 data49.adlooxtracking.com
 0.0.0.0 data50.adlooxtracking.com
 0.0.0.0 data51.adlooxtracking.com
 0.0.0.0 data52.adlooxtracking.com
@@ -8483,6 +8642,7 @@
 0.0.0.0 data67.adlooxtracking.com
 0.0.0.0 data68.adlooxtracking.com
 0.0.0.0 data.actnx.com
+0.0.0.0 data.adroll.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.api.cnn.io
@@ -8518,6 +8678,7 @@
 0.0.0.0 datam04.adlooxtracking.com
 0.0.0.0 datam07.adlooxtracking.com
 0.0.0.0 datam09.adlooxtracking.com
+0.0.0.0 datam10.adlooxtracking.com
 0.0.0.0 datam11.adlooxtracking.com
 0.0.0.0 datam12.adlooxtracking.com
 0.0.0.0 datam13.adlooxtracking.com
@@ -8540,6 +8701,7 @@
 0.0.0.0 data.pokkinw.com
 0.0.0.0 data-provider.alfa.smartlook.com
 0.0.0.0 data-provider.beta.smartlook.com
+0.0.0.0 datas01.adlooxtracking.com
 0.0.0.0 datas02.adlooxtracking.com
 0.0.0.0 datas03.adlooxtracking.com
 0.0.0.0 datas04.adlooxtracking.com
@@ -8681,6 +8843,7 @@
 0.0.0.0 delivery2.trafficjunky.net
 0.0.0.0 delivery3.trafficjunky.net
 0.0.0.0 delivery6.trafficjunky.net
+0.0.0.0 delivery9.trafficjunky.net
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery.adswizz.com
 0.0.0.0 deliveryagent.tt.omtrdc.net
@@ -8688,11 +8851,14 @@
 0.0.0.0 delivery.beta.switchadhub.com
 0.0.0.0 delivery.b.switchadhub.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
+0.0.0.0 delivery.c.switchadhub.com
 0.0.0.0 delivery.dev.vidible.tv
 0.0.0.0 delivery.d.switchadhub.com
 0.0.0.0 deliveryengine.181fm.adswizz.com
+0.0.0.0 deliveryengine.accuradio.adswizz.com
 0.0.0.0 deliveryengine.adio.adswizz.com
 0.0.0.0 deliveryengine.audimark.adswizz.com
+0.0.0.0 deliveryengine.audioad.adswizz.com
 0.0.0.0 deliveryengine.cox.adswizz.com
 0.0.0.0 deliveryengine.deezer.adswizz.com
 0.0.0.0 deliveryengine.di.adswizz.com
@@ -8794,6 +8960,7 @@
 0.0.0.0 device-detect.browsiprod.com
 0.0.0.0 device.insert.io
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 de-videovalis.a.videoplaza.tv
 0.0.0.0 de-videovalis.cdn.videoplaza.tv
 0.0.0.0 devopschefserver.moengage.com
 0.0.0.0 devsite.amobee.com
@@ -8936,6 +9103,7 @@
 0.0.0.0 dk-politiken.cdn.videoplaza.tv
 0.0.0.0 dk-politiken.videoplaza.tv
 0.0.0.0 dk-sbs.a.videoplaza.tv
+0.0.0.0 dkufc.voluumtrk.com
 0.0.0.0 dl01.casalemedia.com
 0.0.0.0 dl02.casalemedia.com
 0.0.0.0 dl03.casalemedia.com
@@ -8999,6 +9167,7 @@
 0.0.0.0 dolgozhitel.mirtesen.ru
 0.0.0.0 dollar-shave-club.7eer.net
 0.0.0.0 dollar-shave-club.evyy.net
+0.0.0.0 dollarshaveclubsandbox.optimove.net
 0.0.0.0 dollarshaveclubtracksdk.optimove.net
 0.0.0.0 dollarsmafia.offerstrack.net
 0.0.0.0 dollartree.evergage.com
@@ -9057,9 +9226,11 @@
 0.0.0.0 dp69yah41q.kameleoon.eu
 0.0.0.0 dpaxe.voluumtrk.com
 0.0.0.0 dp-dashboard.fyber.com
+0.0.0.0 dp.g.doubleclick.net
 0.0.0.0 dpjxu.voluumtrk.com
 0.0.0.0 dplus.cnzz.com
 0.0.0.0 dpndczlul8yjf.cloudfront.net
+0.0.0.0 dppm69v99cbc4sidvthuof245apod1508268681.nuid.imrworldwide.com
 0.0.0.0 dp.qcarsdk.com
 0.0.0.0 dps.sc.omtrdc.net
 0.0.0.0 dp-sync.dotomi.com
@@ -9135,6 +9306,7 @@
 0.0.0.0 dts.ushareit.com
 0.0.0.0 dtv-e.tlnk.io
 0.0.0.0 dtyan.voluumtrk.com
+0.0.0.0 dub-1.go.sonobi.com
 0.0.0.0 dub-1-xcp.go.sonobi.com
 0.0.0.0 dubaiproperties.eu.qualtrics.com
 0.0.0.0 dubbi.moengage.com
@@ -9163,6 +9335,7 @@
 0.0.0.0 dw7omaxv-976a77275cde7a97eb79903afc810f8b4e0bce10-am1.d.aa.online-metrix.net
 0.0.0.0 dwlgy3cbzwx0epffr5ahotaey2xi81509193991.nuid.imrworldwide.com
 0.0.0.0 dxikjxrd2vncaiiljgp2hyuasv0g91516627765.nuid.imrworldwide.com
+0.0.0.0 dx.news-subscribe.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dxqaiqhghuvd5viodawjlnbld7gdy1508652690.nuid.imrworldwide.com
 0.0.0.0 dy4y2.voluumtrk.com
@@ -9218,6 +9391,7 @@
 0.0.0.0 eaglerivercu.com.102.112.2o7.net
 0.0.0.0 eamobile.qualtrics.com
 0.0.0.0 e.a.mobimagic.com
+0.0.0.0 eandysmith.1cash1234the2.c2strack.com
 0.0.0.0 ea.qualtrics.com
 0.0.0.0 earthtv01.webtrekk.net
 0.0.0.0 easacademy.org.102.112.2o7.net
@@ -9233,6 +9407,7 @@
 0.0.0.0 ebaydefairmarket5.112.2o7.net
 0.0.0.0 ebayeub-d.openx.net
 0.0.0.0 ebayitgb.widget.criteo.com
+0.0.0.0 ebayssl.doubleclick.net
 0.0.0.0 ebayukb-d.openx.net
 0.0.0.0 ebe3-ad9d-992b-3990.reporo.net
 0.0.0.0 ebooks.localytics.com
@@ -9332,6 +9507,7 @@
 0.0.0.0 egm-d.openx.net
 0.0.0.0 eg.news-subscribe.com
 0.0.0.0 egraffiti-d.openx.net
+0.0.0.0 ehif.zedo.com
 0.0.0.0 ei.cnzz.com
 0.0.0.0 eic.qgraph.io
 0.0.0.0 eintrachtbraunschweig01.webtrekk.net
@@ -9347,11 +9523,13 @@
 0.0.0.0 elcinema.sa.intellitxt.com
 0.0.0.0 eldamar02-loadbalanced.kameleoon.com
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
+0.0.0.0 eldirtysw01.inq.com
 0.0.0.0 eldirtysw01.touchcommerce.com
 0.0.0.0 eleconomista.d1.sc.omtrdc.net
 0.0.0.0 electroworld.se.d1.sc.omtrdc.net
 0.0.0.0 electroworld.sk.d1.sc.omtrdc.net
 0.0.0.0 elektro211.mirtesen.ru
+0.0.0.0 elektropointde.widget.criteo.com
 0.0.0.0 elephantqueue.com
 0.0.0.0 eleven05media-d.openx.net
 0.0.0.0 elgiganten.se.d1.sc.omtrdc.net
@@ -9435,11 +9613,13 @@
 0.0.0.0 engine.special-offers.online
 0.0.0.0 engine.spotscenered.info
 0.0.0.0 engine.streamate.doublepimp.com
+0.0.0.0 engine.voodoo-ads.io
 0.0.0.0 eng.leanplum.com
 0.0.0.0 eng.tapjoy.com
 0.0.0.0 enhance-d.openx.net
 0.0.0.0 enigma.kissmetrics.com
 0.0.0.0 enjoyadsplatform.com
+0.0.0.0 ens-activatesandbox.activate.ensighten.com
 0.0.0.0 ens-ca-central1-a.nexus.ensighten.com
 0.0.0.0 ense-prod.vidible.tv
 0.0.0.0 ense-stage.vidible.tv
@@ -9452,6 +9632,7 @@
 0.0.0.0 ens-us-central1-a.nexus.ensighten.com
 0.0.0.0 ensy2ll8damkafnriif5qww9bgv7r1516681636.nuid.imrworldwide.com
 0.0.0.0 ens-z-eu-west1-a.nexus.ensighten.com
+0.0.0.0 ensz-prod.vidible.tv
 0.0.0.0 ensz-stage.vidible.tv
 0.0.0.0 entegra.ca.102.112.2o7.net
 0.0.0.0 entercom.deliveryengine.adswizz.com
@@ -9473,6 +9654,7 @@
 0.0.0.0 eos.co1.qualtrics.com
 0.0.0.0 ep3.performfeeds.com
 0.0.0.0 epetworld01.webtrekk.net
+0.0.0.0 epicfoodmap.7eer.net
 0.0.0.0 epochtimes.evergage.com
 0.0.0.0 epo-g.tlnk.io
 0.0.0.0 epoxy.veinteractive.com
@@ -9612,14 +9794,15 @@
 0.0.0.0 eu-rtb.vertamedia.com
 0.0.0.0 eur-ukp.adsrvr.org
 0.0.0.0 eus.rubiconproject.com
+0.0.0.0 eu-static.load.exelator.com
 0.0.0.0 eu-tlx.3lift.com
 0.0.0.0 eu-u.openx.net
 0.0.0.0 euwdirect.adsrvr.org
 0.0.0.0 eu-west-1-prodfb-t.singular.net
 0.0.0.0 eu-west-1-prod-t.singular.net
 0.0.0.0 eu-west.load.exelator.com
-0.0.0.0 euwfb.adsrvr.org
 0.0.0.0 euw.fb.adsrvr.org
+0.0.0.0 euwfb.adsrvr.org
 0.0.0.0 euwvideo.adsrvr.org
 0.0.0.0 eu.xapads.com
 0.0.0.0 e-v2.presage.io
@@ -9749,6 +9932,7 @@
 0.0.0.0 exts77apk.com
 0.0.0.0 exture.d1.sc.omtrdc.net
 0.0.0.0 extvpn.adriver.ru
+0.0.0.0 ex.umengcloud.com
 0.0.0.0 ey1lv9nhuasb44mytbxmlrofbh2ht1516629008.nuid.imrworldwide.com
 0.0.0.0 eyeota.net
 0.0.0.0 eyeota-sync.dotomi.com
@@ -9869,6 +10053,7 @@
 0.0.0.0 fashionid01.webtrekk.net
 0.0.0.0 fashionsistersde.widget.criteo.com
 0.0.0.0 fast.127.demdex.net
+0.0.0.0 fast.19618.demdex.net
 0.0.0.0 fast1track.info
 0.0.0.0 fast.aaas.demdex.net
 0.0.0.0 fast.aarp.demdex.net
@@ -9913,6 +10098,7 @@
 0.0.0.0 fast.bmc.demdex.net
 0.0.0.0 fast.bmwfr.demdex.net
 0.0.0.0 fast.bmwuk.demdex.net
+0.0.0.0 fast.bofa.demdex.net
 0.0.0.0 fast.cam.demdex.net
 0.0.0.0 fast.cancertreatmentcentersofamericainc.demdex.net
 0.0.0.0 fast.candb.demdex.net
@@ -9936,6 +10122,7 @@
 0.0.0.0 fast.creditcards-com.demdex.net
 0.0.0.0 fast.daimlerag.demdex.net
 0.0.0.0 fast.deakin.demdex.net
+0.0.0.0 fast.dena.demdex.net
 0.0.0.0 fast.diageo.demdex.net
 0.0.0.0 fast.diceholdings.demdex.net
 0.0.0.0 fast.directv.demdex.net
@@ -9987,9 +10174,11 @@
 0.0.0.0 fast.infinitihelioschina.demdex.net
 0.0.0.0 fast.infinitiheliosemea.demdex.net
 0.0.0.0 fast.intelcorp.demdex.net
+0.0.0.0 fast.interlinebrandsinc.demdex.net
 0.0.0.0 fast.isaca.demdex.net
 0.0.0.0 fast.ithaka.demdex.net
 0.0.0.0 fast.jacuadpu1403.demdex.net
+0.0.0.0 fast.junkeemedia.demdex.net
 0.0.0.0 fast.k12inc.demdex.net
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
@@ -10084,6 +10273,7 @@
 0.0.0.0 fast.shell.demdex.net
 0.0.0.0 fast.shopperschoice.demdex.net
 0.0.0.0 fast.siemens.demdex.net
+0.0.0.0 fast.singaporetourismboard.demdex.net
 0.0.0.0 fast.skyit.demdex.net
 0.0.0.0 fast.snagajob.demdex.net
 0.0.0.0 fast.solarwindsworldwidellc.demdex.net
@@ -10118,6 +10308,7 @@
 0.0.0.0 fast.varickmm.demdex.net
 0.0.0.0 fast.verizon.demdex.net
 0.0.0.0 fast.verizonpoc.demdex.net
+0.0.0.0 fast.versacespa.demdex.net
 0.0.0.0 fast.vfc.demdex.net
 0.0.0.0 fast.virginatlantic.demdex.net
 0.0.0.0 fast.virginaustralia.demdex.net
@@ -10134,6 +10325,7 @@
 0.0.0.0 fast.walgreens.demdex.net
 0.0.0.0 fast.webmd.demdex.net
 0.0.0.0 fast.webmotors.demdex.net
+0.0.0.0 fast.websenseinc.demdex.net
 0.0.0.0 fast.westthomson.demdex.net
 0.0.0.0 fast.williamhill.demdex.net
 0.0.0.0 fast.wogaa.demdex.net
@@ -10253,6 +10445,7 @@
 0.0.0.0 financebooks01.webtrekk.net
 0.0.0.0 financialtimes.printthis.clickability.com
 0.0.0.0 finanzportal20.112.2o7.net
+0.0.0.0 finanztreff.de.intellitxt.com
 0.0.0.0 find.keywordblocks.com
 0.0.0.0 findmystay.qgr.ph
 0.0.0.0 finewaytracksdk.optimove.net
@@ -10326,6 +10519,7 @@
 0.0.0.0 fmp-apitest.mobvista.com
 0.0.0.0 fmpbeta.mobvista.com
 0.0.0.0 fmp-materialbeta.mobvista.com
+0.0.0.0 fmp-material.mobvista.com
 0.0.0.0 fmp.mobvista.com
 0.0.0.0 fmptest.mobvista.com
 0.0.0.0 fmru.qualtrics.com
@@ -10357,6 +10551,7 @@
 0.0.0.0 forcesofnature.evergage.com
 0.0.0.0 fordapa.sc.omtrdc.net
 0.0.0.0 ford-co-th.b.appier.net
+0.0.0.0 ford.demdex.net
 0.0.0.0 ford-edge-forum.de.intellitxt.com
 0.0.0.0 fordscene.de.intellitxt.com
 0.0.0.0 forebase-d.openx.net
@@ -10413,6 +10608,7 @@
 0.0.0.0 fptadtrue-d.openx.net
 0.0.0.0 fq540.co1.qualtrics.com
 0.0.0.0 fq.pxf.io
+0.0.0.0 fqtag.com
 0.0.0.0 fr01.webtrekk.net
 0.0.0.0 fr10.casalemedia.com
 0.0.0.0 fr11.casalemedia.com
@@ -10421,8 +10617,10 @@
 0.0.0.0 fr.ad.lgsmartad.com
 0.0.0.0 fr.adserver.yahoo.com
 0.0.0.0 fr.advertising.com
+0.0.0.0 fr-advertstream.a.videoplaza.tv
 0.0.0.0 fr-advideum.a.videoplaza.tv
 0.0.0.0 fr-advideum.videoplaza.tv
+0.0.0.0 frailoffer.com
 0.0.0.0 fr-amaurymedias.a.videoplaza.tv
 0.0.0.0 fr-amaurymedias.cdn.videoplaza.tv
 0.0.0.0 fr-amaurymedias.videoplaza.tv
@@ -10464,6 +10662,7 @@
 0.0.0.0 fr-himedia.cdn.videoplaza.tv
 0.0.0.0 fr-himedia.videoplaza.tv
 0.0.0.0 friendscout24.112.2o7.net
+0.0.0.0 friendscout24.be.ssl.d1.sc.omtrdc.net
 0.0.0.0 friendscout24be.widget.criteo.com
 0.0.0.0 friendscout24.d1.sc.omtrdc.net
 0.0.0.0 friendscout24.d3.sc.omtrdc.net
@@ -10474,7 +10673,9 @@
 0.0.0.0 fr-m6.videoplaza.tv
 0.0.0.0 fr.marketo.com
 0.0.0.0 fr-meteofrance.cdn.videoplaza.tv
+0.0.0.0 fromyouflowers.evyy.net
 0.0.0.0 frontend-na.collective.kochava.com
+0.0.0.0 frontendqa.innovid.com
 0.0.0.0 frontgate.btttag.com
 0.0.0.0 front-logs.voodoo-ads.io
 0.0.0.0 front.optimonk.com
@@ -10507,6 +10708,7 @@
 0.0.0.0 functionalclam.com
 0.0.0.0 functionpoint.evergage.com
 0.0.0.0 fundigital.offerstrack.net
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 funkedigital-d.openx.net
 0.0.0.0 funko.pxf.io
 0.0.0.0 funneltrack.zestmoney.in
@@ -10517,6 +10719,7 @@
 0.0.0.0 fusion-d.openx.net
 0.0.0.0 fussball-spielplan.de.intellitxt.com
 0.0.0.0 fusspflegeforum.de.intellitxt.com
+0.0.0.0 futura-sciences.fr.intellitxt.com
 0.0.0.0 futuroscope.widget.criteo.com
 0.0.0.0 fuzeclick.offerstrack.net
 0.0.0.0 fuzzyflavor.com
@@ -10600,6 +10803,7 @@
 0.0.0.0 gaminator.optimove.net
 0.0.0.0 gaming.optimove.net
 0.0.0.0 gamma.act-on.com
+0.0.0.0 ga.mmstat.com
 0.0.0.0 gannett.demdex.net
 0.0.0.0 gan.ppp.contentdef.com
 0.0.0.0 gantcouk.pxf.io
@@ -10613,6 +10817,7 @@
 0.0.0.0 gartentipps24.de.intellitxt.com
 0.0.0.0 g.atdmt.com
 0.0.0.0 gatech.qualtrics.com
+0.0.0.0 gate.fwmrm.net
 0.0.0.0 gate.smi2.net
 0.0.0.0 gateway.adotmob.com
 0.0.0.0 gateway.adx1.com
@@ -10641,6 +10846,7 @@
 0.0.0.0 gce-sc.bidswitch.net
 0.0.0.0 gcmapi.wshareit.com
 0.0.0.0 gc.news-subscribe.com
+0.0.0.0 g.crwdcntrl.net
 0.0.0.0 gd.cname1.getui.com
 0.0.0.0 gdpr.openvoice.dev.vidible.tv
 0.0.0.0 gdpr.openvoice.prod.vidible.tv
@@ -10675,6 +10881,7 @@
 0.0.0.0 generation-nt.fr.intellitxt.com
 0.0.0.0 generator.sharethrough.com
 0.0.0.0 genesistrial.co1.qualtrics.com
+0.0.0.0 genieeintl-d.openx.net
 0.0.0.0 genieejapan-d.openx.net
 0.0.0.0 geniusdisplay.com
 0.0.0.0 gentlemansbox.pxf.io
@@ -10683,6 +10890,7 @@
 0.0.0.0 geocode.usefomo.com
 0.0.0.0 geofence.sys.miui.com
 0.0.0.0 geoip.fing.io
+0.0.0.0 geoip.tnt-ea.com
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.moatads.comgeo.moatads.com
 0.0.0.0 geoproxy.criteo.net
@@ -10858,6 +11066,7 @@
 0.0.0.0 go.ero-advertising.com
 0.0.0.0 goertz01.webtrekk.net
 0.0.0.0 go-export.gameanalytics.com
+0.0.0.0 go.ezoic.net
 0.0.0.0 gofck9dksjxvs3akbdtm02c7pac0p1516627918.nuid.imrworldwide.com
 0.0.0.0 gofghc142ywqttuiil7igylahzxpf1510241541.nuid.imrworldwide.com
 0.0.0.0 go.gameanalytics.com
@@ -10887,6 +11096,7 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 go.narrative.io
 0.0.0.0 go.nativiumnetworks.com
+0.0.0.0 gondar.meitustat.com
 0.0.0.0 gon-d.openx.net
 0.0.0.0 go.netbew.com
 0.0.0.0 go.netcoresmartech.com
@@ -10899,6 +11109,7 @@
 0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 google-analytics.com
 0.0.0.0 google-analytics.com.prx.proxywebsite.co.uk
+0.0.0.0 google.east-s2s.1rx.io
 0.0.0.0 googleforwork.co1.qualtrics.com
 0.0.0.0 googleplaysetvices.com
 0.0.0.0 google.rtb.adx1.com
@@ -11043,6 +11254,7 @@
 0.0.0.0 grayftp.clickability.com
 0.0.0.0 graylog.apxor.com
 0.0.0.0 gray.printthis.clickability.com
+0.0.0.0 graytv.mediacache.clickability.com
 0.0.0.0 greatsong.cdn.videoplaza.tv
 0.0.0.0 greenadsmedia.offerstrack.net
 0.0.0.0 greenhousewarehouse.ojrq.net
@@ -11060,19 +11272,22 @@
 0.0.0.0 grizlymedia-d.openx.net
 0.0.0.0 grocery-pup.pxf.io
 0.0.0.0 grooksom.com
+0.0.0.0 groundlink.evergage.com
 0.0.0.0 groupees.com
 0.0.0.0 grouppublishing.evergage.com
 0.0.0.0 growthy-release-growthywebcollector-80-kr.gcld-line.com
 0.0.0.0 grow.urbanairship.com
 0.0.0.0 grpconverter.teads.tv
-0.0.0.0 grtb-central1a.tribalfusion.com
+0.0.0.0 grtb-asia-east1a.tribalfusion.com
 0.0.0.0 grtb.central1a.tribalfusion.com
-0.0.0.0 grtb-central1b.tribalfusion.com
+0.0.0.0 grtb-central1a.tribalfusion.com
 0.0.0.0 grtb.central1b.tribalfusion.com
+0.0.0.0 grtb-central1b.tribalfusion.com
 0.0.0.0 grubhub.pxf.io
 0.0.0.0 grupobbva.d1.sc.omtrdc.net
 0.0.0.0 gruppofinelco01.webtrekk.net
 0.0.0.0 gruppofinlco01.webtrekk.net
+0.0.0.0 gsassets1.getsocial.io
 0.0.0.0 g.scorecardresearch.com
 0.0.0.0 g.segment.com
 0.0.0.0 gs-forum.de.intellitxt.com
@@ -11164,6 +11379,7 @@
 0.0.0.0 hackathon.pubmatic.com
 0.0.0.0 h-airbnb3.online-metrix.net
 0.0.0.0 hairextensionbuy.7eer.net
+0.0.0.0 haltoncatholic.co1.qualtrics.com
 0.0.0.0 halvarsson-ar-cision-2007.112.2o7.net
 0.0.0.0 hamanasi.btttag.com
 0.0.0.0 handelsblatt01.webtrekk.net
@@ -11178,6 +11394,7 @@
 0.0.0.0 h-api.online-metrix.net
 0.0.0.0 h-api-sb.online-metrix.net
 0.0.0.0 h-api-test.online-metrix.net
+0.0.0.0 happychic.d1.sc.omtrdc.net
 0.0.0.0 happypancake-d.openx.net
 0.0.0.0 happysizechde.widget.criteo.com
 0.0.0.0 happysizede.widget.criteo.com
@@ -11196,6 +11413,7 @@
 0.0.0.0 hartconsultingservices2.actonsoftware.com
 0.0.0.0 harvard.evergage.com
 0.0.0.0 hashlearnblog.moengage.com
+0.0.0.0 haste.kochava.com
 0.0.0.0 h.atdmt.com
 0.0.0.0 hatena-d.openx.net
 0.0.0.0 haushaltsgeld.de.intellitxt.com
@@ -11225,6 +11443,7 @@
 0.0.0.0 hbint.emxdgt.com
 0.0.0.0 hbk.shuzilm.cn
 0.0.0.0 hb.lifecycle.norton.com
+0.0.0.0 hbmp-prebid-server.adtelligent.com
 0.0.0.0 hbmp-support.adtelligent.com
 0.0.0.0 hb.nexage.com
 0.0.0.0 hbolag.hb.omtrdc.net
@@ -11232,6 +11451,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hb.pubmatic.com
 0.0.0.0 hbsdk-config.log.smaato.net
+0.0.0.0 hb.sekindo.com
 0.0.0.0 hbs.ph.affinity.com
 0.0.0.0 hb-us.adtech.advertising.com
 0.0.0.0 hb.vertamedia.com
@@ -11310,6 +11530,7 @@
 0.0.0.0 heritageglobal1.112.2o7.net
 0.0.0.0 hermestest01.webtrekk.net
 0.0.0.0 heroinemake-hk.b.appier.net
+0.0.0.0 herrenausstatterde.widget.criteo.com
 0.0.0.0 herts.eu.qualtrics.com
 0.0.0.0 hervis01.webtrekk.net
 0.0.0.0 heutewohnende.widget.criteo.com
@@ -11322,14 +11543,15 @@
 0.0.0.0 hff3yfhl-061cc9f505e8c6fe4712053fb0014765ba287d21-am1.d.aa.online-metrix.net
 0.0.0.0 hff3yfhl-337ab947aead68924fae94de741645f24da98c15-am1.d.aa.online-metrix.net
 0.0.0.0 hff3yfhl-678740df6bd34a2d96ee4f216d0fd00d7dfa3616-am1.d.aa.online-metrix.net
+0.0.0.0 hff3yfhl-6fc95cc80b0643540e650061b7c759db34e11fc1-am1.d.aa.online-metrix.net
 0.0.0.0 hff3yfhl-7f7bc6bd2f70cf08db405b5bcaf3d9948b319d5a-am1.d.aa.online-metrix.net
 0.0.0.0 hff3yfhl-ca392f580439b652cc7ed518b3d05c83c48d039d-am1.d.aa.online-metrix.net
 0.0.0.0 hff3yfhl-f9129327e8740ae05db6df3bae5be3cca6c4ae25-am1.d.aa.online-metrix.net
 0.0.0.0 hfph5.voluumtrk.com
 0.0.0.0 hfyd5.voluumtrk.com
 0.0.0.0 hg8dc7bm.com
-0.0.0.0 hgb-s.tlnk.io
 0.0.0.0 hgbs.tlnk.io
+0.0.0.0 hgb-s.tlnk.io
 0.0.0.0 hgd64tl8z6nsnvickclfvr5g9wabi1508220340.nuid.imrworldwide.com
 0.0.0.0 hghcom.evyy.net
 0.0.0.0 hgqgdt.mirtesen.ru
@@ -11368,6 +11590,7 @@
 0.0.0.0 hkbuhk.qualtrics.com
 0.0.0.0 hkdsp-hw.mobvista.com
 0.0.0.0 hkekmym4-6b8f2559b2f85152d1dcc193cc2675dd3ccba4c7-am1.d.aa.online-metrix.net
+0.0.0.0 hkekmym4-93bf1e1fab8bcfbe76eb7f8cfaa0873a0b78297f-am1.d.aa.online-metrix.net
 0.0.0.0 hkfylggs6wxmiftfskpjfucgza7yi1508211711.nuid.imrworldwide.com
 0.0.0.0 hkg-rtb.applovin.com
 0.0.0.0 hkgstage-rtb.applovin.com
@@ -11474,8 +11697,10 @@
 0.0.0.0 hrsde.widget.criteo.com
 0.0.0.0 hsadmin.clickability.com
 0.0.0.0 hsadspixel.net
+0.0.0.0 hsbcbankglobal.sc.omtrdc.net
 0.0.0.0 hsbc.pxf.io
 0.0.0.0 hs.clickability.com
+0.0.0.0 h.scorecardresearch.com
 0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 hsg0svzo1i850ot0wo4eqhsjpk6vz1507564120.nuid.imrworldwide.com
 0.0.0.0 hs.moatads.com
@@ -11512,6 +11737,7 @@
 0.0.0.0 hub.uk.intellitxt.com
 0.0.0.0 hub.vertamedia.com
 0.0.0.0 huckberry.evergage.com
+0.0.0.0 hudson.adx1.com
 0.0.0.0 huffingtonpost.de.intellitxt.com
 0.0.0.0 hugoboss01.webtrekk.net
 0.0.0.0 hu.info.lgsmartad.com
@@ -11558,11 +11784,13 @@
 0.0.0.0 hzs2.cnzz.com
 0.0.0.0 hzs3.cnzz.com
 0.0.0.0 hzs6.cnzz.com
+0.0.0.0 hzs7.cnzz.com
 0.0.0.0 hzs9.cnzz.com
 0.0.0.0 hzvs1.cnzz.com
 0.0.0.0 i002.casalemedia.com
 0.0.0.0 i003.casalemedia.com
 0.0.0.0 i004.casalemedia.com
+0.0.0.0 i005.casalemedia.com
 0.0.0.0 i065.casalemedia.com
 0.0.0.0 i0.static.mf.ma.spartan.contentdef.com
 0.0.0.0 i-1006.b-0.ad.bench.utorrent.com
@@ -11706,6 +11934,7 @@
 0.0.0.0 id.rlcdn.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 idvert.offerstrack.net
+0.0.0.0 ieee.co1.qualtrics.com
 0.0.0.0 ieee.us2.qualtrics.com
 0.0.0.0 iefqr.voluumtrk.com
 0.0.0.0 ie.info.lgsmartad.com
@@ -11763,6 +11992,7 @@
 0.0.0.0 imagecache.crowdynews.com
 0.0.0.0 image-eu.moengage.com
 0.0.0.0 image-news.mirtesen.ru
+0.0.0.0 imagepusher02-ext.fwmrm.net
 0.0.0.0 image.reporo.net
 0.0.0.0 imageresizer.services.adx1.com
 0.0.0.0 imageresizer.shoelace.com
@@ -11787,6 +12017,7 @@
 0.0.0.0 images.mopub.com
 0.0.0.0 images.parsely.com
 0.0.0.0 images.skimresources.com
+0.0.0.0 images.startappservice.com
 0.0.0.0 images.statcounter.com
 0.0.0.0 images.switchadhub.com
 0.0.0.0 imagestar.actonsoftware.com
@@ -11804,6 +12035,7 @@
 0.0.0.0 imedo01.webtrekk.net
 0.0.0.0 imf.org.102.112.2o7.net
 0.0.0.0 img01.coofinder.com
+0.0.0.0 img01.webtrekk.net
 0.0.0.0 img03.webtrekk.net
 0.0.0.0 img05.webtrekk.net
 0.0.0.0 img5.adbucks.com
@@ -11822,6 +12054,7 @@
 0.0.0.0 imgg-cdn.mgid.com
 0.0.0.0 imgg-cdn.steepto.com
 0.0.0.0 imgg.mgid.com
+0.0.0.0 imgg.steepto.com
 0.0.0.0 imghtlak.mmtcdn.com
 0.0.0.0 img.launcher.ksmobile.com
 0.0.0.0 img.media.net
@@ -11846,6 +12079,7 @@
 0.0.0.0 immoweltde.widget.criteo.com
 0.0.0.0 imoderate.co1.qualtrics.com
 0.0.0.0 im.ov.yahoo.co.jp
+0.0.0.0 impactradius.com
 0.0.0.0 impactradius-event.com
 0.0.0.0 impactradius.pxf.io
 0.0.0.0 impactradius-tag.com
@@ -11928,6 +12162,7 @@
 0.0.0.0 index.umeng.com
 0.0.0.0 index-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 index-winners-us-east-1-rtb.adroll.com
+0.0.0.0 index-winners-us-west-2-rtb.adroll.com
 0.0.0.0 india.activity.browser.intl.miui.com
 0.0.0.0 indiadc.adups.com
 0.0.0.0 indiegala.evyy.net
@@ -11995,6 +12230,7 @@
 0.0.0.0 inline.vidible.tv
 0.0.0.0 inmap.zeotap.com
 0.0.0.0 inmobiassets.inmobicdn.net
+0.0.0.0 inmobicdn.net
 0.0.0.0 inneractive-assets.s3.amazonaws.com
 0.0.0.0 inneractive-d.openx.net
 0.0.0.0 inner-active.mobi
@@ -12109,6 +12345,8 @@
 0.0.0.0 inventory.veinteractive.com
 0.0.0.0 invest.admitad.com
 0.0.0.0 investor.rubiconproject.com
+0.0.0.0 investors.fyber.com
+0.0.0.0 investor.tubemogul.com
 0.0.0.0 investor-verlag.de.intellitxt.com
 0.0.0.0 in-viacom18.a.videoplaza.tv
 0.0.0.0 in-viacom18.videoplaza.tv
@@ -12222,6 +12460,7 @@
 0.0.0.0 itr.brandreachsys.com
 0.0.0.0 itrealstory.com
 0.0.0.0 i-trip.getui.com
+0.0.0.0 it.rojadirecta.eu
 0.0.0.0 itt.coremetrics.com
 0.0.0.0 it.tubeadvertising.eu
 0.0.0.0 it-v2.presage.io
@@ -12271,6 +12510,7 @@
 0.0.0.0 iyukjnwuyxddgs6tc2yy6efqksffx1507543791.nuid.imrworldwide.com
 0.0.0.0 iz682noju02ye5.com
 0.0.0.0 izidress.7eer.net
+0.0.0.0 iznqogdjnkx2kek9rylvooqlprge51516220276.nuid.imrworldwide.com
 0.0.0.0 j086zxxcoewcpcibrabw0eqcrdyab1515420800.nuid.imrworldwide.com
 0.0.0.0 j0ftyshieroevw7baknjf9wczyqev1509434311.nuid.imrworldwide.com
 0.0.0.0 j15-5.tlnk.io
@@ -12288,6 +12528,7 @@
 0.0.0.0 j8ck72di-203165276eb7299f1362cf4664f3c99b2a3ce5c6-am1.d.aa.online-metrix.net
 0.0.0.0 j8ck72di-2d8346c29f867728949361dcdd540c02da2daca0-sac.d.aa.online-metrix.net
 0.0.0.0 j8ck72di-37e5928bd6c368df8aae3602d913a9fe72f9c9e9-am1.d.aa.online-metrix.net
+0.0.0.0 j8ck72di-4ab1e29919ef56b835483591d27fe989caddaa33-am1.d.aa.online-metrix.net
 0.0.0.0 j8ck72di-62e7b2584072717244c3aa989d2d26a64aa5152a-am1.d.aa.online-metrix.net
 0.0.0.0 j8ck72di-6be26185ffd88970154fc2c7acf6b3ef2e8c1afb-am1.d.aa.online-metrix.net
 0.0.0.0 j8ck72di-6eea385b12cb304ee87042fe5f2c34be61d989fa-am1.d.aa.online-metrix.net
@@ -12410,6 +12651,7 @@
 0.0.0.0 jp.tubemogul.com
 0.0.0.0 jp-u.openx.net
 0.0.0.0 jrqtuk0iravokplxvapb35nnqeo711510243181.nuid.imrworldwide.com
+0.0.0.0 jrxu3ap2-8b4a08d6df7b717d2766f65bd0dbad0956934000-am1.d.aa.online-metrix.net
 0.0.0.0 jrxu3ap2-dd84af45dbe60f0e00dfba22ff683bfe0a9680e8-am1.d.aa.online-metrix.net
 0.0.0.0 js02.adlooxtracking.com
 0.0.0.0 js07.adlooxtracking.com
@@ -12456,6 +12698,7 @@
 0.0.0.0 js.smi2.ru
 0.0.0.0 jssocdn.indiatimes.com
 0.0.0.0 jstatic.top
+0.0.0.0 js.trendmd.com
 0.0.0.0 jsu.mgid.com
 0.0.0.0 jsu.qualtrics.com
 0.0.0.0 jsv2scr.andbeyond.media
@@ -12491,6 +12734,7 @@
 0.0.0.0 justeasyrecipes.za.intellitxt.com
 0.0.0.0 justfab.7eer.net
 0.0.0.0 justfab.pxf.io
+0.0.0.0 justfly.partner.intentmedia.net
 0.0.0.0 justinmobi.offerstrack.net
 0.0.0.0 just.onetag.com
 0.0.0.0 justpremium-d.openx.net
@@ -12583,6 +12827,7 @@
 0.0.0.0 kbs.az1.qualtrics.com
 0.0.0.0 kb.sokrati.com
 0.0.0.0 kb.zedo.com
+0.0.0.0 kcivm1qcihfosqsnvonnkz1v7wgba1508682710.nuid.imrworldwide.com
 0.0.0.0 kclbs.qualtrics.com
 0.0.0.0 kc.tapjoy.com
 0.0.0.0 kd6h3gtdew.kameleoon.eu
@@ -12659,6 +12904,7 @@
 0.0.0.0 kinorun.online
 0.0.0.0 kissmetrics.com
 0.0.0.0 kitchenaid-australia.pxf.io
+0.0.0.0 kitchen.consumable.com
 0.0.0.0 kj1v9k8x-b1cd149b73d62d11deffd169bb565aa5eb692ceb-am1.d.aa.online-metrix.net
 0.0.0.0 kjnwnuzwaic6mltfwc1heegk0we1c1516336202.nuid.imrworldwide.com
 0.0.0.0 kjz0e0caky7fdenqamgooihc7jyzq1506958102.nuid.imrworldwide.com
@@ -12811,6 +13057,7 @@
 0.0.0.0 launcher-us.yeshen.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchmedia-d.openx.net
+0.0.0.0 launchpoint.marketo.com
 0.0.0.0 laureate.co1.qualtrics.com
 0.0.0.0 lavernepsych.co1.qualtrics.com
 0.0.0.0 lawyerleads.pxf.io
@@ -12880,10 +13127,12 @@
 0.0.0.0 leanstreamdemand.deliveryengine.adswizz.com
 0.0.0.0 leaplife.pxf.io
 0.0.0.0 leapmobs.com
+0.0.0.0 learnadmin.marketo.com
 0.0.0.0 learnasleadei.co1.qualtrics.com
 0.0.0.0 learn.doubleclick.net
 0.0.0.0 learning.pxf.io
 0.0.0.0 learn.marketo.com
+0.0.0.0 learn.onthe.io
 0.0.0.0 learn.segment.com
 0.0.0.0 lebara-mobile.pxf.io
 0.0.0.0 lecu.ca.102.112.2o7.net
@@ -12951,6 +13200,7 @@
 0.0.0.0 lga-tag-stage.contextweb.com
 0.0.0.0 lg.brandreachsys.com
 0.0.0.0 lg-forum.de.intellitxt.com
+0.0.0.0 lgncal.media.net
 0.0.0.0 lg.smardroid.com
 0.0.0.0 lgsmartad.com
 0.0.0.0 libertymutualvoc.co1.qualtrics.com
@@ -12989,6 +13239,7 @@
 0.0.0.0 limangooutletde.widget.criteo.com
 0.0.0.0 lime54.g2afse.com
 0.0.0.0 limecrimetracksdk.optimove.net
+0.0.0.0 limestonecu.com.102.112.2o7.net
 0.0.0.0 limpid.g2afse.com
 0.0.0.0 limra.co1.qualtrics.com
 0.0.0.0 linkasia.g2afse.com
@@ -13076,6 +13327,7 @@
 0.0.0.0 lo.data.liveperson.net
 0.0.0.0 lodenfreyde.widget.criteo.com
 0.0.0.0 loetschberger01.webtrekk.net
+0.0.0.0 log15.byteoversea.com
 0.0.0.0 log2.musical.ly
 0.0.0.0 log2.tapatalk.com
 0.0.0.0 log2-useast2a.musical.ly
@@ -13146,8 +13398,10 @@
 0.0.0.0 lo-lpcdn.lpsnmedia.net
 0.0.0.0 lo.marketer.lpsnmedia.net
 0.0.0.0 lon5-network-dc1-1.112.2o7.net
+0.0.0.0 lon5-rdc-dc1-1.d1.sc.omtrdc.net
 0.0.0.0 lon5-rdc-dc2-1.sc.omtrdc.net
 0.0.0.0 longslb1.fwmrm.net
+0.0.0.0 lonrca03.marketo.com
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonscreencap.marketo.com
 0.0.0.0 look.7eer.net
@@ -13218,6 +13472,7 @@
 0.0.0.0 lululemonhk.btttag.com
 0.0.0.0 lululemonnz.btttag.com
 0.0.0.0 lululemonspna.btttag.com
+0.0.0.0 lululemonuk.btttag.com
 0.0.0.0 lulupress.evergage.com
 0.0.0.0 lumasde.widget.criteo.com
 0.0.0.0 lumens.evyy.net
@@ -13345,6 +13600,7 @@
 0.0.0.0 main.dynsrvbaa.com
 0.0.0.0 main.dynsrvcab.com
 0.0.0.0 main.exdynsrv.com
+0.0.0.0 main.exoclick.com
 0.0.0.0 main.exosrv.com
 0.0.0.0 mainstreetcu.ca.102.112.2o7.net
 0.0.0.0 major7-net.b.appier.net
@@ -13353,6 +13609,7 @@
 0.0.0.0 makemytrip.tt.omtrdc.net
 0.0.0.0 maks-s2010.mirtesen.ru
 0.0.0.0 malayalamanorama.demdex.net
+0.0.0.0 malealous.com
 0.0.0.0 malnutrition.com.102.112.2o7.net
 0.0.0.0 malta.eu.qualtrics.com
 0.0.0.0 mamibuy-com-tw.b.appier.net
@@ -13406,6 +13663,7 @@
 0.0.0.0 mapstats12.stickyadstv.com
 0.0.0.0 mapstats131.stickyadstv.com
 0.0.0.0 mapstats151.stickyadstv.com
+0.0.0.0 mapstats160.stickyadstv.com
 0.0.0.0 mapstats161.stickyadstv.com
 0.0.0.0 mapstats162.stickyadstv.com
 0.0.0.0 mapstats170.stickyadstv.com
@@ -13435,6 +13693,7 @@
 0.0.0.0 mapstats60.stickyadstv.com
 0.0.0.0 mapstats62.stickyadstv.com
 0.0.0.0 mapstats70.stickyadstv.com
+0.0.0.0 mapstats71.stickyadstv.com
 0.0.0.0 mapstats80.stickyadstv.com
 0.0.0.0 mapstats81.stickyadstv.com
 0.0.0.0 mapstats82.stickyadstv.com
@@ -13496,8 +13755,9 @@
 0.0.0.0 master.ads.contentabc.com
 0.0.0.0 mastercard.demdex.net
 0.0.0.0 mastercontrol.evergage.com
-0.0.0.0 mastercontrolmcusdev1.112.2o7.net
+0.0.0.0 mastercontrolmcdedev1.112.2o7.net
 0.0.0.0 mastercontrolmcus-dev1.112.2o7.net
+0.0.0.0 mastercontrolmcusdev1.112.2o7.net
 0.0.0.0 masterd01.webtrekk.net
 0.0.0.0 masterh1.adriver.ru
 0.0.0.0 masterh3.adriver.ru
@@ -13513,6 +13773,7 @@
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 matchadsrvr.yieldmo.com
+0.0.0.0 match.bnmla.com
 0.0.0.0 match-d.openx.net
 0.0.0.0 matchnet.everesttech.net
 0.0.0.0 match.prod.bidr.io
@@ -13540,6 +13801,7 @@
 0.0.0.0 maximarkets.mirtesen.ru
 0.0.0.0 maximintegrated.d1.sc.omtrdc.net
 0.0.0.0 maxonclick.com
+0.0.0.0 maxstream.prod.vidible.tv
 0.0.0.0 maxstream.stage.vidible.tv
 0.0.0.0 maxtopmedia.g2afse.com
 0.0.0.0 maxwellscottbags.evyy.net
@@ -13585,8 +13847,8 @@
 0.0.0.0 m.coremetrics.com
 0.0.0.0 mcresearch.co1.qualtrics.com
 0.0.0.0 mc.s10.exacttarget.com
-0.0.0.0 mcseboard.de.intellitxt.com
 0.0.0.0 mcseboard-de.intellitxt.com
+0.0.0.0 mcseboard.de.intellitxt.com
 0.0.0.0 mcs.liveperson.net
 0.0.0.0 mcsspx1lcsv4y5gqf0gxzwc0ornbb1504909810.nuid.imrworldwide.com
 0.0.0.0 mc.yandex.ru
@@ -13594,6 +13856,7 @@
 0.0.0.0 md-a-d.apptimize.com
 0.0.0.0 m.data.mob.com
 0.0.0.0 m-dev.addthis.com
+0.0.0.0 md-i-c.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 md-nj.lfstmedia.com
@@ -13619,6 +13882,7 @@
 0.0.0.0 media3.clickability.com
 0.0.0.0 media-ams5.msg.dotomi.com
 0.0.0.0 mediabarterexchange.com
+0.0.0.0 media-bofa.inq.com
 0.0.0.0 mediaboost.g2afse.com
 0.0.0.0 media.brandreachsys.com
 0.0.0.0 mediabuying.offerstrack.net
@@ -13687,6 +13951,7 @@
 0.0.0.0 mendix.evergage.com
 0.0.0.0 menkind.evyy.net
 0.0.0.0 menshealth.de.intellitxt.com
+0.0.0.0 menu-rezepte.de.intellitxt.com
 0.0.0.0 meraxes.polarmobile.com
 0.0.0.0 mercedesbenz.pxf.io
 0.0.0.0 mercedes-forum.de.intellitxt.com
@@ -13701,6 +13966,7 @@
 0.0.0.0 messagenovice.com
 0.0.0.0 messages.rubiconproject.com
 0.0.0.0 messefrankfurt01.webtrekk.net
+0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 mestovsetin01.webtrekk.net
 0.0.0.0 metabase.data.districtm.io
 0.0.0.0 metabase.taplytics.com
@@ -13723,6 +13989,7 @@
 0.0.0.0 metrics-config.icloud.com
 0.0.0.0 metrics.data.districtm.io
 0.0.0.0 metrics.dmx.districtm.io
+0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.hb.omtrdc.net
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metricsishare.rediff.com
@@ -13793,6 +14060,7 @@
 0.0.0.0 middleman.kissmetrics.com
 0.0.0.0 migo-it-blog.de.intellitxt.com
 0.0.0.0 miipsite01.ci.ev1.inmobi.com
+0.0.0.0 milani.pxf.io
 0.0.0.0 milb.com.102.112.2o7.net
 0.0.0.0 mileskimball.7eer.net
 0.0.0.0 milestone.evergage.com
@@ -13834,6 +14102,7 @@
 0.0.0.0 mit.co1.qualtrics.com
 0.0.0.0 mitewerbi.pw
 0.0.0.0 mitraksh.offerstrack.net
+0.0.0.0 mitsubishimotorsaustralia.d1.sc.omtrdc.net
 0.0.0.0 mittelstandscafe.de.intellitxt.com
 0.0.0.0 mitv.tracking.intl.miui.com
 0.0.0.0 mitv.tracking.miui.com
@@ -13913,6 +14182,7 @@
 0.0.0.0 mobilecore-thor.ironbeast.io
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 mobile-displayads-uk.l.doubleclick.net
+0.0.0.0 mobile-d.openx.net
 0.0.0.0 mobile-global.baidu.com
 0.0.0.0 mobile.hiido.com
 0.0.0.0 mobile-http-intake.logs.datadoghq.com
@@ -13955,6 +14225,7 @@
 0.0.0.0 mobtions.g2afse.com
 0.0.0.0 mobtions.go2affise.com
 0.0.0.0 mobtray.offerstrack.net
+0.0.0.0 mobtrio.g2afse.com
 0.0.0.0 mobvista.com
 0.0.0.0 mobx.offerstrack.net
 0.0.0.0 mockapi.bfmio.com
@@ -13983,11 +14254,14 @@
 0.0.0.0 momondodk.widget.criteo.com
 0.0.0.0 momondose.widget.criteo.com
 0.0.0.0 momoshop-com-tw.b.appier.net
+0.0.0.0 momox01.webtrekk.net
+0.0.0.0 mon1.marketo.com
 0.0.0.0 monade.widget.criteo.com
 0.0.0.0 monadvert.g2afse.com
 0.0.0.0 monash.az1.qualtrics.com
 0.0.0.0 monashmnhs.qualtrics.com
 0.0.0.0 mondoads.s3.amazonaws.com
+0.0.0.0 m.one.impact-ad.jp
 0.0.0.0 monerominer.rocks
 0.0.0.0 monetizemore-d.openx.net
 0.0.0.0 monetizeplus.g2afse.com
@@ -14226,6 +14500,7 @@
 0.0.0.0 myusa.veinteractive.com
 0.0.0.0 my.veinteractive.com
 0.0.0.0 mzadx.go2affise.com
+0.0.0.0 mzvxlpf76f.kameleoon.eu
 0.0.0.0 n1quq.voluumtrk.com
 0.0.0.0 n2.mouseflow.com
 0.0.0.0 n3dmfcgy-1463a5c4bc2f975198617ea090479191a888b1e6-am1.d.aa.online-metrix.net
@@ -14248,6 +14523,7 @@
 0.0.0.0 na-ab16.marketo.com
 0.0.0.0 na-ab17.marketo.com
 0.0.0.0 na-ab19.marketo.com
+0.0.0.0 na-ab21.marketo.com
 0.0.0.0 na-ab22.marketo.com
 0.0.0.0 na-ab23.marketo.com
 0.0.0.0 na-ab25.marketo.com
@@ -14290,6 +14566,7 @@
 0.0.0.0 na-lon02.marketo.com
 0.0.0.0 na-lon04.marketo.com
 0.0.0.0 namecheap.pxf.io
+0.0.0.0 namesakeoscilloscopemarquis.com
 0.0.0.0 nametraff.com
 0.0.0.0 namics01.webtrekk.net
 0.0.0.0 na-m.marketo.com
@@ -14305,6 +14582,7 @@
 0.0.0.0 na-sj09.marketo.com
 0.0.0.0 na-sj11.marketo.com
 0.0.0.0 na-sj12.marketo.com
+0.0.0.0 na-sj13.marketo.com
 0.0.0.0 na-sj14.marketo.com
 0.0.0.0 na-sj15.marketo.com
 0.0.0.0 na-sj16.marketo.com
@@ -14341,6 +14619,7 @@
 0.0.0.0 na-tlx.3lift.com
 0.0.0.0 navabide.widget.criteo.com
 0.0.0.0 navabi-fr.pxf.io
+0.0.0.0 navabi-nl.pxf.io
 0.0.0.0 nav.cn.ronghub.com
 0.0.0.0 navdmp.com
 0.0.0.0 navientinc.d1.sc.omtrdc.net
@@ -14404,8 +14683,8 @@
 0.0.0.0 netaddiction01.webtrekk.net
 0.0.0.0 netafimusa.actonsoftware.com
 0.0.0.0 net.cleverjp.com
-0.0.0.0 netcologne01.webtrekk.net
 0.0.0.0 netcologne-01.webtrekk.net
+0.0.0.0 netcologne01.webtrekk.net
 0.0.0.0 netcore.go2affise.com
 0.0.0.0 netcoresmartech.com
 0.0.0.0 net-hk.casalemedia.com
@@ -14445,6 +14724,7 @@
 0.0.0.0 newclk.apxadtracking.net
 0.0.0.0 newday2media.offerstrack.net
 0.0.0.0 newdom.mirtesen.ru
+0.0.0.0 neweggbusiness.com.102.112.2o7.net
 0.0.0.0 newegg-com-tw.b.appier.net
 0.0.0.0 newegg.d1.sc.omtrdc.net
 0.0.0.0 newegg.evergage.com
@@ -14526,6 +14806,7 @@
 0.0.0.0 nhkonline.hb.omtrdc.net
 0.0.0.0 nhl.evergage.com
 0.0.0.0 nh.news-subscribe.com
+0.0.0.0 nhpvz.voluumtrk.com
 0.0.0.0 nh-stage-ads.newshuntads.com
 0.0.0.0 nh-stage-memcache.newshuntads.com
 0.0.0.0 nhtsa.demdex.net
@@ -14617,6 +14898,7 @@
 0.0.0.0 noom.pxf.io
 0.0.0.0 no-rbnett.cdn.videoplaza.tv
 0.0.0.0 nordice01.webtrekk.net
+0.0.0.0 norma-external-collect.meizu.com
 0.0.0.0 northernlightscollege.d1.sc.omtrdc.net
 0.0.0.0 northstartravelmedia.d1.sc.omtrdc.net
 0.0.0.0 northwesternalumni.co1.qualtrics.com
@@ -14636,6 +14918,7 @@
 0.0.0.0 notify-api.wshareit.com
 0.0.0.0 notify.beap.gemini.yahoo.com
 0.0.0.0 notrack.adviva.net
+0.0.0.0 notrk.marketo.com
 0.0.0.0 no-tv2.cdn.videoplaza.tv
 0.0.0.0 no-tv2.videoplaza.tv
 0.0.0.0 no-tvnorge.videoplaza.tv
@@ -14655,6 +14938,7 @@
 0.0.0.0 novorosinform.mirtesen.ru
 0.0.0.0 novostidni.mirtesen.ru
 0.0.0.0 nowchik.mirtesen.ru
+0.0.0.0 np-coburg.de.intellitxt.com
 0.0.0.0 npgrjxywuozb5tadcgr4ybdhbi00o1509207450.nuid.imrworldwide.com
 0.0.0.0 npr.adswizz.com
 0.0.0.0 npr.deliveryengine.adswizz.com
@@ -14675,6 +14959,7 @@
 0.0.0.0 nqs-nl12-c2.youboranqs01.com
 0.0.0.0 nqs-nl1-c2.youboranqs01.com
 0.0.0.0 nqs-nl1.youboranqs01.com
+0.0.0.0 nqs-nl2-c12.youboranqs01.com
 0.0.0.0 nqs-nl2.youboranqs01.com
 0.0.0.0 nqs-nl5-c14.youboranqs01.com
 0.0.0.0 nqs-nl5-c15.youboranqs01.com
@@ -14693,6 +14978,7 @@
 0.0.0.0 nrc.sd.duapps.com
 0.0.0.0 nresearch.co1.qualtrics.com
 0.0.0.0 nrjfr.adswizz.com
+0.0.0.0 nrjintl.adswizz.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 ns01.amobee.com
 0.0.0.0 ns02.amobee.com
@@ -14706,6 +14992,7 @@
 0.0.0.0 ns1.clickability.com
 0.0.0.0 ns1.ensighten.com
 0.0.0.0 ns1.inmobi.com
+0.0.0.0 ns1.marketo.com
 0.0.0.0 ns1.mediaplex.com
 0.0.0.0 ns1.mirtesen.ru
 0.0.0.0 ns1.puserving.com
@@ -14791,6 +15078,8 @@
 0.0.0.0 ny13.casalemedia.com
 0.0.0.0 ny14.casalemedia.com
 0.0.0.0 ny5expe.fwmrm.net
+0.0.0.0 nyc-208-gw1.fwmrm.net
+0.0.0.0 nycadvip1-d.fwmrm.net
 0.0.0.0 nycc.az1.qualtrics.com
 0.0.0.0 nycdnsint01-ext.fwmrm.net
 0.0.0.0 nycdnsint02-ext.fwmrm.net
@@ -14803,6 +15092,7 @@
 0.0.0.0 nyiapi.adsafeprotected.com
 0.0.0.0 nyiauth.adsafeprotected.com
 0.0.0.0 nyidt.adsafeprotected.com
+0.0.0.0 nyipm.adsafeprotected.com
 0.0.0.0 nyisapi.adsafeprotected.com
 0.0.0.0 nyistatic.adsafeprotected.com
 0.0.0.0 nyivideo.adsafeprotected.com
@@ -14847,6 +15137,7 @@
 0.0.0.0 obi01.webtrekk.net
 0.0.0.0 obi-at01.webtrekk.net
 0.0.0.0 obi-com01.webtrekk.net
+0.0.0.0 obi-ru01.webtrekk.net
 0.0.0.0 obix.pro
 0.0.0.0 obovsem.mirtesen.ru
 0.0.0.0 obs01.lax1.appnexus.com
@@ -14861,9 +15152,11 @@
 0.0.0.0 ocbc.demdex.net
 0.0.0.0 ocdc1.112.2o7.net
 0.0.0.0 oclc.org.102.112.2o7.net
+0.0.0.0 octagoncommerce.d1.sc.omtrdc.net
 0.0.0.0 octagoncommerce.ssl.d1.sc.omtrdc.net
 0.0.0.0 octaneup.offerstrack.net
 0.0.0.0 ocx.umeng.com
+0.0.0.0 o.data.mistat.xiaomi.com
 0.0.0.0 od.news-subscribe.com
 0.0.0.0 odnoklassniki2010.mirtesen.ru
 0.0.0.0 odnoklassnikiuz.mirtesen.ru
@@ -14911,6 +15204,7 @@
 0.0.0.0 oimageb2.ydstatic.com
 0.0.0.0 oimageb8.ydstatic.com
 0.0.0.0 oimagec3.ydstatic.com
+0.0.0.0 oimagec4.ydstatic.com
 0.0.0.0 oimagec8.ydstatic.com
 0.0.0.0 oit.co1.qualtrics.com
 0.0.0.0 oj6bsvei1fdzlqndwoynzfgeo4vua1508699181.nuid.imrworldwide.com
@@ -14975,6 +15269,7 @@
 0.0.0.0 onclklnd.com
 0.0.0.0 ondango01.webtrekk.net
 0.0.0.0 one97adworks.com
+0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneclass.pxf.io
 0.0.0.0 oneclick2.brandreachsys.com
 0.0.0.0 onedirect7710893.widget.criteo.com
@@ -15028,6 +15323,7 @@
 0.0.0.0 openx-cm.p.veruta.com
 0.0.0.0 openxeu.solocpm.com
 0.0.0.0 openxjapan-d.openx.net
+0.0.0.0 operationsmile.evergage.com
 0.0.0.0 opinionresearch.co1.qualtrics.com
 0.0.0.0 oplus.cnzz.com
 0.0.0.0 oplus.umeng.com
@@ -15050,6 +15346,7 @@
 0.0.0.0 optimizedby.brealtime.com
 0.0.0.0 optimize.intellectads.co.in
 0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 optimize.tercept.com
 0.0.0.0 optimove.net
 0.0.0.0 optionsscheinecheck.de.intellitxt.com
 0.0.0.0 opt.media.net
@@ -15086,9 +15383,11 @@
 0.0.0.0 ord-res.dotomi.com
 0.0.0.0 oregon.qualtrics.com
 0.0.0.0 oregonstate.qualtrics.com
+0.0.0.0 organicalews.info
 0.0.0.0 orientaltrading.customtraffic.impactradius.com
 0.0.0.0 origin.360yield.com
 0.0.0.0 original-grain-watch-us.pxf.io
+0.0.0.0 origin-app-sjp.marketo.com
 0.0.0.0 originaz1.qualtrics.com
 0.0.0.0 origincdn.cpmstar.com
 0.0.0.0 originco1.qualtrics.com
@@ -15174,6 +15473,7 @@
 0.0.0.0 outdatedbrowser.com
 0.0.0.0 outlineagency.go2affise.com
 0.0.0.0 outnorthdk.widget.criteo.com
+0.0.0.0 outnorthfi.widget.criteo.com
 0.0.0.0 outnorthse.widget.criteo.com
 0.0.0.0 overstock.7eer.net
 0.0.0.0 ovhd2.voluumtrk.com
@@ -15198,6 +15498,7 @@
 0.0.0.0 ox.news-subscribe.com
 0.0.0.0 ox-rtb-fkb.connexity.net
 0.0.0.0 oxy.qualtrics.com
+0.0.0.0 ozarx.evergage.com
 0.0.0.0 oz.cnzz.com
 0.0.0.0 ozfj4ftcumyhbra8vqviqyskgivi81511179800.nuid.imrworldwide.com
 0.0.0.0 ozon.d2.sc.omtrdc.net
@@ -15244,6 +15545,7 @@
 0.0.0.0 p166468.inclk.com
 0.0.0.0 p170034.inclk.com
 0.0.0.0 p170602.inclk.com
+0.0.0.0 p172946.clksite.com
 0.0.0.0 p174490.clksite.com
 0.0.0.0 p174976.clksite.com
 0.0.0.0 p175694.inclk.com
@@ -15283,6 +15585,7 @@
 0.0.0.0 p208916.inclk.com
 0.0.0.0 p211372.clksite.com
 0.0.0.0 p211777.clksite.com
+0.0.0.0 p213984.clksite.com
 0.0.0.0 p214316.inclk.com
 0.0.0.0 p215099.inclk.com
 0.0.0.0 p215717.clksite.com
@@ -15334,6 +15637,7 @@
 0.0.0.0 p260540.inclk.com
 0.0.0.0 p2605.inclk.com
 0.0.0.0 p261064.clksite.com
+0.0.0.0 p261512.clksite.com
 0.0.0.0 p264325.inclk.com
 0.0.0.0 p26822.clksite.com
 0.0.0.0 p28101.inclk.com
@@ -15389,6 +15693,7 @@
 0.0.0.0 p78815.clksite.com
 0.0.0.0 p78815.inclk.com
 0.0.0.0 p78929.clksite.com
+0.0.0.0 p81145.inclk.com
 0.0.0.0 p83217.inclk.com
 0.0.0.0 p83544.clksite.com
 0.0.0.0 p83609.clksite.com
@@ -15419,6 +15724,7 @@
 0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagelines.ojrq.net
+0.0.0.0 pagely.7eer.net
 0.0.0.0 pages.amobee.com
 0.0.0.0 pages.chartboost.com
 0.0.0.0 pages.crittercism.com
@@ -15448,6 +15754,7 @@
 0.0.0.0 papersmart01.webtrekk.net
 0.0.0.0 parameter.lionmobi.com
 0.0.0.0 parasolco.pxf.io
+0.0.0.0 parexel.evergage.com
 0.0.0.0 paribus.evyy.net
 0.0.0.0 parkettstorede.widget.criteo.com
 0.0.0.0 parsely.com
@@ -15481,6 +15788,7 @@
 0.0.0.0 pasta.esfile.duapps.com
 0.0.0.0 pasta.sd.duapps.com
 0.0.0.0 paste-d.openx.net
+0.0.0.0 pastepb-d.openx.net
 0.0.0.0 pat02.sna.connexity.net
 0.0.0.0 patch-d.openx.net
 0.0.0.0 path.blismedia.com
@@ -15584,6 +15892,7 @@
 0.0.0.0 personalization.demandbase.com
 0.0.0.0 personaltrainerfood.pxf.io
 0.0.0.0 personas.unbounce.com
+0.0.0.0 peruvianconnection.evergage.com
 0.0.0.0 pespn.chartbeat.net
 0.0.0.0 pet360.7eer.net
 0.0.0.0 petchesa.net
@@ -15725,6 +16034,8 @@
 0.0.0.0 pixel2072.everesttech.net
 0.0.0.0 pixel2078.everesttech.net
 0.0.0.0 pixel2089.everesttech.net
+0.0.0.0 pixel2112.everesttech.net
+0.0.0.0 pixel2113.everesttech.net
 0.0.0.0 pixel2114.everesttech.net
 0.0.0.0 pixel2116.everesttech.net
 0.0.0.0 pixel2121.everesttech.net
@@ -15744,6 +16055,7 @@
 0.0.0.0 pixel2334.everesttech.net
 0.0.0.0 pixel2340.everesttech.net
 0.0.0.0 pixel2341.everesttech.net
+0.0.0.0 pixel2344.everesttech.net
 0.0.0.0 pixel2348.everesttech.net
 0.0.0.0 pixel2349.everesttech.net
 0.0.0.0 pixel2364.everesttech.net
@@ -15770,8 +16082,10 @@
 0.0.0.0 pixel2609.everesttech.net
 0.0.0.0 pixel2629.everesttech.net
 0.0.0.0 pixel2745.everesttech.net
+0.0.0.0 pixel2823.everesttech.net
 0.0.0.0 pixel2.moatads.com
 0.0.0.0 pixel3569.everesttech.net
+0.0.0.0 pixel3571.everesttech.net
 0.0.0.0 pixel3575.everesttech.net
 0.0.0.0 pixel389.everesttech.net
 0.0.0.0 pixel4411.everesttech.net
@@ -15815,6 +16129,7 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.runative-syndicate.com
+0.0.0.0 pixel-s2s.mathtag.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel-scl2.everesttech.net
 0.0.0.0 pixel.sojern.com
@@ -15827,6 +16142,7 @@
 0.0.0.0 pixel-useast.adsymptotic.com
 0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel-user-1039.everesttech.net
+0.0.0.0 pixel-user-1065.everesttech.net
 0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.xapads.com
@@ -15849,6 +16165,7 @@
 0.0.0.0 pl106619.puserving.com
 0.0.0.0 pl106665.puserving.com
 0.0.0.0 pl107891.puserving.com
+0.0.0.0 pl108220.puserving.com
 0.0.0.0 pl108258.puserving.com
 0.0.0.0 pl109619.puserving.com
 0.0.0.0 pl11071240.puserving.com
@@ -15862,6 +16179,7 @@
 0.0.0.0 pl116581.puserving.com
 0.0.0.0 pl117016.puserving.com
 0.0.0.0 pl117566.puserving.com
+0.0.0.0 pl118422.puserving.com
 0.0.0.0 pl11854705.puserving.com
 0.0.0.0 pl118992.puserving.com
 0.0.0.0 pl12259669.puserving.com
@@ -15882,6 +16200,7 @@
 0.0.0.0 pl12642910.puserving.com
 0.0.0.0 pl12645051.puserving.com
 0.0.0.0 pl12645052.puserving.com
+0.0.0.0 pl12645082.puserving.com
 0.0.0.0 pl12645170.puserving.com
 0.0.0.0 pl12645566.puserving.com
 0.0.0.0 pl12645662.puserving.com
@@ -15974,6 +16293,7 @@
 0.0.0.0 pl14242950.puserving.com
 0.0.0.0 pl14243188.puserving.com
 0.0.0.0 pl14243706.puserving.com
+0.0.0.0 pl14259960.puserving.com
 0.0.0.0 pl142796.puserving.com
 0.0.0.0 pl142816.puserving.com
 0.0.0.0 pl14288505.puserving.com
@@ -16009,6 +16329,7 @@
 0.0.0.0 pl14324213.puserving.com
 0.0.0.0 pl14324372.puserving.com
 0.0.0.0 pl14325221.puserving.com
+0.0.0.0 pl14325222.puserving.com
 0.0.0.0 pl14326688.puserving.com
 0.0.0.0 pl14326822.puserving.com
 0.0.0.0 pl14327048.puserving.com
@@ -16043,6 +16364,7 @@
 0.0.0.0 pl14407824.puserving.com
 0.0.0.0 pl14409391.puserving.com
 0.0.0.0 pl14414173.puserving.com
+0.0.0.0 pl14414541.puserving.com
 0.0.0.0 pl14419370.puserving.com
 0.0.0.0 pl14420123.puserving.com
 0.0.0.0 pl14421040.puserving.com
@@ -16053,6 +16375,7 @@
 0.0.0.0 pl14433843.puserving.com
 0.0.0.0 pl144495.puserving.com
 0.0.0.0 pl146001.puserving.com
+0.0.0.0 pl156432.puserving.com
 0.0.0.0 pl1577.puserving.com
 0.0.0.0 pl166977.puserving.com
 0.0.0.0 pl167643.puserving.com
@@ -16074,6 +16397,7 @@
 0.0.0.0 pl3862660.puserving.com
 0.0.0.0 pl3864780.puserving.com
 0.0.0.0 pl3864833.puserving.com
+0.0.0.0 pl3866911.puserving.com
 0.0.0.0 pl3867831.puserving.com
 0.0.0.0 pl3869248.puserving.com
 0.0.0.0 pl3869836.puserving.com
@@ -16135,10 +16459,12 @@
 0.0.0.0 plumvoice.evergage.com
 0.0.0.0 pluralsight.hb.omtrdc.net
 0.0.0.0 pluralsight.pxf.io
+0.0.0.0 pluralsight.tt.omtrdc.net
 0.0.0.0 pl.ventunotech.com
 0.0.0.0 pmbilling1.pubmatic.com
 0.0.0.0 pmc-d.openx.net
 0.0.0.0 pmcsierra.d1.sc.omtrdc.net
+0.0.0.0 pmediauk.7eer.net
 0.0.0.0 pmetrics.getclicky.com
 0.0.0.0 pmetrics.performancing.com
 0.0.0.0 pm.everesttech.net
@@ -16338,6 +16664,7 @@
 0.0.0.0 privacy.crwdcntrl.net
 0.0.0.0 privacy.ensighten.com
 0.0.0.0 privacy.yieldmo.com
+0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privymktg.com
 0.0.0.0 prizegrab-d.openx.net
 0.0.0.0 proactivplus.inq.com
@@ -16346,6 +16673,8 @@
 0.0.0.0 procore.evergage.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod.accountkit.com
+0.0.0.0 prod.adspsp.com
+0.0.0.0 prod-a-usa.applovin.com
 0.0.0.0 prodfb-t.singular.net
 0.0.0.0 prodigys01.webtrekk.net
 0.0.0.0 prod-m-node-2111.ssp.advertising.com
@@ -16382,8 +16711,8 @@
 0.0.0.0 pro-market.net
 0.0.0.0 promediagrp-d.openx.net
 0.0.0.0 promfederation.voodoo-ads.io
-0.0.0.0 promicabana-de.intellitxt.com
 0.0.0.0 promicabana.de.intellitxt.com
+0.0.0.0 promicabana-de.intellitxt.com
 0.0.0.0 promilounge.de.intellitxt.com
 0.0.0.0 promisefinancial.evyy.net
 0.0.0.0 promo2.brandreachsys.com
@@ -16421,6 +16750,7 @@
 0.0.0.0 proton.flurry.com
 0.0.0.0 proton-int.flurry.com
 0.0.0.0 provincialcu.com.102.112.2o7.net
+0.0.0.0 proxidigital.deliveryengine.adswizz.com
 0.0.0.0 proxiregie.adswizz.com
 0.0.0.0 proxy1.switchadhub.com
 0.0.0.0 proxy2.switchadhub.com
@@ -16439,6 +16769,7 @@
 0.0.0.0 psa.aralego.com
 0.0.0.0 psa.carambo.la
 0.0.0.0 pscdn1.lbesec.com
+0.0.0.0 pscu.ca.102.112.2o7.net
 0.0.0.0 psdhannoverde.widget.criteo.com
 0.0.0.0 psebsifil.com
 0.0.0.0 ps-eu.amazon-adsystem.com
@@ -16476,6 +16807,7 @@
 0.0.0.0 ptr8.adreactor.com
 0.0.0.0 ptr9.adreactor.com
 0.0.0.0 ptrcache.brandreachsys.com
+0.0.0.0 pt.themoneytizer.com
 0.0.0.0 pt.trafficjunky.net
 0.0.0.0 pt.umeng.com
 0.0.0.0 ptv-prod-lb.tubemogul.com
@@ -16533,6 +16865,7 @@
 0.0.0.0 pug11000c.pubmatic.com
 0.0.0.0 pug22000c.pubmatic.com
 0.0.0.0 pug22000nc.pubmatic.com
+0.0.0.0 pug22000n.pubmatic.com
 0.0.0.0 pug33000c.pubmatic.com
 0.0.0.0 pug33000.pubmatic.com
 0.0.0.0 pug55000c.pubmatic.com
@@ -16618,6 +16951,7 @@
 0.0.0.0 pxob5twirq.perimeterx.net
 0.0.0.0 pxq76auu14.perimeterx.net
 0.0.0.0 pxqukd4lo9.perimeterx.net
+0.0.0.0 pxrw7m6iav.perimeterx.net
 0.0.0.0 pxs.atomex.net
 0.0.0.0 pxscdn.atomex.net
 0.0.0.0 px.srvcs.tumblr.com
@@ -16733,7 +17067,9 @@
 0.0.0.0 query-us-west1.petametrics.com
 0.0.0.0 questionfly.com
 0.0.0.0 questline2.actonsoftware.com
+0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 queuer.sandbox53.localytics.com
+0.0.0.0 quickhandy01.webtrekk.net
 0.0.0.0 quickpivot.evergage.com
 0.0.0.0 quickreview.online
 0.0.0.0 quidcotracksdk.optimove.net
@@ -16774,6 +17110,7 @@
 0.0.0.0 radforum.de.intellitxt.com
 0.0.0.0 radioactive.adswizz.com
 0.0.0.0 radioactive.deliveryengine.adswizz.com
+0.0.0.0 radioactive.ui.adswizz.com
 0.0.0.0 radiohamburg.fussifreunde.de.intellitxt.com
 0.0.0.0 radioshack.7eer.net
 0.0.0.0 radio.stickyadstv.com
@@ -16828,6 +17165,7 @@
 0.0.0.0 rcom-use.dynamicyield.com
 0.0.0.0 rcom-usw2.dynamicyield.com
 0.0.0.0 rcom-www.dynamicyield.com
+0.0.0.0 rcp.c.appier.net
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rc.studio.inmobicdn.net
 0.0.0.0 rc-studio.inmobi.com
@@ -16875,6 +17213,7 @@
 0.0.0.0 recs.coremetrics.com
 0.0.0.0 recs.de.coremetrics.com
 0.0.0.0 redbeacon.ojrq.net
+0.0.0.0 redboxinstant.7eer.net
 0.0.0.0 redbull01.webtrekk.net
 0.0.0.0 redbullmediahouse.hb.omtrdc.net
 0.0.0.0 redbullmediahouse.sc.omtrdc.net
@@ -16948,6 +17287,7 @@
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 report-designer.vidible.tv
+0.0.0.0 reporting-02.adomik.com
 0.0.0.0 reporting-03.adomik.com
 0.0.0.0 reporting.adgear.com
 0.0.0.0 reporting.api.kochava.com
@@ -16955,6 +17295,7 @@
 0.0.0.0 reporting.qualtrics.com
 0.0.0.0 reporting.trader.adgear.com
 0.0.0.0 reporting.treasuredata.com
+0.0.0.0 report.mobvista.com
 0.0.0.0 report-partners.appmetrica.webvisor.com
 0.0.0.0 report.pro-market.net
 0.0.0.0 reports.amobee.com
@@ -17055,6 +17396,7 @@
 0.0.0.0 risp.zedo.com
 0.0.0.0 ritani.evergage.com
 0.0.0.0 ritsaunders360.qualtrics.com
+0.0.0.0 ritzykey.com
 0.0.0.0 ritzysponge.com
 0.0.0.0 riu-check.de.intellitxt.com
 0.0.0.0 riverailj.rtb.adx1.com
@@ -17108,6 +17450,7 @@
 0.0.0.0 root.hb.adx1.com
 0.0.0.0 root.newshuntads.com
 0.0.0.0 root.xml.auxml.com
+0.0.0.0 rosenberg.appmetrica.webvisor.com
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 rosselgroup.sdk.beemray.com
 0.0.0.0 rossijane.mirtesen.ru
@@ -17203,6 +17546,7 @@
 0.0.0.0 rtbcc.fyber.com
 0.0.0.0 rtbcdn.andbeyond.media
 0.0.0.0 rtb-central1.p.veruta.com
+0.0.0.0 rtb.connatix.com
 0.0.0.0 rtb-csync-blackhole.smartadserver.com
 0.0.0.0 rtbc-waardex.rtb.adx1.com
 0.0.0.0 rtbdb05.tubemogul.com
@@ -17233,8 +17577,8 @@
 0.0.0.0 rtb-lb-event-us-east-1a-tm.everesttech.net
 0.0.0.0 rtb-lb-event-us-west.tubemogul.com
 0.0.0.0 rtb-lb-us-east.tubemogul.com
-0.0.0.0 rtb-lb-us-west.tubemogul.com
 0.0.0.0 rtb-lb.us-west.tubemogul.com
+0.0.0.0 rtb-lb-us-west.tubemogul.com
 0.0.0.0 rtb-lc.openx.net
 0.0.0.0 rtb-liverail.geodns.tubemogul.com
 0.0.0.0 rtb-liverail-lb-us-east.tubemogul.com
@@ -17243,6 +17587,7 @@
 0.0.0.0 rtb.mediago.io
 0.0.0.0 rtb.msas.media.net
 0.0.0.0 rtbnowads.com
+0.0.0.0 rtb.nyc1.adport.io
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtbpassback.andbeyond.media
 0.0.0.0 rtb.pclick.yahoo.com
@@ -17325,6 +17670,7 @@
 0.0.0.0 rundeck.dynamicyield.com
 0.0.0.0 rundeck.outbrain.com
 0.0.0.0 rund-um-spanien.de.intellitxt.com
+0.0.0.0 runinsight01.webtrekk.net
 0.0.0.0 runlikea.pro
 0.0.0.0 runnersworld.de.intellitxt.com
 0.0.0.0 russian-president.mirtesen.ru
@@ -17356,6 +17702,7 @@
 0.0.0.0 s110.cnzz.com
 0.0.0.0 s111.cnzz.com
 0.0.0.0 s114.cnzz.com
+0.0.0.0 s1152vkuho.kameleoon.eu
 0.0.0.0 s115.cnzz.com
 0.0.0.0 s116.cnzz.com
 0.0.0.0 s117.cnzz.com
@@ -17386,6 +17733,7 @@
 0.0.0.0 s15.cnzz.com
 0.0.0.0 s16.cnzz.com
 0.0.0.0 s175.cnzz.com
+0.0.0.0 s17.cnzz.com
 0.0.0.0 s17tv.voluumtrk.com
 0.0.0.0 s1885539667.t.eloqua.com
 0.0.0.0 s18.cnzz.com
@@ -17616,9 +17964,11 @@
 0.0.0.0 saxion.eu.qualtrics.com
 0.0.0.0 saxp.zedo.com
 0.0.0.0 saysidewalk.com
+0.0.0.0 sb2.aa.online-metrix.net
 0.0.0.0 sb44a.voluumtrk.com
 0.0.0.0 sb6.scorecardresearch.com
 0.0.0.0 sb8ra.voluumtrk.com
+0.0.0.0 sbisb-co-kr.b.appier.net
 0.0.0.0 sbnationbidder-d.openx.net
 0.0.0.0 sb.polarmobile.com
 0.0.0.0 sbsaustralia.d1.sc.omtrdc.net
@@ -17857,6 +18207,7 @@
 0.0.0.0 sejs.moatads.comsejs.moatads.com
 0.0.0.0 se-kanal5.videoplaza.tv
 0.0.0.0 sekindo-d.openx.net
+0.0.0.0 sekretwomen.mirtesen.ru
 0.0.0.0 select.brealtime.com
 0.0.0.0 se-leeads.a.videoplaza.tv
 0.0.0.0 se-leeads.cdn.videoplaza.tv
@@ -17921,6 +18272,7 @@
 0.0.0.0 service.cdn.videoplaza.tv
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.fyber.com
+0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.liveperson.net
 0.0.0.0 service.llnw.videoplaza.tv
 0.0.0.0 servicer.adskeeper.co.uk
@@ -17931,6 +18283,7 @@
 0.0.0.0 services.chartboost.com
 0.0.0.0 services.sokrati.com
 0.0.0.0 servicesv2.sokrati.com
+0.0.0.0 services.vertamedia.com
 0.0.0.0 services.videoplaza.tv
 0.0.0.0 service.videoplaza.tv
 0.0.0.0 service.vp.videoplaza.tv
@@ -17946,6 +18299,7 @@
 0.0.0.0 se-stardoll.videoplaza.tv
 0.0.0.0 se-svd.a.videoplaza.tv
 0.0.0.0 se-svd.cdn.videoplaza.tv
+0.0.0.0 se-svd.videoplaza.tv
 0.0.0.0 se.themoneytizer.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings-analytics.hotstar.com
@@ -18100,6 +18454,7 @@
 0.0.0.0 shtau.voluumtrk.com
 0.0.0.0 shubh.offerstrack.net
 0.0.0.0 shueisha1.sc.omtrdc.net
+0.0.0.0 shutterfly.btttag.com
 0.0.0.0 shutterstock.7eer.net
 0.0.0.0 shutterstock.inq.com
 0.0.0.0 shutter.unbounce.com
@@ -18197,6 +18552,7 @@
 0.0.0.0 s.jpush.cn
 0.0.0.0 sjrca02.marketo.com
 0.0.0.0 sjrca03.marketo.com
+0.0.0.0 sjrca04.marketo.com
 0.0.0.0 sjrca05.marketo.com
 0.0.0.0 sjrca06.marketo.com
 0.0.0.0 sjrca07.marketo.com
@@ -18212,6 +18568,7 @@
 0.0.0.0 sjrtp5.marketo.com
 0.0.0.0 sjrtp6-cdn.marketo.com
 0.0.0.0 sjrtp6.marketo.com
+0.0.0.0 sjrtp7.marketo.com
 0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sjrtp-cdn.marketo.com
@@ -18249,6 +18606,7 @@
 0.0.0.0 sl14.clicktale.net
 0.0.0.0 sl15.clicktale.net
 0.0.0.0 sl16.clicktale.net
+0.0.0.0 sl17.clicktale.net
 0.0.0.0 sl19.clicktale.net
 0.0.0.0 sl1.clicktale.net
 0.0.0.0 sl20.clicktale.net
@@ -18258,6 +18616,8 @@
 0.0.0.0 sl5.clicktale.net
 0.0.0.0 sl9.clicktale.net
 0.0.0.0 slack.co1.qualtrics.com
+0.0.0.0 sladfs01.clicktale.net
+0.0.0.0 slagg01.clicktale.net
 0.0.0.0 slagg02.clicktale.net
 0.0.0.0 slate-ad-scripts.s3.amazonaws.com
 0.0.0.0 slate-d.openx.net
@@ -18298,6 +18658,7 @@
 0.0.0.0 smartadserver.com
 0.0.0.0 smart.arrowlauncher.com
 0.0.0.0 smartb.tubeadvertising.eu
+0.0.0.0 smartclick.net
 0.0.0.0 smartdigital.evergage.com
 0.0.0.0 smart.dynamicyield.com
 0.0.0.0 smart.exelator.com
@@ -18328,6 +18689,7 @@
 0.0.0.0 smi2.ru
 0.0.0.0 smi2ru.ivan.dev.smi2.net
 0.0.0.0 smile.7eer.net
+0.0.0.0 smilingsock.com
 0.0.0.0 s.moatads.com
 0.0.0.0 s.mobile-global.baidu.com
 0.0.0.0 smoke.7eer.net
@@ -18382,6 +18744,7 @@
 0.0.0.0 socialset.mirtesen.ru
 0.0.0.0 socialsharing-prod.vidible.tv
 0.0.0.0 socialsharing-stage.vidible.tv
+0.0.0.0 social.sokrati.com
 0.0.0.0 social-stage.vidible.tv
 0.0.0.0 socialworkcolumbia.co1.qualtrics.com
 0.0.0.0 society6.btttag.com
@@ -18405,6 +18768,7 @@
 0.0.0.0 soledadmedia-d.openx.net
 0.0.0.0 solegrode.widget.criteo.com
 0.0.0.0 solida.evergage.com
+0.0.0.0 solocpm.com
 0.0.0.0 solutionreach.evergage.com
 0.0.0.0 solutions.kochava.com
 0.0.0.0 solutions.marketo.com
@@ -18413,6 +18777,7 @@
 0.0.0.0 soma-assets.smaato.net
 0.0.0.0 soma-emea.smaato.net
 0.0.0.0 soma-eu-west-1.smaato.net
+0.0.0.0 soma.qualtrics.com
 0.0.0.0 soma.smaato.com
 0.0.0.0 soma.smaato.net
 0.0.0.0 soma-us-east-1.smaato.net
@@ -18460,6 +18825,7 @@
 0.0.0.0 sparksresearch.co1.qualtrics.com
 0.0.0.0 sparmit01.webtrekk.net
 0.0.0.0 spartan.contentabc.com
+0.0.0.0 spartan.contentdef.com
 0.0.0.0 spartanrace.7eer.net
 0.0.0.0 speaktraff.com
 0.0.0.0 special-promotions.online
@@ -18512,6 +18878,7 @@
 0.0.0.0 springclick-ads.s3.amazonaws.com
 0.0.0.0 springer02.webtrekk.net
 0.0.0.0 springergmbh01.webtrekk.net
+0.0.0.0 spring-tns.net
 0.0.0.0 sprint.inq.com
 0.0.0.0 sprintnss.inq.com
 0.0.0.0 sprintnss.touchcommerce.com
@@ -18528,6 +18895,7 @@
 0.0.0.0 spug44000.pubmatic.com
 0.0.0.0 spug55000c.pubmatic.com
 0.0.0.0 spx.smaato.com
+0.0.0.0 spyhunter-download.s3.amazonaws.com
 0.0.0.0 sqch2.voluumtrk.com
 0.0.0.0 sql1.brandreachsys.com
 0.0.0.0 sql2.brandreachsys.com
@@ -18573,6 +18941,7 @@
 0.0.0.0 srv-2014-07-03-00.config.parsely.com
 0.0.0.0 srv-2014-07-05-20.config.parsely.com
 0.0.0.0 srv-2014-07-06-10.config.parsely.com
+0.0.0.0 srv-2014-07-06-20.config.parsely.com
 0.0.0.0 srv-2014-07-07-00.config.parsely.com
 0.0.0.0 srv-2014-07-07-10.config.parsely.com
 0.0.0.0 srv-2014-07-08-00.config.parsely.com
@@ -18623,6 +18992,7 @@
 0.0.0.0 srv-2014-08-13-00.config.parsely.com
 0.0.0.0 srv-2014-08-14-10.config.parsely.com
 0.0.0.0 srv-2014-08-15-00.config.parsely.com
+0.0.0.0 srv-2014-08-16-00.config.parsely.com
 0.0.0.0 srv-2014-08-17-10.config.parsely.com
 0.0.0.0 srv-2014-08-18-20.config.parsely.com
 0.0.0.0 srv-2014-08-19-10.config.parsely.com
@@ -18752,6 +19122,7 @@
 0.0.0.0 srv-2016-06-09-10.config.parsely.com
 0.0.0.0 srv-2016-06-10-01.config.parsely.com
 0.0.0.0 srv-2016-06-10-20.config.parsely.com
+0.0.0.0 srv-2016-06-11-00.config.parsely.com
 0.0.0.0 srv-2016-06-11-10.config.parsely.com
 0.0.0.0 srv-2016-06-11-20.config.parsely.com
 0.0.0.0 srv-2016-06-12-00.config.parsely.com
@@ -18765,6 +19136,7 @@
 0.0.0.0 srv-2016-06-22-20.config.parsely.com
 0.0.0.0 srv-2016-06-23-00.config.parsely.com
 0.0.0.0 srv-2016-06-23-10.config.parsely.com
+0.0.0.0 srv-2016-06-24-20.config.parsely.com
 0.0.0.0 srv-2016-06-25-00.config.parsely.com
 0.0.0.0 srv-2016-06-25-10.config.parsely.com
 0.0.0.0 srv-2016-06-25-20.config.parsely.com
@@ -18872,6 +19244,7 @@
 0.0.0.0 srv-2018-01-10-10.config.parsely.com
 0.0.0.0 srv-2018-01-10-20.config.parsely.com
 0.0.0.0 srv-2018-01-11-00.config.parsely.com
+0.0.0.0 srv-2018-01-11-01.config.parsely.com
 0.0.0.0 srv-2018-01-11-10.config.parsely.com
 0.0.0.0 srv-2018-01-11-20.config.parsely.com
 0.0.0.0 srv-2018-01-12-10.config.parsely.com
@@ -18885,6 +19258,7 @@
 0.0.0.0 srv-2018-01-16-10.config.parsely.com
 0.0.0.0 srv-2018-01-16-16.config.parsely.com
 0.0.0.0 srv-2018-01-16-20.config.parsely.com
+0.0.0.0 srv-2018-01-17-00.config.parsely.com
 0.0.0.0 srv-2018-01-17-07.config.parsely.com
 0.0.0.0 srv-2018-01-17-07.pixel.parsely.com
 0.0.0.0 srv-2018-01-17-10.config.parsely.com
@@ -18941,10 +19315,12 @@
 0.0.0.0 srv-2018-01-20-06.config.parsely.com
 0.0.0.0 srv-2018-01-20-06.pixel.parsely.com
 0.0.0.0 srv-2018-01-20-07.pixel.parsely.com
+0.0.0.0 srv-2018-01-20-08.config.parsely.com
 0.0.0.0 srv-2018-01-20-08.pixel.parsely.com
 0.0.0.0 srv-2018-01-25-08.config.parsely.com
 0.0.0.0 srv-2018-01-25-08.pixel.parsely.com
 0.0.0.0 srv-2018-01-27-04.config.parsely.com
+0.0.0.0 srv-2018-01-28-19.pixel.parsely.com
 0.0.0.0 srv-2018-01-29-13.pixel.parsely.com
 0.0.0.0 srv-2018-02-11-05.config.parsely.com
 0.0.0.0 srv-2018-02-11-05.pixel.parsely.com
@@ -19048,6 +19424,7 @@
 0.0.0.0 ssl-xsp6-east.smrtb.com
 0.0.0.0 ssl-xsp7-east.smrtb.com
 0.0.0.0 ssl-xsp8-east.smrtb.com
+0.0.0.0 ssmhealth.co1.qualtrics.com
 0.0.0.0 ss.moatads.com
 0.0.0.0 sso.clickability.com
 0.0.0.0 sso.default.console.ws.adacts.com
@@ -19120,8 +19497,10 @@
 0.0.0.0 starwood.pxf.io
 0.0.0.0 stash.api.kochava.com
 0.0.0.0 stash-invest.pxf.io
+0.0.0.0 stash.revcontent.com
 0.0.0.0 stas.outbrain.com
 0.0.0.0 statcounter.com
+0.0.0.0 stat.dc.oppomobile.com
 0.0.0.0 statf.dc.oppomobile.com
 0.0.0.0 stat.gamedl.qq.com
 0.0.0.0 stat.hasmobi.net
@@ -19133,6 +19512,7 @@
 0.0.0.0 static.2mdnsys.com
 0.0.0.0 static2.mopub.com
 0.0.0.0 static2.outbrain.com
+0.0.0.0 static2.smi2.net
 0.0.0.0 static2-src.adxxx.com
 0.0.0.0 static3.smi2.net
 0.0.0.0 static4.smi2.net
@@ -19167,6 +19547,7 @@
 0.0.0.0 static.criteo.com
 0.0.0.0 static.crowdynews.com
 0.0.0.0 staticdemo.criteo.com
+0.0.0.0 static-direct.kameleoon.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static-euw1.dynamicyield.com
 0.0.0.0 static.exdynsrv.com
@@ -19230,8 +19611,8 @@
 0.0.0.0 statistics.006.free-counters.co.uk
 0.0.0.0 statistics.008.free-counters.co.uk
 0.0.0.0 statisticsapi.prod.vidible.tv
-0.0.0.0 statisticsapi-stage.vidible.tv
 0.0.0.0 statisticsapi.stage.vidible.tv
+0.0.0.0 statisticsapi-stage.vidible.tv
 0.0.0.0 statisticsapi.vidible.tv
 0.0.0.0 stat.media
 0.0.0.0 stat.moneycontrol.co.in
@@ -19242,6 +19623,7 @@
 0.0.0.0 stats1.stickyadstv.com
 0.0.0.0 stats20.stickyadstv.com
 0.0.0.0 stats.2mdnsys.com
+0.0.0.0 stats2.toolur.com
 0.0.0.0 stats30.stickyadstv.com
 0.0.0.0 stats31.stickyadstv.com
 0.0.0.0 stats32.stickyadstv.com
@@ -19373,6 +19755,7 @@
 0.0.0.0 stickyadstv.com
 0.0.0.0 stil.mirtesen.ru
 0.0.0.0 stingersbx.beeswax.com
+0.0.0.0 stir.az1.qualtrics.com
 0.0.0.0 stjosephscreditu.ca.102.112.2o7.net
 0.0.0.0 stjude.co1.qualtrics.com
 0.0.0.0 stmediagroup-d.openx.net
@@ -19407,6 +19790,7 @@
 0.0.0.0 strategyanalytics.com
 0.0.0.0 streamamp-d.openx.net
 0.0.0.0 streamguys.adswizz.com
+0.0.0.0 streamguys.deliveryengine.adswizz.com
 0.0.0.0 streaming.adswizz.com
 0.0.0.0 streamlyn-d.openx.net
 0.0.0.0 streamon.deliveryengine.adswizz.com
@@ -19467,6 +19851,7 @@
 0.0.0.0 sundaysky-sync-us.teads.tv
 0.0.0.0 sunlifeassurance.demdex.net
 0.0.0.0 sunmag.mirtesen.ru
+0.0.0.0 sun.onthe.io
 0.0.0.0 suntimes-d.openx.net
 0.0.0.0 suntrustbanksinc.demdex.net
 0.0.0.0 sunzysolar.7eer.net
@@ -19579,6 +19964,7 @@
 0.0.0.0 synccdn.atomex.net
 0.0.0.0 sync.cmedia.s3.amazonaws.com
 0.0.0.0 sync.connectad.io
+0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync.esl.adswizz.com
 0.0.0.0 sync.extend.tv
 0.0.0.0 sync.go.sonobi.com
@@ -19609,6 +19995,7 @@
 0.0.0.0 syndication-adblock.exoclick.com
 0.0.0.0 syndication.contentabc.com
 0.0.0.0 syndication.dynsrvtyu.com
+0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.impactradius.com
 0.0.0.0 syndication-p.exoclick.com
 0.0.0.0 syndication.site.yahoo.net
@@ -19697,6 +20084,7 @@
 0.0.0.0 tags.growingio.com
 0.0.0.0 tag-sjo.1rx.io
 0.0.0.0 tags.marinsm.com
+0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tag.sp.advertising.com
 0.0.0.0 tags.sokrati.com
@@ -19772,6 +20160,7 @@
 0.0.0.0 tauntonpress.evergage.com
 0.0.0.0 taurusking.adkmob.com
 0.0.0.0 taxbrain.ojrq.net
+0.0.0.0 taxcarechmurafaktur.pxf.io
 0.0.0.0 tax-care.pxf.io
 0.0.0.0 taxi-heute.de.intellitxt.com
 0.0.0.0 taxslayerllc.demdex.net
@@ -19789,6 +20178,7 @@
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 tchibo01.webtrekk.net
 0.0.0.0 tchibo02.webtrekk.net
+0.0.0.0 tchibo03.webtrekk.net
 0.0.0.0 tchibo04.webtrekk.net
 0.0.0.0 tchibo05.webtrekk.net
 0.0.0.0 tchibo06.webtrekk.net
@@ -19802,7 +20192,9 @@
 0.0.0.0 tcnj.qualtrics.com
 0.0.0.0 tc.pixel-us-east.skimresources.com
 0.0.0.0 tcr111.tynt.com
+0.0.0.0 tc.touchcommerce.com
 0.0.0.0 td2.crwdcntrl.net
+0.0.0.0 td.adswizz.com
 0.0.0.0 tdameritrade.demdex.net
 0.0.0.0 tdbank.d1.sc.omtrdc.net
 0.0.0.0 tdc.d3.sc.omtrdc.net
@@ -19813,6 +20205,7 @@
 0.0.0.0 tdebigstock.7eer.net
 0.0.0.0 t-dgm-au-com.customtraffic.impactradius.com
 0.0.0.0 td.lenzmx.com
+0.0.0.0 t.dlx.addthis.com
 0.0.0.0 t.dtscout.com
 0.0.0.0 td-website.treasuredata.com
 0.0.0.0 tdzvm.pw
@@ -19831,6 +20224,7 @@
 0.0.0.0 tech909.g2afse.com
 0.0.0.0 tech.adroll.com
 0.0.0.0 techblog.appnexus.com
+0.0.0.0 techdata.co1.qualtrics.com
 0.0.0.0 tech.de.intellitxt.com
 0.0.0.0 tech.magnetic.com
 0.0.0.0 technologische-hilfe.de.intellitxt.com
@@ -19854,6 +20248,7 @@
 0.0.0.0 tejmamxbljissqqepb8kzhgmauzl31510347111.nuid.imrworldwide.com
 0.0.0.0 telapi.getui.com
 0.0.0.0 tele2se.widget.criteo.com
+0.0.0.0 telecolumbus01.webtrekk.net
 0.0.0.0 telecomitaliamedia01.webtrekk.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 teledynedalsa.actonsoftware.com
@@ -19911,6 +20306,7 @@
 0.0.0.0 test.onclickads.net
 0.0.0.0 test.optimonk.com
 0.0.0.0 test_pages.crittercism.com
+0.0.0.0 test-pixmarketing.aralego.com
 0.0.0.0 testqueuer.localytics.com
 0.0.0.0 test-rtb.videoplaza.tv
 0.0.0.0 testrtg.solocpm.com
@@ -20012,6 +20408,7 @@
 0.0.0.0 thirdrcp-hz.getui.com
 0.0.0.0 thisisglobal.adswizz.com
 0.0.0.0 thisisglobal.deliveryengine.adswizz.com
+0.0.0.0 thisisglobaltest.deliveryengine.adswizz.com
 0.0.0.0 thisisplanb3.actonsoftware.com
 0.0.0.0 th-mthai.a.videoplaza.tv
 0.0.0.0 th-mthai.videoplaza.tv
@@ -20075,6 +20472,7 @@
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tkr.yieldmo.com
 0.0.0.0 tl3drc0w7o6e1mcucfpcy9eu98dls1504919102.nuid.imrworldwide.com
+0.0.0.0 tlb.zedo.com
 0.0.0.0 t.leadlander.com
 0.0.0.0 tleadstracking.com
 0.0.0.0 tlog.hiido.com
@@ -20090,6 +20488,7 @@
 0.0.0.0 tmglobal.g2afse.com
 0.0.0.0 tmina.offerstrack.net
 0.0.0.0 tmk-akrma.smartadserver.com
+0.0.0.0 tmk-ecadn.smartadserver.com
 0.0.0.0 tmk-eltiempo.smartadserver.com
 0.0.0.0 tmk-eqx-geoloc.smartadserver.com
 0.0.0.0 tmk-eqx-hzh-geoloc.smartadserver.com
@@ -20111,6 +20510,7 @@
 0.0.0.0 tnmdqhl1mgypwxnjiifabnl1veap51511322141.nuid.imrworldwide.com
 0.0.0.0 tnsdk.spring-tns.net
 0.0.0.0 tnsglobal.com
+0.0.0.0 to.cur.lv
 0.0.0.0 todaymediainc-d.openx.net
 0.0.0.0 toexten.com
 0.0.0.0 toggl.com.re.getclicky.com
@@ -20133,6 +20533,7 @@
 0.0.0.0 tomsshoesinc.demdex.net
 0.0.0.0 tongji.cnzz.com
 0.0.0.0 t-online.de.intellitxt.com
+0.0.0.0 toofaced.7eer.net
 0.0.0.0 toofaced.evyy.net
 0.0.0.0 toolbelt.treasuredata.com
 0.0.0.0 tool.justshopping.xyz
@@ -20182,6 +20583,7 @@
 0.0.0.0 tprappin1.netcoresmartech.com
 0.0.0.0 tps10241.doubleverify.com
 0.0.0.0 tpsjk.voluumtrk.com
+0.0.0.0 tpt.dotomi.com
 0.0.0.0 t.pubmatic.com
 0.0.0.0 tqeo9.voluumtrk.com
 0.0.0.0 tqneei.mirtesen.ru
@@ -20267,6 +20669,7 @@
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.trafficjunky.net
 0.0.0.0 tracking.vcommission.com
+0.0.0.0 tracking.xapads.com
 0.0.0.0 tracking.yohoads.com
 0.0.0.0 tracking.zeotap.com
 0.0.0.0 track.in.omgpm.com
@@ -20288,6 +20691,7 @@
 0.0.0.0 track.secured-chbrowser.com
 0.0.0.0 tracks.gourdmobi.com
 0.0.0.0 track.special-offers.online
+0.0.0.0 track.starmakerstudios.com
 0.0.0.0 tracksummer.com
 0.0.0.0 track.superads.cn
 0.0.0.0 track.supersonicads.com
@@ -20408,6 +20812,7 @@
 0.0.0.0 tr.lga.contextweb.com
 0.0.0.0 tr-mynet2.videoplaza.tv
 0.0.0.0 tr-mynet.cdn.videoplaza.tv
+0.0.0.0 tr-mynet.videoplaza.tv
 0.0.0.0 tr.outbrain.com
 0.0.0.0 trowepriceassociatesinc.demdex.net
 0.0.0.0 trox.actonsoftware.com
@@ -20432,6 +20837,7 @@
 0.0.0.0 try.getsocial.io
 0.0.0.0 try-go.districtm.net
 0.0.0.0 trygvesta.d1.sc.omtrdc.net
+0.0.0.0 trygvesta.demdex.net
 0.0.0.0 try.qualaroo.com
 0.0.0.0 try.treasuredata.com
 0.0.0.0 tryzapier.unbounce.com
@@ -20467,6 +20873,7 @@
 0.0.0.0 tubeadvertising.eu
 0.0.0.0 tubemogul.com
 0.0.0.0 tuck.qualtrics.com
+0.0.0.0 tucson-forum.de.intellitxt.com
 0.0.0.0 tuft-and-needle.7eer.net
 0.0.0.0 tufts.qualtrics.com
 0.0.0.0 tugae2.com
@@ -20479,8 +20886,8 @@
 0.0.0.0 t.unbounce.com
 0.0.0.0 tuneclubde.widget.criteo.com
 0.0.0.0 tunein.adswizz.com
-0.0.0.0 tunein-d.openx.net
 0.0.0.0 tune-in-d.openx.net
+0.0.0.0 tunein-d.openx.net
 0.0.0.0 tuningblog-de.intellitxt.com
 0.0.0.0 tuning.de.intellitxt.com
 0.0.0.0 tunion-api.m.taobao.com
@@ -20503,6 +20910,7 @@
 0.0.0.0 tvsmiles.g2afse.com
 0.0.0.0 tvx.adgrx.com
 0.0.0.0 tw2.adserver.yahoo.com
+0.0.0.0 twa3.netcoresmartech.com
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 tw.c.appier.net
 0.0.0.0 tweakpc.de.intellitxt.com
@@ -20516,6 +20924,7 @@
 0.0.0.0 twobstores.7eer.net
 0.0.0.0 two-ply-dev.gw.localytics.com
 0.0.0.0 twt01.webtrekk.net
+0.0.0.0 tw-tags.vizury.com
 0.0.0.0 tx.news-subscribe.com
 0.0.0.0 txn.ingest.eu.crittercism.com
 0.0.0.0 txn-report.crittercism.com
@@ -20716,6 +21125,7 @@
 0.0.0.0 ultradentproductsinc.demdex.net
 0.0.0.0 ultraoffer.offerstrack.net
 0.0.0.0 ultraoranges.com
+0.0.0.0 uluhonolulu.evergage.com
 0.0.0.0 umassamherst.co1.qualtrics.com
 0.0.0.0 umasspsych.co1.qualtrics.com
 0.0.0.0 umbc.co1.qualtrics.com
@@ -20917,6 +21327,7 @@
 0.0.0.0 usllpic0-3a2702232af2acaf44744bd93a3a09e478996a25-am1.d.aa.online-metrix.net
 0.0.0.0 usllpic0-3b0e8c59a8eb04cb8527b3895ad46051db51aeb1-am1.d.aa.online-metrix.net
 0.0.0.0 usllpic0-3e2ca6537163930ac07a1e6f83901fda1ce9b0b9-am1.d.aa.online-metrix.net
+0.0.0.0 usllpic0-3ebafb35d6edd3aefae9e9540c79c7965c22ba8d-am1.d.aa.online-metrix.net
 0.0.0.0 usllpic0-4224f81ca7d5c4831dd2b8f3bc0e191e45c5a531-am1.d.aa.online-metrix.net
 0.0.0.0 usllpic0-4504be432bb0ff58287e138a51eb60d7b05dad60-sac.d.aa.online-metrix.net
 0.0.0.0 usllpic0-45ccd6ec5186b99800dcd1bff99fde4acba35d06-am1.d.aa.online-metrix.net
@@ -20982,6 +21393,7 @@
 0.0.0.0 us-pulpomedia.videoplaza.tv
 0.0.0.0 us.qualtrics.com
 0.0.0.0 usrimgak.mmtcdn.com
+0.0.0.0 usrtb-i.performancecentral.mobi
 0.0.0.0 us-runnerspace.videoplaza.tv
 0.0.0.0 ussco13.actonsoftware.com
 0.0.0.0 ussco23.actonsoftware.com
@@ -21060,6 +21472,7 @@
 0.0.0.0 ux0joe7rqohujdss1dnsevcu8qgnu1516693620.nuid.imrworldwide.com
 0.0.0.0 ux.adroll.com
 0.0.0.0 uxjikma5buchjisvkvnmz8yovuzrn1516427342.nuid.imrworldwide.com
+0.0.0.0 uy0qjptruifjwmaavfjspdpq6l5r51508678031.nuid.imrworldwide.com
 0.0.0.0 uy-gmtdmp.mookie1.com
 0.0.0.0 uygya.voluumtrk.com
 0.0.0.0 uy.news-subscribe.com
@@ -21190,6 +21603,7 @@
 0.0.0.0 vast-f3-de.adhigh.net
 0.0.0.0 vast-f4-de.adhigh.net
 0.0.0.0 vast-f51-de-tmp.adhigh.net
+0.0.0.0 vast-f7-de.adhigh.net
 0.0.0.0 vast-f9-de.adhigh.net
 0.0.0.0 vast-hm-bean.adhigh.net
 0.0.0.0 vast-hm-events2.adhigh.net
@@ -21253,6 +21667,7 @@
 0.0.0.0 velasresorts.evergage.com
 0.0.0.0 vemba.com
 0.0.0.0 vemerchantusa.veinteractive.com
+0.0.0.0 vemerchant.veinteractive.com
 0.0.0.0 venetian.evyy.net
 0.0.0.0 venturead.com
 0.0.0.0 ventureburn.za.intellitxt.com
@@ -21276,6 +21691,7 @@
 0.0.0.0 version.api.goforandroid.com
 0.0.0.0 vertamedia.com
 0.0.0.0 vertexinc.co1.qualtrics.com
+0.0.0.0 verticalfusion.g2afse.com
 0.0.0.0 verto.adswizz.com
 0.0.0.0 vertoz.go2affise.com
 0.0.0.0 verumm.g2afse.com
@@ -21349,6 +21765,7 @@
 0.0.0.0 video.tapjoy.com
 0.0.0.0 video-ua.adtelligent.com
 0.0.0.0 vidible.tv
+0.0.0.0 vidilife.crwdcntrl.net
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 vid-rtb.xapads.com
 0.0.0.0 vid.springserve.com
@@ -21397,6 +21814,7 @@
 0.0.0.0 visitor-language.herokuapp.com
 0.0.0.0 visitor-service-ap-northeast-1.tealiumiq.com
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
+0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visitor-service-us-east-1.tealiumiq.com
 0.0.0.0 visitor-service-us-west-1.tealiumiq.com
 0.0.0.0 visit.urbanairship.com
@@ -21467,6 +21885,7 @@
 0.0.0.0 voyagermedianetwork-d.openx.net
 0.0.0.0 vp2-www.addthis.com
 0.0.0.0 vpaid2.adsafeprotected.com
+0.0.0.0 vpaid3.adsafeprotected.com
 0.0.0.0 vpaid.adsafeprotected.com
 0.0.0.0 vpaidevents.1rx.io
 0.0.0.0 vpaid.pubmatic.com
@@ -21779,6 +22198,7 @@
 0.0.0.0 wkctdgnxdic23pgfawbhg1m8ime1z1516679341.nuid.imrworldwide.com
 0.0.0.0 wkfaj.voluumtrk.com
 0.0.0.0 wkm-d.openx.net
+0.0.0.0 wku.qualtrics.com
 0.0.0.0 wkwsci.co1.qualtrics.com
 0.0.0.0 wldcu.com.102.112.2o7.net
 0.0.0.0 wlggoretest12.112.2o7.net
@@ -21928,6 +22348,7 @@
 0.0.0.0 ww2060-itx4.smartadserver.com
 0.0.0.0 ww2313.smartadserver.com
 0.0.0.0 ww2451.smartadserver.com
+0.0.0.0 ww2468.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww2609.smartadserver.com
 0.0.0.0 ww264.smartadserver.com
@@ -21943,6 +22364,7 @@
 0.0.0.0 ww362-eqx.smartadserver.com
 0.0.0.0 ww362-itx4.smartadserver.com
 0.0.0.0 ww362-itx5.smartadserver.com
+0.0.0.0 ww362.smartadserver.com
 0.0.0.0 ww381.smartadserver.com
 0.0.0.0 ww38.smartadserver.com
 0.0.0.0 ww400.smartadserver.com
@@ -22053,6 +22475,7 @@
 0.0.0.0 www.adgrx.com
 0.0.0.0 www.adhigh.net
 0.0.0.0 www.adiode.com
+0.0.0.0 www.adkmob.com
 0.0.0.0 www.adleadevent.com
 0.0.0.0 www.adlegend.com
 0.0.0.0 www.adlooxtracking.com
@@ -22065,6 +22488,7 @@
 0.0.0.0 www.adoric-om.com
 0.0.0.0 www.adport.io
 0.0.0.0 www.adpublisher.s3.amazonaws.com
+0.0.0.0 www.adpxl.co
 0.0.0.0 www.adreactor.com
 0.0.0.0 www.adrecover.com
 0.0.0.0 www.adroll.com
@@ -22228,6 +22652,7 @@
 0.0.0.0 www.cnn.law.printthis.clickability.com
 0.0.0.0 www.cobalten.com
 0.0.0.0 www.coin-hive.com
+0.0.0.0 www.colombiaonline.com
 0.0.0.0 www.comsss-56.com
 0.0.0.0 www.concert.io
 0.0.0.0 www.condenast.com
@@ -22311,6 +22736,7 @@
 0.0.0.0 www.flare.pk
 0.0.0.0 www.flurry.com
 0.0.0.0 www.fnkyyrgraizy.com
+0.0.0.0 www.fqtag.com
 0.0.0.0 www.freedomrewardz.com
 0.0.0.0 www.freegeoip.io
 0.0.0.0 www.f.switchadhub.com
@@ -22360,6 +22786,7 @@
 0.0.0.0 www.images.b.switchadhub.com
 0.0.0.0 www.images.switchadhub.com
 0.0.0.0 www.imgurads.com
+0.0.0.0 www.impactradius.com
 0.0.0.0 www.impactradius-event.com
 0.0.0.0 www.impactradius-tag.com
 0.0.0.0 www.inclk.com
@@ -22415,6 +22842,7 @@
 0.0.0.0 www.lpsnmedia.net
 0.0.0.0 www.m73lae5cpmgrv38.com
 0.0.0.0 www.magnetic.com
+0.0.0.0 www.malealous.com
 0.0.0.0 www.marfeel.com
 0.0.0.0 www.marinsm.com
 0.0.0.0 www.marketingkaizen.s3-eu-west-1.amazonaws.com
@@ -22580,6 +23008,7 @@
 0.0.0.0 www.skimresources.com
 0.0.0.0 www.slate-ad-scripts.s3.amazonaws.com
 0.0.0.0 www.smartadserver.com
+0.0.0.0 www.smartclick.net
 0.0.0.0 www.sm-campaign.s3-us-west-2.amazonaws.com
 0.0.0.0 www.smi2.ru
 0.0.0.0 www.smrtb.com
@@ -22588,6 +23017,7 @@
 0.0.0.0 www.snoobi.fi
 0.0.0.0 www.socialnewpages.com
 0.0.0.0 www.sokrati.com
+0.0.0.0 www.solocpm.com
 0.0.0.0 www.s-onetag.com
 0.0.0.0 www.sonobi.com
 0.0.0.0 www.spark-displayads-creatives-prod.s3.amazonaws.com
@@ -22596,6 +23026,7 @@
 0.0.0.0 www.speedtest.com
 0.0.0.0 www.speedvid.net
 0.0.0.0 www.springclick-ads.s3.amazonaws.com
+0.0.0.0 www.spyhunter-download.s3.amazonaws.com
 0.0.0.0 www.ssl4anyone5.com
 0.0.0.0 www.sso.clickability.com
 0.0.0.0 www.sspintrafmsmt.com
@@ -22780,6 +23211,7 @@
 0.0.0.0 xfuf6gzz6vhzlf8iazu5gacqq8mnw1511326060.nuid.imrworldwide.com
 0.0.0.0 x.g.l.inmobicdn.net
 0.0.0.0 xhbpwn.mirtesen.ru
+0.0.0.0 xh.news-subscribe.com
 0.0.0.0 xiti.com
 0.0.0.0 xjckz.voluumtrk.com
 0.0.0.0 xjp511xjbae.proxy.teads.tv
@@ -22802,6 +23234,7 @@
 0.0.0.0 xml.popmonetizer.net
 0.0.0.0 xml.revrtb.com
 0.0.0.0 xml.revrtb.net
+0.0.0.0 xml-rtb.xapads.com
 0.0.0.0 xml.xap-clicks.com
 0.0.0.0 xml.zeusadx.com
 0.0.0.0 x.moatads.com
@@ -22866,6 +23299,7 @@
 0.0.0.0 y6jn8c31-d81ed134bf4fd8f3482363f9d02f94db82647b30-sac.d.aa.online-metrix.net
 0.0.0.0 y6jn8c31-e39066b96421b7c7fff7bdee8530eed3bf96740d-am1.d.aa.online-metrix.net
 0.0.0.0 y6jn8c31-eadb2bc913f23bc302bf55d083ad5242fceaca55-sac.d.aa.online-metrix.net
+0.0.0.0 y7.news-subscribe.com
 0.0.0.0 y8dx.tlnk.io
 0.0.0.0 y96mjq5nfiv.proxy.teads.tv
 0.0.0.0 y9pm7mji4rijb9qkk8mylu4poyicv1508223641.nuid.imrworldwide.com
@@ -22966,6 +23400,7 @@
 0.0.0.0 yul-delivery-4.sys.adgear.com
 0.0.0.0 yum.kissmetrics.com
 0.0.0.0 yumore.g2afse.com
+0.0.0.0 yumore.offerstrack.net
 0.0.0.0 yuriyudaev.mirtesen.ru
 0.0.0.0 yusp.com
 0.0.0.0 yuwvkeaje1zksz2j9x4zsmmgfev9q1510351550.nuid.imrworldwide.com
@@ -23069,6 +23504,7 @@
 0.0.0.0 zalando-fr01.webtrekk.net
 0.0.0.0 zalando-it01.webtrekk.net
 0.0.0.0 zalando-nl01.webtrekk.net
+0.0.0.0 zalando-pl01.webtrekk.net
 0.0.0.0 zalando-se01.webtrekk.net
 0.0.0.0 zalora.evergage.com
 0.0.0.0 zalorathailand.evergage.com
@@ -23181,6 +23617,7 @@
 0.0.0.0 z-na.amazon-adsystems.com
 0.0.0.0 znbsgdeu4idqsr8db-mit.siteintercept.qualtrics.com
 0.0.0.0 zncjjp1slkqzbplft-uber.siteintercept.qualtrics.com
+0.0.0.0 znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com
 0.0.0.0 znj35.voluumtrk.com
 0.0.0.0 zodiak-d.openx.net
 0.0.0.0 zoohannover01.webtrekk.net
@@ -23223,6 +23660,7 @@
 0.0.0.0 zzm34y09-60d530789d46127fd64c5bd992b7bd76196bd540-am1.d.aa.online-metrix.net
 0.0.0.0 zzm34y09-695462b647b5efcd1954c376f1dcb9e40432f08b-am1.d.aa.online-metrix.net
 0.0.0.0 zzm34y09-6a8f942a46ed38d92f695857b87f090023a6ba5a-am1.d.aa.online-metrix.net
+0.0.0.0 zzm34y09-6ad61236ed6b7260a2e8103ad680f842d6abd650-am1.d.aa.online-metrix.net
 0.0.0.0 zzm34y09-710bf2f3640a07da463b64aaf428d4730671ad8b-am1.d.aa.online-metrix.net
 0.0.0.0 zzm34y09-72587d812458531cae2a9eb528cd4994cbc7fc6c-am1.d.aa.online-metrix.net
 0.0.0.0 zzm34y09-78617f4b8c55de5e1c38f67da8627a6079a6a5d4-am1.d.aa.online-metrix.net
