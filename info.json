@@ -1,41 +1,19 @@
 {
-    "current_stats": {
-        "builds": 2793,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 31615,
-        "whitelisted.list": 31615
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 1,
     "description": "Host file to block ads, tracking and more! Updated daily",
     "end_datetime": "2020-03-03T16:22:30.155855",
     "end_epoch": 1582587547.279311,
     "issue_link": "https://github.com/anudeepND/blacklist/issues/new",
-    "last_autosave_datetime": "2020-03-03T16:22:30.155876",
-    "last_autosave_epoch": 1583246047.316883,
     "link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
     "name": "anudeepND_blacklist_ad_server",
-    "previous_stats": {
-        "builds": 62,
-        "clean.list": 31897,
-        "counter": {
-            "down": 7561,
-            "invalid": 0,
-            "tested": 39458,
-            "up": 31897
-        },
-        "domains.list": 39458,
-        "ip.list": 0,
-        "volatile.list": 31897,
-        "whitelisted.list": 31897
+    "previous_end_datetime": "2020-01-25T04:19:22.996207",
+    "previous_end_epoch": 1579925962.99621,
+    "previous_start_datetime": "2020-01-25T04:19:22.996196",
+    "previous_start_epoch": 1579925962.996209,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
     "start_datetime": "2020-03-03T16:22:30.160817",
