@@ -1,5 +1,5 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 1,
     "description": "Host file to block ads, tracking and more! Updated daily",
     "end_datetime": "2021-08-28T05:01:58.350635",
@@ -7,14 +7,14 @@
     "issue_link": "https://github.com/anudeepND/blacklist/issues/new",
     "link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
     "name": "anudeepND_blacklist_ad_server",
-    "previous_end_datetime": "2021-08-25T07:18:05.257192",
-    "previous_end_epoch": 1629875885.257192,
-    "previous_start_datetime": "2021-08-23T06:59:13.488353",
-    "previous_start_epoch": 1629701953.488353,
+    "previous_end_datetime": "2021-08-28T05:01:58.350635",
+    "previous_end_epoch": 1630126918.350635,
+    "previous_start_datetime": "2021-08-26T03:41:26.501902",
+    "previous_start_epoch": 1629949286.501902,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
-    "start_datetime": "2021-08-26T03:41:26.501902",
-    "start_epoch": 1629949286.501902
+    "start_datetime": "2021-08-29T01:39:50.728900",
+    "start_epoch": 1630201190.7289
 }
