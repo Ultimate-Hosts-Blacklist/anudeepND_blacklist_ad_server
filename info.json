@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 1,
     "description": "Host file to block ads, tracking and more! Updated daily",
-    "end_datetime": "2021-09-06T05:21:44.606650",
-    "end_epoch": 1630905704.60665,
+    "end_datetime": "2021-09-07T09:30:02.740864",
+    "end_epoch": 1631007002.740864,
     "issue_link": "https://github.com/anudeepND/blacklist/issues/new",
     "link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
     "name": "anudeepND_blacklist_ad_server",
