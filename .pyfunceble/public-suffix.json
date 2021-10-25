@@ -834,7 +834,6 @@
         "statics.cloud",
         "tn.oxa.cloud",
         "trafficplex.cloud",
-        "uk.oxa.cloud",
         "uk.primetel.cloud",
         "uk.reclaim.cloud",
         "urown.cloud",
@@ -1401,6 +1400,7 @@
         "u2-local.xnbay.com",
         "u2.xnbay.com",
         "uk.com",
+        "uk.oxa.cloud",
         "unusualperson.com",
         "us-1.evennode.com",
         "us-2.evennode.com",
@@ -4707,7 +4707,8 @@
     "land": [
         "dev.static.land",
         "sites.static.land",
-        "static.land"
+        "static.land",
+        "uk.oxa.cloud"
     ],
     "lb": [
         "com.lb",
